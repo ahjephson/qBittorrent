@@ -5,84 +5,103 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../gui/aboutdialog.ui" line="15"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="434"/>
         <source>About qBittorrent</source>
         <translation>qBittorrent 정보</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="55"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="435"/>
         <source>About</source>
         <translation>정보</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="87"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="446"/>
         <source>Authors</source>
         <translation>작성자</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="93"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="436"/>
         <source>Current maintainer</source>
         <translation>현재 관리자</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="120"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="439"/>
         <source>Greece</source>
         <translation>그리스</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="113"/>
         <location filename="../gui/aboutdialog.ui" line="183"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="438"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="443"/>
         <source>Nationality:</source>
         <translation>국적:</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="127"/>
         <location filename="../gui/aboutdialog.ui" line="197"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="440"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="445"/>
         <source>E-mail:</source>
         <translation>이메일:</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="99"/>
         <location filename="../gui/aboutdialog.ui" line="169"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="437"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="442"/>
         <source>Name:</source>
         <translation>이름:</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="163"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="441"/>
         <source>Original author</source>
         <translation>원본 작성자</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="190"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="444"/>
         <source>France</source>
         <translation>프랑스</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="247"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="447"/>
         <source>Special Thanks</source>
         <translation>고마운 분들</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="273"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="448"/>
         <source>Translators</source>
         <translation>번역자</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="302"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="449"/>
         <source>License</source>
         <translation>라이선스</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="328"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="452"/>
         <source>Software Used</source>
         <translation>사용된 소프트웨어</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="336"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="450"/>
         <source>qBittorrent was built with the following libraries:</source>
         <translation>qBittorrent는 다음 라이브러리로 만들어졌습니다:</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="356"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="451"/>
         <source>Copy to clipboard</source>
         <translation>클립보드에 복사</translation>
     </message>
@@ -162,71 +181,85 @@
     <name>AddNewTorrentDialog</name>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="113"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="543"/>
         <source>Save at</source>
         <translation>저장 위치</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="565"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="578"/>
         <source>Never show again</source>
         <translation>다시 표시 안함</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="200"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="548"/>
         <source>Set as default category</source>
         <translation>기본 범주로 설정</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="175"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="547"/>
         <source>Category:</source>
         <translation>범주:</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="249"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="555"/>
         <source>Start torrent</source>
         <translation>토렌트 시작</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="378"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="570"/>
         <source>Torrent information</source>
         <translation>토렌트 정보</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="290"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="558"/>
         <source>Skip hash check</source>
         <translation>해시 검사 건너뛰기</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="122"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="544"/>
         <source>Use another path for incomplete torrent</source>
         <translation>불완전한 토렌트에 다른 경로 사용</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="167"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="546"/>
         <source>Torrent options</source>
         <translation>Torrent 옵션</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="209"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="549"/>
         <source>Tags:</source>
         <translation>태그:</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="225"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="550"/>
         <source>Click [...] button to add/remove tags.</source>
         <translation>태그를 추가/제거하려면 [...] 버튼을 클릭합니다.</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="235"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="552"/>
         <source>Add/remove tags</source>
         <translation>태그 추가/제거하기</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="238"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="554"/>
         <source>...</source>
         <translation>…</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="258"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="556"/>
         <source>Stop condition:</source>
         <translation>중지 조건:</translation>
     </message>
@@ -255,111 +288,133 @@
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="283"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="557"/>
         <source>Add to top of queue</source>
         <translation>대기열 맨 위에 추가하기</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="311"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="562"/>
         <source>When checked, the .torrent file will not be deleted regardless of the settings at the &quot;Download&quot; page of the Options dialog</source>
         <translation>이 옵션을 선택하면 옵션 대화 상자의 &quot;다운로드&quot; 페이지 설정에 관계없이 .torrent 파일이 삭제되지 않습니다.</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="325"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="565"/>
         <source>Content layout:</source>
         <translation>내용 배치:</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="336"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="566"/>
         <source>Original</source>
         <translation>원본</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="341"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="567"/>
         <source>Create subfolder</source>
         <translation>하위 폴더 만들기</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="346"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="568"/>
         <source>Don&apos;t create subfolder</source>
         <translation>하위 폴더 만들지 않기</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="404"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="573"/>
         <source>Info hash v1:</source>
         <translation>정보 해시 v1:</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="384"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="571"/>
         <source>Size:</source>
         <translation>크기:</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="432"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="575"/>
         <source>Comment:</source>
         <translation>주석:</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="394"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="572"/>
         <source>Date:</source>
         <translation>날짜:</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="74"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="536"/>
         <source>Torrent Management Mode:</source>
         <translation>토렌트 관리 모드:</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="81"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="541"/>
         <source>Automatic mode means that various torrent properties(eg save path) will be decided by the associated category</source>
         <translation>자동 모드는 다양한 토렌트 속성(예: 저장 경로)이 관련 범주에 의해 결정됩니다</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="85"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="537"/>
         <source>Manual</source>
         <translation>수동</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="90"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="538"/>
         <source>Automatic</source>
         <translation>자동</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="155"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="545"/>
         <source>Remember last used save path</source>
         <translation>마지막으로 사용한 저장 경로 기억</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="314"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="564"/>
         <source>Do not delete .torrent file</source>
         <translation>.torrent 파일 삭제 안 함</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="297"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="559"/>
         <source>Download in sequential order</source>
         <translation>순차적으로 다운로드</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="304"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="560"/>
         <source>Download first and last pieces first</source>
         <translation>처음과 마지막 조각을 먼저 다운로드</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="418"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="574"/>
         <source>Info hash v2:</source>
         <translation>정보 해시 v2:</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="507"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="576"/>
         <source>Select All</source>
         <translation>모두 선택</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="514"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="577"/>
         <source>Select None</source>
         <translation>선택 없음</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="617"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="580"/>
         <source>Save as .torrent file...</source>
         <translation>.torrent 파일로 저장…</translation>
     </message>
@@ -511,86 +566,103 @@
     <name>AddTorrentParamsWidget</name>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="296"/>
         <source>Form</source>
         <translation>형태</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="22"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="297"/>
         <source>Torrent Management Mode:</source>
         <translation>토렌트 관리 모드:</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="29"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="299"/>
         <source>Automatic mode means that various torrent properties(eg save path) will be decided by the associated category</source>
         <translation>자동 모드는 다양한 토렌트 특성(예: 저장 경로)이 관련 범주에 의해 결정됨을 의미합니다</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="51"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="301"/>
         <source>Save at</source>
         <translation>저장 위치</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="62"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="302"/>
         <source>Note: the current defaults are displayed for reference.</source>
         <translation>참고: 참조를 위해 현재 기본값이 표시됩니다.</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="74"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="303"/>
         <source>Use another path for incomplete torrents:</source>
         <translation>불완전한 토렌트에 다른 경로 사용:</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="107"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="304"/>
         <source>Category:</source>
         <translation>범주:</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="147"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="305"/>
         <source>Tags:</source>
         <translation>태그:</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="163"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="306"/>
         <source>Click [...] button to add/remove tags.</source>
         <translation>태그를 추가/제거하려면 [...] 버튼을 클릭합니다.</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="173"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="308"/>
         <source>Add/remove tags</source>
         <translation>태그 추가/제거하기</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="176"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="310"/>
         <source>...</source>
         <translation>…</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="209"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="311"/>
         <source>Start torrent:</source>
         <translation>토렌트 시작:</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="247"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="312"/>
         <source>Content layout:</source>
         <translation>내용 배치:</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="285"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="313"/>
         <source>Stop condition:</source>
         <translation>중지 조건:</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="323"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="314"/>
         <source>Add to top of queue:</source>
         <translation>대기열 맨 위에 추가:</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="346"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="315"/>
         <source>Skip hash check</source>
         <translation>해시 검사 건너뛰기</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="354"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="316"/>
         <source>Torrent share limits</source>
         <translation>토렌트 공유 제한</translation>
     </message>
@@ -1380,23 +1452,28 @@
 <context>
     <name>AppController</name>
     <message>
-        <location filename="../webui/api/appcontroller.cpp" line="1189"/>
-        <location filename="../webui/api/appcontroller.cpp" line="1193"/>
+        <location filename="../webui/api/appcontroller.cpp" line="1197"/>
+        <source>Invalid MIME override data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../webui/api/appcontroller.cpp" line="1237"/>
+        <location filename="../webui/api/appcontroller.cpp" line="1241"/>
         <source>Invalid directory path</source>
         <translation>잘못된 디렉터리 경로</translation>
     </message>
     <message>
-        <location filename="../webui/api/appcontroller.cpp" line="1195"/>
+        <location filename="../webui/api/appcontroller.cpp" line="1243"/>
         <source>Directory does not exist</source>
         <translation>디렉터리 경로가 존재하지 않음</translation>
     </message>
     <message>
-        <location filename="../webui/api/appcontroller.cpp" line="1207"/>
+        <location filename="../webui/api/appcontroller.cpp" line="1255"/>
         <source>Invalid mode, allowed values: %1</source>
         <translation>잘못된 모드, 허용되는 값: %1</translation>
     </message>
     <message>
-        <location filename="../webui/api/appcontroller.cpp" line="1245"/>
+        <location filename="../webui/api/appcontroller.cpp" line="1293"/>
         <source>cookies must be array</source>
         <translation>쿠키는 배열이어야 합니다</translation>
     </message>
@@ -1670,56 +1747,67 @@
     <name>AutomatedRssDownloader</name>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="386"/>
         <source>RSS Downloader</source>
         <translation>RSS 다운로드 도구</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="58"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="388"/>
         <source>Download Rules</source>
         <translation>다운로드 규칙</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="172"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="393"/>
         <source>Use Regular Expressions</source>
         <translation>정규표현식 사용</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="257"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="401"/>
         <source>Use Smart Episode Filter</source>
         <translation>스마트 에피소드 필터 사용</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="181"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="394"/>
         <source>Must Contain:</source>
         <translation>무조건 포함:</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="28"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="387"/>
         <source>Auto downloading of RSS torrents is currently disabled. You can enable it in application settings.</source>
         <translation>RSS 토렌트의 자동 다운로드는 현재 비활성화되었습니다. 앱 설정에서 활성화 설정할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="68"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="390"/>
         <source>Rename selected rule. You can also use the F2 hotkey to rename.</source>
         <translation>선택한 규칙의 이름을 바꿉니다. F2 단축키를 사용하여 이름을 바꿀 수도 있습니다.</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="147"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="392"/>
         <source>Priority:</source>
         <translation>우선순위:</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="201"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="395"/>
         <source>Must Not Contain:</source>
         <translation>무조건 제외:</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="221"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="396"/>
         <source>Episode Filter:</source>
         <translation>에피소드 필터:</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="253"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="398"/>
         <source>Smart Episode Filter will check the episode number to prevent downloading of duplicates.
 Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also support - as a separator)</source>
         <translation>스마트 에피소드 필터는 중복 다운로드를 방지하기 위해 에피소드 번호를 확인합니다.
@@ -1727,42 +1815,50 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="304"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="405"/>
         <source>Torrent parameters</source>
         <translation>토렌트 매개변수</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="266"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="402"/>
         <source>Ignore Subsequent Matches for (0 to Disable)</source>
         <extracomment>... X days</extracomment>
         <translation>다음 일치 항목 무시 (0은 비활성화)</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="276"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="403"/>
         <source>Disabled</source>
         <translation>비활성화됨</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="279"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="404"/>
         <source> days</source>
         <translation> 일</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="354"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="406"/>
         <source>Apply Rule to Feeds:</source>
         <translation>규칙을 적용할 피드:</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="374"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="407"/>
         <source>Matching RSS Articles</source>
         <translation>일치하는 RSS 규약</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="402"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="408"/>
         <source>&amp;Import...</source>
         <translation>가져오기(&amp;I)…</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="412"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="409"/>
         <source>&amp;Export...</source>
         <translation>내보내기(&amp;E)…</translation>
     </message>
@@ -2032,16 +2128,19 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <name>BanListOptionsDialog</name>
     <message>
         <location filename="../gui/banlistoptionsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_banlistoptionsdialog.h" line="112"/>
         <source>List of banned IP addresses</source>
         <translation>차단한 IP 주소 목록</translation>
     </message>
     <message>
         <location filename="../gui/banlistoptionsdialog.ui" line="80"/>
+        <location filename="../../build/src/gui/ui_banlistoptionsdialog.h" line="113"/>
         <source>Ban IP</source>
         <translation>IP 차단</translation>
     </message>
     <message>
         <location filename="../gui/banlistoptionsdialog.ui" line="87"/>
+        <location filename="../../build/src/gui/ui_banlistoptionsdialog.h" line="114"/>
         <source>Delete</source>
         <translation>삭제</translation>
     </message>
@@ -3096,6 +3195,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <name>CookiesDialog</name>
     <message>
         <location filename="../gui/cookiesdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_cookiesdialog.h" line="102"/>
         <source>Manage Cookies</source>
         <translation>쿠키 관리</translation>
     </message>
@@ -3153,16 +3253,19 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <name>DeletionConfirmationDialog</name>
     <message>
         <location filename="../gui/deletionconfirmationdialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_deletionconfirmationdialog.h" line="119"/>
         <source>Remove torrent(s)</source>
         <translation>토렌트 제거</translation>
     </message>
     <message>
         <location filename="../gui/deletionconfirmationdialog.ui" line="67"/>
+        <location filename="../../build/src/gui/ui_deletionconfirmationdialog.h" line="122"/>
         <source>Remember choice</source>
         <translation>선택 기억</translation>
     </message>
     <message>
         <location filename="../gui/deletionconfirmationdialog.ui" line="91"/>
+        <location filename="../../build/src/gui/ui_deletionconfirmationdialog.h" line="124"/>
         <source>Also remove the content files</source>
         <translation>내용 파일 또한 제거</translation>
     </message>
@@ -3188,16 +3291,19 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <name>DownloadFromURLDialog</name>
     <message>
         <location filename="../gui/downloadfromurldialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_downloadfromurldialog.h" line="77"/>
         <source>Download from URLs</source>
         <translation>URL에서 다운로드</translation>
     </message>
     <message>
         <location filename="../gui/downloadfromurldialog.ui" line="25"/>
+        <location filename="../../build/src/gui/ui_downloadfromurldialog.h" line="78"/>
         <source>Add torrent links</source>
         <translation>토렌트 링크 추가</translation>
     </message>
     <message>
         <location filename="../gui/downloadfromurldialog.ui" line="47"/>
+        <location filename="../../build/src/gui/ui_downloadfromurldialog.h" line="79"/>
         <source>One link per line (HTTP links, Magnet links and info-hashes are supported)</source>
         <translation>한 줄에 링크 하나 (HTTP 링크, 마그넷 링크, 정보 해시 지원)</translation>
     </message>
@@ -3239,11 +3345,13 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <name>ExecutionLogWidget</name>
     <message>
         <location filename="../gui/executionlogwidget.ui" line="36"/>
+        <location filename="../../build/src/gui/ui_executionlogwidget.h" line="65"/>
         <source>General</source>
         <translation>일반</translation>
     </message>
     <message>
         <location filename="../gui/executionlogwidget.ui" line="42"/>
+        <location filename="../../build/src/gui/ui_executionlogwidget.h" line="66"/>
         <source>Blocked IPs</source>
         <translation>차단한 IP</translation>
     </message>
@@ -3478,21 +3586,25 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <name>IPSubnetWhitelistOptionsDialog</name>
     <message>
         <location filename="../gui/ipsubnetwhitelistoptionsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_ipsubnetwhitelistoptionsdialog.h" line="107"/>
         <source>List of whitelisted IP subnets</source>
         <translation>허용 목록에 있는 IP 서브넷 목록</translation>
     </message>
     <message>
         <location filename="../gui/ipsubnetwhitelistoptionsdialog.ui" line="53"/>
+        <location filename="../../build/src/gui/ui_ipsubnetwhitelistoptionsdialog.h" line="108"/>
         <source>Example: 172.17.32.0/24, fdff:ffff:c8::/40</source>
         <translation>예시: 172.17.32.0/24, fdff:ffff:c8::/40</translation>
     </message>
     <message>
         <location filename="../gui/ipsubnetwhitelistoptionsdialog.ui" line="64"/>
+        <location filename="../../build/src/gui/ui_ipsubnetwhitelistoptionsdialog.h" line="109"/>
         <source>Add subnet</source>
         <translation>서브넷 추가</translation>
     </message>
     <message>
         <location filename="../gui/ipsubnetwhitelistoptionsdialog.ui" line="71"/>
+        <location filename="../../build/src/gui/ui_ipsubnetwhitelistoptionsdialog.h" line="110"/>
         <source>Delete</source>
         <translation>삭제</translation>
     </message>
@@ -3638,288 +3750,347 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <name>MainWindow</name>
     <message>
         <location filename="../gui/mainwindow.ui" line="43"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="384"/>
         <source>&amp;Edit</source>
         <translation>편집(&amp;E)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="69"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="386"/>
         <source>&amp;Tools</source>
         <translation>도구(&amp;T)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="90"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="388"/>
         <source>&amp;File</source>
         <translation>파일(&amp;F)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="59"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="385"/>
         <source>&amp;Help</source>
         <translation>도움말(&amp;H)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="73"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="387"/>
         <source>On Downloads &amp;Done</source>
         <translation>다운로드 완료 후(&amp;D)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="100"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="389"/>
         <source>&amp;View</source>
         <translation>보기(&amp;V)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="182"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="313"/>
         <source>&amp;Options...</source>
         <translation>옵션(&amp;O)…</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="212"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="319"/>
         <source>&amp;Remove</source>
         <translation>제거(&amp;R)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="225"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="322"/>
         <source>Torrent &amp;Creator</source>
         <translation>토렌트 생성기(&amp;C)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="287"/>
         <location filename="../gui/mainwindow.ui" line="290"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="341"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="343"/>
         <source>Alternative Speed Limits</source>
         <translation>대체 속도 제한</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="298"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="345"/>
         <source>&amp;Top Toolbar</source>
         <translation>기본 도구 모음(&amp;T)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="301"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="347"/>
         <source>Display Top Toolbar</source>
         <translation>기본 도구 모음 표시</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="309"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="349"/>
         <source>Status &amp;Bar</source>
         <translation>상태 표시줄(&amp;B)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="317"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="350"/>
         <source>Filters Sidebar</source>
         <translation>필터 사이드바</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="325"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="351"/>
         <source>S&amp;peed in Title Bar</source>
         <translation>제목 표시줄에 속도 표시(&amp;P)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="328"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="353"/>
         <source>Show Transfer Speed in Title Bar</source>
         <translation>제목 표시줄에 전송 속도 표시</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="336"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="355"/>
         <source>&amp;RSS Reader</source>
         <translation>RSS 리더(&amp;R)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="344"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="356"/>
         <source>Search &amp;Engine</source>
         <translation>검색 엔진(&amp;E)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="349"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="357"/>
         <source>L&amp;ock qBittorrent</source>
         <translation>qBittorrent 잠금(&amp;O)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="360"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="359"/>
         <source>Do&amp;nate!</source>
         <translation>기부(&amp;N)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="395"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="366"/>
         <source>Sh&amp;utdown System</source>
         <translation>시스템 종료(&amp;U)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="403"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="367"/>
         <source>&amp;Do nothing</source>
         <translation>아무것도 안 함(&amp;D)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="479"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="383"/>
         <source>Close Window</source>
         <translation>창 닫기</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="431"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="374"/>
         <source>Manage Cookies...</source>
         <translation>쿠키 관리…</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="434"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="376"/>
         <source>Manage stored network cookies</source>
         <translation>저장된 쿠키 관리</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="450"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="379"/>
         <source>Normal Messages</source>
         <translation>일반 메시지</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="458"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="380"/>
         <source>Information Messages</source>
         <translation>정보 메시지</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="466"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="381"/>
         <source>Warning Messages</source>
         <translation>경고 메시지</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="474"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="382"/>
         <source>Critical Messages</source>
         <translation>중요 메시지</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="104"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="390"/>
         <source>&amp;Log</source>
         <translation>로그(&amp;L)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="192"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="315"/>
         <source>Sta&amp;rt</source>
         <translation>시작(&amp;R)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="197"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="316"/>
         <source>Sto&amp;p</source>
         <translation>정지(&amp;P)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="202"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="317"/>
         <source>R&amp;esume Session</source>
         <translation>세션 재개(&amp;E)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="207"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="318"/>
         <source>Pau&amp;se Session</source>
         <translation>세션 일시정지(&amp;S)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="235"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="324"/>
         <source>Set Global Speed Limits...</source>
         <translation>전역 속도 제한 설정…</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="240"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="325"/>
         <source>Bottom of Queue</source>
         <translation>대기열 맨 아래</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="243"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="327"/>
         <source>Move to the bottom of the queue</source>
         <translation>대기열 맨 아래로 이동</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="251"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="329"/>
         <source>Top of Queue</source>
         <translation>대기열 맨 위</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="254"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="331"/>
         <source>Move to the top of the queue</source>
         <translation>대기열 맨 위로 이동</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="262"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="333"/>
         <source>Move Down Queue</source>
         <translation>대기열 아래로 이동</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="265"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="335"/>
         <source>Move down in the queue</source>
         <translation>대기열에서 아래로 이동</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="273"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="337"/>
         <source>Move Up Queue</source>
         <translation>대기열 위로 이동</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="276"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="339"/>
         <source>Move up in the queue</source>
         <translation>대기열에서 위로 이동</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="371"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="363"/>
         <source>&amp;Exit qBittorrent</source>
         <translation>qBittorrent 종료(&amp;E)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="379"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="364"/>
         <source>&amp;Suspend System</source>
         <translation>시스템 절전모드(&amp;S)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="387"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="365"/>
         <source>&amp;Hibernate System</source>
         <translation>시스템 최대 절전모드(&amp;H)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="418"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="369"/>
         <source>&amp;Statistics</source>
         <translation>통계(&amp;S)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="423"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="370"/>
         <source>Check for Updates</source>
         <translation>업데이트 확인</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="426"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="372"/>
         <source>Check for Program Updates</source>
         <translation>프로그램 업데이트 확인</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="187"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="314"/>
         <source>&amp;About</source>
         <translation>정보(&amp;A)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="169"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="310"/>
         <source>&amp;Add Torrent File...</source>
         <translation>토렌트 파일 추가(&amp;A)…</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="172"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="311"/>
         <source>Open</source>
         <translation>열기</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="177"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="312"/>
         <source>E&amp;xit</source>
         <translation>종료(&amp;X)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="220"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="321"/>
         <source>Open URL</source>
         <translation>URL 열기</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="230"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="323"/>
         <source>&amp;Documentation</source>
         <translation>문서(&amp;D)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="352"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="358"/>
         <source>Lock</source>
         <translation>잠금</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="408"/>
         <location filename="../gui/mainwindow.ui" line="442"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="368"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="378"/>
         <location filename="../gui/mainwindow.cpp" line="1496"/>
         <source>Show</source>
         <translation>표시</translation>
@@ -3931,11 +4102,13 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="217"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="320"/>
         <source>Add Torrent &amp;Link...</source>
         <translation>토렌트 링크 추가(&amp;L)…</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="363"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="361"/>
         <source>If you like qBittorrent, please donate!</source>
         <translation>qBittorrent가 마음에 든다면 기부하세요!</translation>
     </message>
@@ -5859,312 +6032,379 @@ Minimum requirement: %2.</source>
     <name>OptionsDialog</name>
     <message>
         <location filename="../gui/optionsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3075"/>
         <source>Options</source>
         <translation>옵션</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="52"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3080"/>
         <source>Behavior</source>
         <translation>동작</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="57"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3082"/>
         <source>Downloads</source>
         <translation>다운로드</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="62"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3084"/>
         <source>Connection</source>
         <translation>연결</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="67"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3086"/>
         <source>Speed</source>
         <translation>속도</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="72"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3088"/>
         <source>BitTorrent</source>
         <translation>BitTorrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="82"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3092"/>
         <source>RSS</source>
         <translation>RSS</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="92"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3096"/>
         <source>Advanced</source>
         <translation>고급</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="250"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3107"/>
         <source>Customize UI Theme...</source>
         <translation>UI 테마 사용자 정의...</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="260"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3108"/>
         <source>Transfer List</source>
         <translation>전송 목록</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="269"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3112"/>
         <source>Confirm when deleting torrents</source>
         <translation>토렌트를 삭제할 때 확인</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="279"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3113"/>
         <source>Use alternating row colors</source>
         <extracomment>In table elements, every other row will have a grey background.</extracomment>
         <translation>행 색상 번갈아 사용</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="291"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3114"/>
         <source>Hide zero and infinity values</source>
         <translation>0 및 무한대 값 숨김</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="299"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3115"/>
         <source>Always</source>
         <translation>항상</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="327"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3118"/>
         <source>Action on double-click</source>
         <translation>두 번 클릭 동작</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="333"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3119"/>
         <source>Downloading torrents:</source>
         <translation>다운로드 중인 토렌트:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="349"/>
         <location filename="../gui/optionsdialog.ui" line="398"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3121"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3128"/>
         <source>Open destination folder</source>
         <translation>대상 폴더 열기</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="364"/>
         <location filename="../gui/optionsdialog.ui" line="413"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3124"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3131"/>
         <source>No action</source>
         <translation>동작 없음</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="385"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3126"/>
         <source>Completed torrents:</source>
         <translation>다운로드 완료된 토렌트:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="424"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3133"/>
         <source>Auto hide zero status filters</source>
         <translation>0 상태 필터 자동 숨기기</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="434"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3134"/>
         <source>Desktop</source>
         <translation>바탕 화면</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="440"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3135"/>
         <source>Start qBittorrent on Windows start up</source>
         <translation>Windows 시작 시 qBittorrent 시작</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="447"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3136"/>
         <source>Show splash screen on start up</source>
         <translation>시작할 때 시작 화면 표시</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="491"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3144"/>
         <source>Confirmation on exit when torrents are active</source>
         <translation>토렌트 사용 중이면 종료할 때 확인</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="501"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3145"/>
         <source>Confirmation on auto-exit when downloads finish</source>
         <translation>다운로드가 완료되면 자동 종료 시 확인</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="642"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3163"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To set qBittorrent as default program for .torrent files and/or Magnet links&lt;br/&gt;you can use &lt;span style=&quot; font-weight:600;&quot;&gt;Default Programs&lt;/span&gt; dialog from &lt;span style=&quot; font-weight:600;&quot;&gt;Control Panel&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;qBittorrent를 .torrent 파일 및/또는 자석 링크에 대한 기본 프로그램으로 설정하려면 &lt;span style=&quot; font-weight:600;&quot;&gt;제어판&lt;/span&gt;에서 &lt;span style=&quot; font-weight:600;&quot;&gt;기본 프로그램&lt;/span&gt; 대화 상자를 사용할 수 있습니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="732"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3174"/>
         <source> KiB</source>
         <translation> KiB</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="917"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3185"/>
         <source>Torrent content layout:</source>
         <translation>토렌트 내용 배치:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="928"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3186"/>
         <source>Original</source>
         <translation>원본</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="933"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3187"/>
         <source>Create subfolder</source>
         <translation>하위 폴더 만들기</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="938"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3188"/>
         <source>Don&apos;t create subfolder</source>
         <translation>하위 폴더 만들지 않기</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="961"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3191"/>
         <source>The torrent will be added to the top of the download queue</source>
         <translation>토렌트가 다운로드 대기열의 맨 위에 추가됩니다</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="964"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3193"/>
         <source>Add to top of queue</source>
         <extracomment>The torrent will be added to the top of the download queue</extracomment>
         <translation>대기열 맨 위에 추가</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1027"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3203"/>
         <source>When duplicate torrent is being added</source>
         <translation>중복 토렌트가 추가되는 경우</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1033"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3204"/>
         <source>Merge trackers to existing torrent</source>
         <translation>트래커를 기존 토렌트에 병합</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1128"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3220"/>
         <source>Keep unselected files in &quot;.unwanted&quot; folder</source>
         <translation>선택하지 않은 파일을 &quot;.unwanted&quot; 폴더에 보관하기</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1431"/>
+        <location filename="../gui/optionsdialog.ui" line="3646"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3256"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3469"/>
         <source>Add...</source>
         <translation>추가…</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1441"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3257"/>
         <source>Options..</source>
         <translation>옵션…</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1451"/>
+        <location filename="../gui/optionsdialog.ui" line="3660"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3258"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3471"/>
         <source>Remove</source>
         <translation>제거</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1518"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3275"/>
         <source>Email notification &amp;upon download completion</source>
         <translation>다운로드가 완료되면 이메일로 알림(&amp;U)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1622"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3289"/>
         <source>Send test email</source>
         <translation>테스트 이메일 보내기</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1638"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3291"/>
         <source>Run on torrent added:</source>
         <translation>토렌트에서 실행이 추가되었습니다:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1656"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3292"/>
         <source>Run on torrent finished:</source>
         <translation>토렌트에서 실행 완료:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1728"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3294"/>
         <source>Peer connection protocol:</source>
         <translation>피어 연결 프로토콜:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1787"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3302"/>
         <source>Any</source>
         <translation>전체</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1937"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3310"/>
         <source>I2P (experimental)</source>
         <translation>I2P (실험적)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1999"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3316"/>
         <source>Mixed mode</source>
         <translation>혼합 모드</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2080"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3321"/>
         <source>Some options are incompatible with the chosen proxy type!</source>
         <translation>일부 옵션은 선택한 프록시 유형과 호환되지 않습니다!</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2087"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3323"/>
         <source>If checked, hostname lookups are done via the proxy</source>
         <translation>체크하면, 프록시를 통해 호스트 이름 조회가 수행됩니다</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2090"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3325"/>
         <source>Perform hostname lookup via proxy</source>
         <translation>프록시를 통한 호스트 이름 조회 수행</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2150"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3330"/>
         <source>Use proxy for BitTorrent purposes</source>
         <translation>BitTorrent 용도로 프록시 사용</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2175"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3336"/>
         <source>RSS feeds will use proxy</source>
         <translation>RSS 피드는 프록시를 사용합니다</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2178"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3338"/>
         <source>Use proxy for RSS purposes</source>
         <translation>RSS 용도로 프록시 사용</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2188"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3340"/>
         <source>Search engine, software updates or anything else will use proxy</source>
         <translation>검색 엔진, 소프트웨어 업데이트 또는 기타 모든 항목은 프록시를 사용합니다</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2191"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3342"/>
         <source>Use proxy for general purposes</source>
         <translation>일반적인 용도로 프록시 사용</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2204"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3343"/>
         <source>IP Fi&amp;ltering</source>
         <translation>IP 필터링(&amp;l)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2453"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3364"/>
         <source>Schedule &amp;the use of alternative rate limits</source>
         <translation>대체 속도 제한 사용 예정(&amp;T)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2468"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3368"/>
         <source>From:</source>
         <comment>From start time</comment>
         <translation>발신:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2498"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3372"/>
         <source>To:</source>
         <comment>To end time</comment>
         <translation>수신:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2657"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3384"/>
         <source>Find peers on the DHT network</source>
         <translation>DHT 네트워크에서 피어를 찾습니다</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2705"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3401"/>
         <source>Allow encryption: Connect to peers regardless of setting
 Require encryption: Only connect to peers with protocol encryption
 Disable encryption: Only connect to peers without protocol encryption</source>
@@ -6174,56 +6414,67 @@ Disable encryption: Only connect to peers without protocol encryption</source>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2711"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3396"/>
         <source>Allow encryption</source>
         <translation>암호화 허용</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2756"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3409"/>
         <source>(&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/Anonymous-Mode&quot;&gt;More information&lt;/a&gt;)</source>
         <translation>(&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/Anonymous-Mode&quot;&gt;더 많은 정보&lt;/a&gt;)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2789"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3410"/>
         <source>Maximum active checking torrents:</source>
         <translation>최대 활성 확인 토렌트:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2824"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3411"/>
         <source>&amp;Torrent Queueing</source>
         <translation>토렌트 대기열(&amp;T)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3048"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3427"/>
         <source>When total seeding time reaches</source>
         <translation>전체의 시딩 시간에 도달한 경우</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3071"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3429"/>
         <source>When inactive seeding time reaches</source>
         <translation>비활성 시딩 시간에 도달한 경우</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3357"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3445"/>
         <source>RSS Reader</source>
         <translation>RSS 리더</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3363"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3446"/>
         <source>Enable fetching RSS feeds</source>
         <translation>RSS 피드 가져오기 활성화</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3372"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3447"/>
         <source>Feeds refresh interval:</source>
         <translation>피드 갱신 간격:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3408"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3449"/>
         <source>Same host request delay:</source>
         <translation>동일 호스트 요청 지연 시간:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3428"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3451"/>
         <source>Maximum number of articles per feed:</source>
         <translation>피드당 최대 규약 수:</translation>
     </message>
@@ -6231,122 +6482,148 @@ Disable encryption: Only connect to peers without protocol encryption</source>
         <location filename="../gui/optionsdialog.ui" line="3058"/>
         <location filename="../gui/optionsdialog.ui" line="3081"/>
         <location filename="../gui/optionsdialog.ui" line="3379"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3428"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3430"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3448"/>
         <source> min</source>
         <extracomment>minutes</extracomment>
         <translation>분</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3009"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3425"/>
         <source>Seeding Limits</source>
         <translation>시딩 제한</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3113"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3433"/>
         <source>Remove torrent</source>
         <translation>토렌트 제거</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3118"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3434"/>
         <source>Remove torrent and its files</source>
         <translation>토렌트 및 파일 제거</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3123"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3435"/>
         <source>Enable super seeding for torrent</source>
         <translation>토렌트에 대해 슈퍼 시딩 활성화</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3015"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3426"/>
         <source>When ratio reaches</source>
         <translation>비율에 도달했을 때</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3108"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3432"/>
         <source>Stop torrent</source>
         <translation>토렌트 정지</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3134"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3437"/>
         <source>A&amp;utomatically append these trackers to new downloads:</source>
         <translation>이 트래커들을 새로운 다운로드에 자동으로 추가(&amp;U):</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3156"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3438"/>
         <source>Automatically append trackers from URL to new downloads:</source>
         <translation>URL에서 새로운 다운로드에 트래커를 자동으로 추가:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3170"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3439"/>
         <source>URL:</source>
         <translation>URL:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3182"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3440"/>
         <source>Fetched trackers</source>
         <translation>가져온 트래커</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3247"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3441"/>
         <source>Search UI</source>
         <translation>검색 UI</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3253"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3442"/>
         <source>Store opened tabs</source>
         <translation>열린 탭 저장</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3265"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3443"/>
         <source>Also store search results</source>
         <translation>검색 결과 저장</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3277"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3444"/>
         <source>History length</source>
         <translation>기록 길이</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3450"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3452"/>
         <source>RSS Torrent Auto Downloader</source>
         <translation>RSS 토렌트 자동 다운로드 도구</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3456"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3453"/>
         <source>Enable auto downloading of RSS torrents</source>
         <translation>RSS 자동 다운로드 활성화</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3463"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3454"/>
         <source>Edit auto downloading rules...</source>
         <translation>자동 다운로드 규칙 편집…</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3473"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3455"/>
         <source>RSS Smart Episode Filter</source>
         <translation>RSS 스마트 에피소드 필터</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3479"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3456"/>
         <source>Download REPACK/PROPER episodes</source>
         <translation>REPACK/PROPER된 에피소드 다운로드</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3486"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3457"/>
         <source>Filters:</source>
         <translation>필터:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3551"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3458"/>
         <source>Web User Interface (Remote control)</source>
         <translation>웹 인터페이스 (원격 제어)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3577"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3460"/>
         <source>IP address:</source>
         <translation>IP 주소:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3584"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3462"/>
         <source>IP address that the Web UI will bind to.
 Specify an IPv4 or IPv6 address. You can specify &quot;0.0.0.0&quot; for any IPv4 address,
 &quot;::&quot; for any IPv6 address, or &quot;*&quot; for both IPv4 and IPv6.</source>
@@ -6355,37 +6632,56 @@ IPv4나 IPV6 주소를 지정하십시오. IPv4 주소에 &quot;0.0.0.0&quot;을
 또는 IPV4/IPv6 모두 &quot;*&quot;를 지정할 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3745"/>
+        <location filename="../gui/optionsdialog.ui" line="3625"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3468"/>
+        <source>Custom MIME type overrides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/optionsdialog.ui" line="3653"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3470"/>
+        <source>Edit...</source>
+        <translation type="unfinished">편집...</translation>
+    </message>
+    <message>
+        <location filename="../gui/optionsdialog.ui" line="3805"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3483"/>
         <source>Ban client after consecutive failures:</source>
         <translation>클라이언트를 차단할 연속 시도 횟수:</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3752"/>
+        <location filename="../gui/optionsdialog.ui" line="3812"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3484"/>
         <source>Never</source>
         <translation>절대 안함</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3775"/>
+        <location filename="../gui/optionsdialog.ui" line="3835"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3485"/>
         <source>ban for:</source>
         <translation>차단할 시간:</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3802"/>
+        <location filename="../gui/optionsdialog.ui" line="3862"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3487"/>
         <source>Session timeout:</source>
         <translation>세션 만료 시간:</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3809"/>
+        <location filename="../gui/optionsdialog.ui" line="3869"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3488"/>
         <source>Disabled</source>
         <translation>비활성화됨</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3920"/>
+        <location filename="../gui/optionsdialog.ui" line="3980"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3498"/>
         <source>Server domains:</source>
         <translation>서버 도메인:</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3927"/>
+        <location filename="../gui/optionsdialog.ui" line="3987"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3500"/>
         <source>Whitelist for filtering HTTP Host header values.
 In order to defend against DNS rebinding attack,
 you should put in domain names used by WebUI server.
@@ -6398,398 +6694,480 @@ DNS 재결합 공격을 방어하기 위해
 &apos;;&apos;를 사용해서 항목을 구분하며 와일드카드 &apos;*&apos;를 사용할 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3625"/>
+        <location filename="../gui/optionsdialog.ui" line="3685"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3472"/>
         <source>&amp;Use HTTPS instead of HTTP</source>
         <translation>HTTP 대신 HTTPS 사용(&amp;U)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3716"/>
+        <location filename="../gui/optionsdialog.ui" line="3776"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3480"/>
         <source>Bypass authentication for clients on localhost</source>
         <translation>localhost에서 클라이언트에 대한 인증 우회하기</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3723"/>
+        <location filename="../gui/optionsdialog.ui" line="3783"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3481"/>
         <source>Bypass authentication for clients in whitelisted IP subnets</source>
         <translation>허용 목록에 있는 IP 서브넷의 클라이언트에 대한 인증 우회</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3736"/>
+        <location filename="../gui/optionsdialog.ui" line="3796"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3482"/>
         <source>IP subnet whitelist...</source>
         <translation>IP 서브넷 허용 목록…</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3840"/>
+        <location filename="../gui/optionsdialog.ui" line="3900"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3490"/>
         <source>Use alternative WebUI</source>
         <translation>대체 WebUI 사용</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3989"/>
+        <location filename="../gui/optionsdialog.ui" line="4049"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3511"/>
         <source>Specify reverse proxy IPs (or subnets, e.g. 0.0.0.0/24) in order to use forwarded client address (X-Forwarded-For header). Use &apos;;&apos; to split multiple entries.</source>
         <translation>전달된 클라이언트 주소(X-Forwarded-헤더의 경우)를 사용하려면 역방향 프록시 IP(또는 서브넷, 예: 0.0.0.0/24)를 지정합니다. 여러 항목을 분할하려면 &apos;;&apos;를 사용하십시오.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="4014"/>
+        <location filename="../gui/optionsdialog.ui" line="4074"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3514"/>
         <source>Upda&amp;te my dynamic domain name</source>
         <translation>내 동적 도메인 이름 업데이트(&amp;T)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="523"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3150"/>
         <source>Minimize qBittorrent to notification area</source>
         <translation>알림 영역으로 최소화</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="77"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3090"/>
         <source>Search</source>
         <translation>검색</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="87"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3094"/>
         <source>WebUI</source>
         <translation>WebUI</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="138"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3099"/>
         <source>Interface</source>
         <translation>인터페이스</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="156"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3101"/>
         <source>Language:</source>
         <translation>언어:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="179"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3102"/>
         <source>Style:</source>
         <translation>스타일 :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="198"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3103"/>
         <source>Color scheme:</source>
         <translation>색 구성표 :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="304"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3116"/>
         <source>Stopped torrents only</source>
         <translation>정지된 토렌트만</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="344"/>
         <location filename="../gui/optionsdialog.ui" line="393"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3120"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3127"/>
         <source>Start / stop torrent</source>
         <translation>토렌트 시작 / 중지</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="359"/>
         <location filename="../gui/optionsdialog.ui" line="408"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3123"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3130"/>
         <source>Open torrent options dialog</source>
         <translation>토렌트 옵션 대화 상자 열기</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="545"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3155"/>
         <source>Tray icon style:</source>
         <translation>알림 영역 아이콘:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="553"/>
-        <location filename="../gui/optionsdialog.cpp" line="297"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3156"/>
+        <location filename="../gui/optionsdialog.cpp" line="323"/>
         <source>Normal</source>
         <translation>보통</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="589"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3160"/>
         <source>File association</source>
         <translation>파일 연계</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="610"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3161"/>
         <source>Use qBittorrent for .torrent files</source>
         <translation>.torrent 파일에 qBittorrent  사용</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="617"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3162"/>
         <source>Use qBittorrent for magnet links</source>
         <translation>마그넷 링크에 qBittorrent 사용</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="655"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3164"/>
         <source>Check for program updates</source>
         <translation>프로그램 업데이트 확인</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="665"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3165"/>
         <source>Power Management</source>
         <translation>전원 관리</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="688"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3168"/>
         <source>&amp;Log Files</source>
         <translation>로그 파일(&amp;L)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="708"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3169"/>
         <source>Save path:</source>
         <translation>저장 경로:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="725"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3173"/>
         <source>Backup the log file after:</source>
         <translation>백업할 로그 파일 크기:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="765"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3175"/>
         <source>Delete backup logs older than:</source>
         <translation>다음 기간보다 오래된 백업 로그 삭제:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="825"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3180"/>
         <source>Show external IP in status bar</source>
         <translation>상태 표시줄에 외부 IP 표시</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="887"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3182"/>
         <source>When adding a torrent</source>
         <translation>토렌트를 추가할 때</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="902"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3184"/>
         <source>Bring torrent dialog to the front</source>
         <translation>토렌트 창을 맨 앞으로 가져오기</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="971"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3195"/>
         <source>The torrent will be added to download list in a stopped state</source>
         <translation>토렌트가 다운로드 목록에 정지 상태로 추가될 것입니다.</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1071"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3211"/>
         <source>Also delete .torrent files whose addition was cancelled</source>
         <translation>또한 추가가 취소된 .torrent 파일을 삭제합니다</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1074"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3213"/>
         <source>Also when addition is cancelled</source>
         <translation>또한 추가가 취소된 경우에도 삭제</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1096"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3214"/>
         <source>Warning! Data loss possible!</source>
         <translation>경고! 데이터를 잃을 수 있습니다!</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1145"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3225"/>
         <source>Saving Management</source>
         <translation>저장 관리</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1153"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3226"/>
         <source>Default Torrent Management Mode:</source>
         <translation>기본 토렌트 관리 모드:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1170"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3227"/>
         <source>Manual</source>
         <translation>수동</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1175"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3228"/>
         <source>Automatic</source>
         <translation>자동</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1198"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3234"/>
         <source>When Torrent Category changed:</source>
         <translation>토렌트 범주가 바뀌었을 때:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1208"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3235"/>
         <source>Relocate torrent</source>
         <translation>토렌트 위치 이동</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1213"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3236"/>
         <source>Switch torrent to Manual Mode</source>
         <translation>토렌트를 수동 모드로 전환</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1249"/>
         <location filename="../gui/optionsdialog.ui" line="1290"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3239"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3243"/>
         <source>Relocate affected torrents</source>
         <translation>영향 받는 토렌트 이동</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1254"/>
         <location filename="../gui/optionsdialog.ui" line="1295"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3240"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3244"/>
         <source>Switch affected torrents to Manual Mode</source>
         <translation>영향 받는 토렌트를 수동 모드로 전환</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1320"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3246"/>
         <source>Use Subcategories</source>
         <translation>하위 범주 사용</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1339"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3251"/>
         <source>Default Save Path:</source>
         <translation>기본 저장 경로:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1359"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3253"/>
         <source>Copy .torrent files to:</source>
         <translation>.torrent 파일을 복사할 경로:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="511"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3146"/>
         <source>Show &amp;qBittorrent in notification area</source>
         <translation>알림 영역에 qBittorrent 아이콘 표시(&amp;Q)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="893"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3183"/>
         <source>Display &amp;torrent content and some options</source>
         <translation>토렌트 내용 및 일부 옵션 표시(&amp;T)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1059"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3209"/>
         <source>De&amp;lete .torrent files afterwards </source>
         <translation>완료 후 .torrent 파일 삭제(&amp;L)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1369"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3254"/>
         <source>Copy .torrent files for finished downloads to:</source>
         <translation>다운로드 완료된 .torrent 파일을 복사할 경로:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1114"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3218"/>
         <source>Pre-allocate disk space for all files</source>
         <translation>모든 파일에 디스크 공간 미리 할당</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="221"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3104"/>
         <source>Use custom UI Theme</source>
         <translation>사용자 지정 UI 테마 사용</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="230"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3105"/>
         <source>UI Theme file:</source>
         <translation>UI 테마 파일:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="149"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3100"/>
         <source>Changing Interface settings requires application restart</source>
         <translation>인터페이스 설정을 변경하려면 앱을 다시 시작해야 합니다</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="266"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3110"/>
         <source>Shows a confirmation dialog upon torrent deletion</source>
         <translation>토렌트를 삭제할 때 확인 대화상자 표시</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="354"/>
         <location filename="../gui/optionsdialog.ui" line="403"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3122"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3129"/>
         <source>Preview file, otherwise open destination folder</source>
         <translation>파일 미리보기, 그렇지 않으면 대상 폴더 열기</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="488"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3142"/>
         <source>Shows a confirmation dialog when exiting with active torrents</source>
         <translation>사용 중인 토렌트가 있을 때 확인 대화상자 표시</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="520"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3148"/>
         <source>When minimizing, the main window is closed and must be reopened from the systray icon</source>
         <translation>최소화할 때 메인 창이 닫히고 시스템 알림 영역에서 다시 열어야 합니다.</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="533"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3152"/>
         <source>The systray icon will still be visible when closing the main window</source>
         <translation>메인 창을 닫을 때 시스템 알림 영역 아이콘을 표시합니다.</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="536"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3154"/>
         <source>Close qBittorrent to notification area</source>
         <extracomment>The systray icon will still be visible when closing the main window</extracomment>
         <translation>닫을 때 알림 영역으로 최소화</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="558"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3157"/>
         <source>Monochrome (for dark theme)</source>
         <translation>단색(어두운 테마용)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="563"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3158"/>
         <source>Monochrome (for light theme)</source>
         <translation>단색(밝은 테마용)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="671"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3166"/>
         <source>Inhibit system sleep when torrents are downloading</source>
         <translation>토렌트 다운로드 중에 시스템 휴면모드 억제</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="678"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3167"/>
         <source>Inhibit system sleep when torrents are seeding</source>
         <translation>토렌트를 시딩하고 있을 때 시스템 휴면모드 억제</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="722"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3171"/>
         <source>Creates an additional log file after the log file reaches the specified file size</source>
         <translation>로그 파일이 지정된 파일 크기에 도달한 후 추가 로그 파일을 만듭니다</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="789"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3176"/>
         <source>days</source>
         <extracomment>Delete backup logs older than 10 days</extracomment>
         <translation>일</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="794"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3177"/>
         <source>months</source>
         <extracomment>Delete backup logs older than 10 months</extracomment>
         <translation>월</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="799"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3178"/>
         <source>years</source>
         <extracomment>Delete backup logs older than 10 years</extracomment>
         <translation>년</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="832"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3181"/>
         <source>Log performance warnings</source>
         <translation>성능 경고 로그</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="974"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3197"/>
         <source>Do not start the download automatically</source>
         <extracomment>The torrent will be added to download list in a stopped state</extracomment>
         <translation>자동으로 다운로드 시작 안함</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1056"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3207"/>
         <source>Whether the .torrent file should be deleted after adding it</source>
         <translation>.torrent 파일을 추가한 후 삭제할지 여부</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1111"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3216"/>
         <source>Allocate full file sizes on disk before starting downloads, to minimize fragmentation. Only useful for HDDs.</source>
         <translation>조각화를 최소화하기 위해 다운로드를 시작하기 전에 디스크에 전체 파일 크기를 할당합니다. HDD에만 유용합니다.</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1121"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3219"/>
         <source>Append .!qB extension to incomplete files</source>
         <translation>다운로드 중인 파일에 .!qB 확장자 덧붙이기</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1135"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3222"/>
         <source>When a torrent is downloaded, offer to add torrents from any .torrent files found inside it</source>
         <translation>토렌트가 다운로드되면, 그 안에 있는 .torrent 파일에서 토렌트를 추가하도록 제안합니다</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1138"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3224"/>
         <source>Enable recursive download dialog</source>
         <translation>반복적으로 다운로드 창 활성화</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1165"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3231"/>
         <source>Automatic: Various torrent properties (e.g. save path) will be decided by the associated category
 Manual: Various torrent properties (e.g. save path) must be assigned manually</source>
         <translation>자동: 여러 토렌트 속성(예: 저장 경로)은 관련 범주에 따라 결정됩니다
@@ -6797,84 +7175,100 @@ Manual: Various torrent properties (e.g. save path) must be assigned manually</s
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1236"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3238"/>
         <source>When Default Save/Incomplete Path changed:</source>
         <translation>기본 저장/불완전 경로가 변경된 경우:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1277"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3242"/>
         <source>When Category Save Path changed:</source>
         <translation>범주 저장 경로가 바뀌었을 때:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1330"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3250"/>
         <source>Use Category paths in Manual Mode</source>
         <translation>수동 모드에서 범주 경로 사용</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1327"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3248"/>
         <source>Resolve relative Save Path against appropriate Category path instead of Default one</source>
         <translation>기본 경로 대신 적절한 범주 경로에 대해 상대 저장 경로를 확인합니다</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="243"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3106"/>
         <source>Use icons from system theme</source>
         <translation>시스템 테마의 아이콘 사용</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="459"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3137"/>
         <source>Window state on start up:</source>
         <translation>시작 시 창 상태:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="466"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3139"/>
         <source>qBittorrent window state on start up</source>
         <translation>시작 시 qBittorrent 창 상태</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="983"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3198"/>
         <source>Torrent stop condition:</source>
         <translation>토렌트 중지 조건:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="994"/>
-        <location filename="../gui/optionsdialog.cpp" line="556"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3199"/>
+        <location filename="../gui/optionsdialog.cpp" line="582"/>
         <source>None</source>
         <translation>없음</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="999"/>
-        <location filename="../gui/optionsdialog.cpp" line="557"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3200"/>
+        <location filename="../gui/optionsdialog.cpp" line="583"/>
         <source>Metadata received</source>
         <translation>수신된 메타데이터</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1004"/>
-        <location filename="../gui/optionsdialog.cpp" line="559"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3201"/>
+        <location filename="../gui/optionsdialog.cpp" line="585"/>
         <source>Files checked</source>
         <translation>파일 확인됨</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1043"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3205"/>
         <source>Ask for merging trackers when torrent is being added manually</source>
         <translation>토렌트를 수동으로 추가할 때 트래커 병합 요청</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1349"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3252"/>
         <source>Use another path for incomplete torrents:</source>
         <translation>불완전한 토렌트에 다른 경로 사용:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1384"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3255"/>
         <source>Automatically add torrents from:</source>
         <translation>토렌트를 자동 추가할 경로:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1478"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3259"/>
         <source>Excluded file names</source>
         <translation>제외된 파일 이름</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1490"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3261"/>
         <source>Blacklist filtered file names from being downloaded from torrent(s).
 Files matching any of the filters in this list will have their priority automatically set to &quot;Do not download&quot;.
 
@@ -6904,151 +7298,184 @@ readme[0-9].txt: &apos;readme1.txt&apos;, &apos;readme2.txt&apos;를 필터링�
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1545"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3281"/>
         <source>Receiver</source>
         <translation>받는사람</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1548"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3283"/>
         <source>To:</source>
         <comment>To receiver</comment>
         <translation>받는사람:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1558"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3284"/>
         <source>SMTP server:</source>
         <translation>SMTP 서버:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1532"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3277"/>
         <source>Sender</source>
         <translation>보낸사람</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1535"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3279"/>
         <source>From:</source>
         <comment>From sender</comment>
         <translation>보낸사람:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1570"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3285"/>
         <source>This server requires a secure connection (SSL)</source>
         <translation>이 서버는 보안 연결(SSL)이 필요합니다</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1577"/>
-        <location filename="../gui/optionsdialog.ui" line="3679"/>
+        <location filename="../gui/optionsdialog.ui" line="3739"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3286"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3476"/>
         <source>Authentication</source>
         <translation>인증</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1589"/>
         <location filename="../gui/optionsdialog.ui" line="2114"/>
-        <location filename="../gui/optionsdialog.ui" line="3687"/>
-        <location filename="../gui/optionsdialog.ui" line="4072"/>
+        <location filename="../gui/optionsdialog.ui" line="3747"/>
+        <location filename="../gui/optionsdialog.ui" line="4132"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3287"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3327"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3477"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3519"/>
         <source>Username:</source>
         <translation>사용자 이름:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1599"/>
         <location filename="../gui/optionsdialog.ui" line="2124"/>
-        <location filename="../gui/optionsdialog.ui" line="3697"/>
-        <location filename="../gui/optionsdialog.ui" line="4082"/>
+        <location filename="../gui/optionsdialog.ui" line="3757"/>
+        <location filename="../gui/optionsdialog.ui" line="4142"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3288"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3328"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3478"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3520"/>
         <source>Password:</source>
         <translation>암호:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1632"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3290"/>
         <source>Run external program</source>
         <translation>외부 프로그램 실행</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1674"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3293"/>
         <source>Show console window</source>
         <translation>콘솔 창 표시</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1736"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3295"/>
         <source>TCP and μTP</source>
         <translation>TCP 및 μTP</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1769"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3297"/>
         <source>Listening Port</source>
         <translation>수신 포트</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1777"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3298"/>
         <source>Port used for incoming connections:</source>
         <translation>수신 연결에 사용되는 포트:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1784"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3300"/>
         <source>Set to 0 to let your system pick an unused port</source>
         <translation>시스템이 사용하지 않는 포트를 선택하도록 하려면 0으로 설정하십시오</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1797"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3303"/>
         <source>Random</source>
         <translation>무작위</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1819"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3304"/>
         <source>Use UPnP / NAT-PMP port forwarding from my router</source>
         <translation>라우터에서 포트 포워딩하기 위해 UPnP / NAT-PMP 사용</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1832"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3305"/>
         <source>Connections Limits</source>
         <translation>연결 제한</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1877"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3307"/>
         <source>Maximum number of connections per torrent:</source>
         <translation>토렌트당 최대 연결:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1838"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3306"/>
         <source>Global maximum number of connections:</source>
         <translation>전역 최대 연결:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1917"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3309"/>
         <source>Maximum number of upload slots per torrent:</source>
         <translation>토렌트당 최대 업로드 슬롯:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1900"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3308"/>
         <source>Global maximum number of upload slots:</source>
         <translation>전역 최대 업로드 슬롯:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2012"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3317"/>
         <source>Proxy Server</source>
         <translation>프록시 서버</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2020"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3318"/>
         <source>Type:</source>
         <translation>형식:</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="893"/>
+        <location filename="../gui/optionsdialog.cpp" line="919"/>
         <source>SOCKS4</source>
         <translation>SOCKS4</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="894"/>
+        <location filename="../gui/optionsdialog.cpp" line="920"/>
         <source>SOCKS5</source>
         <translation>SOCKS5</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="895"/>
+        <location filename="../gui/optionsdialog.cpp" line="921"/>
         <source>HTTP</source>
         <translation>HTTP</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1951"/>
         <location filename="../gui/optionsdialog.ui" line="2030"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3311"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3319"/>
         <source>Host:</source>
         <translation>호스트:</translation>
     </message>
@@ -7056,51 +7483,63 @@ readme[0-9].txt: &apos;readme1.txt&apos;, &apos;readme2.txt&apos;를 필터링�
         <location filename="../gui/optionsdialog.ui" line="1961"/>
         <location filename="../gui/optionsdialog.ui" line="2040"/>
         <location filename="../gui/optionsdialog.ui" line="3593"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3312"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3320"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3466"/>
         <source>Port:</source>
         <translation>포트:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2162"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3332"/>
         <source>Otherwise, the proxy server is only used for tracker connections</source>
         <translation>설정하지 않으면 프록시 서버는 트래커 연결에만 사용됩니다.</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2165"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3334"/>
         <source>Use proxy for peer connections</source>
         <translation>피어 연결에 프록시 사용</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2100"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3326"/>
         <source>A&amp;uthentication</source>
         <translation>인증(&amp;A)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2140"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3329"/>
         <source>Info: The password is saved unencrypted</source>
         <translation>정보: 암호는 평문으로 저장됩니다</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2212"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3344"/>
         <source>Filter path (.dat, .p2p, .p2b):</source>
         <translation>필터 경로 (.dat, .p2p, .p2b):</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2222"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3346"/>
         <source>Reload the filter</source>
         <translation>필터 다시 불러오기</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2237"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3348"/>
         <source>Manually banned IP addresses...</source>
         <translation>직접 차단한 IP 주소…</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2244"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3349"/>
         <source>Apply to trackers</source>
         <translation>트래커에 적용</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2302"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3350"/>
         <source>Global Rate Limits</source>
         <translation>전역 속도 제한</translation>
     </message>
@@ -7112,6 +7551,13 @@ readme[0-9].txt: &apos;readme1.txt&apos;, &apos;readme2.txt&apos;를 필터링�
         <location filename="../gui/optionsdialog.ui" line="2843"/>
         <location filename="../gui/optionsdialog.ui" line="2876"/>
         <location filename="../gui/optionsdialog.ui" line="2896"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3352"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3355"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3359"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3362"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3413"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3415"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3417"/>
         <source>∞</source>
         <translation>∞</translation>
     </message>
@@ -7122,597 +7568,682 @@ readme[0-9].txt: &apos;readme1.txt&apos;, &apos;readme2.txt&apos;를 필터링�
         <location filename="../gui/optionsdialog.ui" line="2437"/>
         <location filename="../gui/optionsdialog.ui" line="2928"/>
         <location filename="../gui/optionsdialog.ui" line="2964"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3353"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3356"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3360"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3363"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3420"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3422"/>
         <source> KiB/s</source>
         <translation> KiB/s</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2311"/>
         <location filename="../gui/optionsdialog.ui" line="2388"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3351"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3358"/>
         <source>Upload:</source>
         <translation>업로드:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2350"/>
         <location filename="../gui/optionsdialog.ui" line="2427"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3354"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3361"/>
         <source>Download:</source>
         <translation>다운로드:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2379"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3357"/>
         <source>Alternative Rate Limits</source>
         <translation>대체 속도 제한</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2465"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3366"/>
         <source>Start time</source>
         <translation>시작 시간</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2495"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3370"/>
         <source>End time</source>
         <translation>종료 시간</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2535"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3373"/>
         <source>When:</source>
         <translation>시기:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2549"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3374"/>
         <source>Every day</source>
         <translation>매일</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2554"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3375"/>
         <source>Weekdays</source>
         <translation>평일</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2559"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3376"/>
         <source>Weekends</source>
         <translation>주말</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2573"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3378"/>
         <source>Rate Limits Settings</source>
         <translation>속도 제한 설정</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2593"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3381"/>
         <source>Apply rate limit to peers on LAN</source>
         <translation>LAN 피어에 속도 제한 적용</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2586"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3380"/>
         <source>Apply rate limit to transport overhead</source>
         <translation>오버헤드 전송에 속도 제한 적용</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1996"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3314"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If &quot;mixed mode&quot; is enabled I2P torrents are allowed to also get peers from other sources than the tracker, and connect to regular IPs, not providing any anonymization. This may be useful if the user is not interested in the anonymization of I2P, but still wants to be able to connect to I2P peers.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;“혼합 모드”를 활성화하면 I2P 토렌트는 트래커가 아닌 다른 소스에서 피어를 가져와 일반 IP에 연결할 수 있으며 익명화를 제공하지 않습니다. 이 모드는 사용자가 I2P 익명화에 관심이 없지만 I2P 피어에 연결할 수 있기를 원하는 경우에 유용할 수 있습니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2579"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3379"/>
         <source>Apply rate limit to µTP protocol</source>
         <translation>μTP 프로토콜에 속도 제한 적용</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2651"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3382"/>
         <source>Privacy</source>
         <translation>개인 정보</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2660"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3386"/>
         <source>Enable DHT (decentralized network) to find more peers</source>
         <translation>DHT(분산 네트워크)를 활성화하여 더 많은 피어 찾기</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2670"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3388"/>
         <source>Exchange peers with compatible Bittorrent clients (µTorrent, Vuze, ...)</source>
         <translation>호환 BitTorrent 클라이언트(µTorrent, Vuze 등)와 피어 교환</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2673"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3390"/>
         <source>Enable Peer Exchange (PeX) to find more peers</source>
         <translation>피어 교환(PeX)을 활성화하여 더 많은 피어 찾기</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2683"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3392"/>
         <source>Look for peers on your local network</source>
         <translation>로컬 네트워크 피어 찾기</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2686"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3394"/>
         <source>Enable Local Peer Discovery to find more peers</source>
         <translation>로컬 피어 찾기를 활성화해서 더 많은 피어 찾기</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2698"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3395"/>
         <source>Encryption mode:</source>
         <translation>암호화 모드:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2716"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3397"/>
         <source>Require encryption</source>
         <translation>암호화 필요</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2721"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3398"/>
         <source>Disable encryption</source>
         <translation>암호화 비활성화</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2746"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3406"/>
         <source>Enable when using a proxy or a VPN connection</source>
         <translation>프록시나 VPN 연결을 이용할 때 활성화</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2749"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3408"/>
         <source>Enable anonymous mode</source>
         <translation>익명 모드 활성화</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2836"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3412"/>
         <source>Maximum active downloads:</source>
         <translation>최대 다운로드:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2869"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3414"/>
         <source>Maximum active uploads:</source>
         <translation>최대 업로드:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2889"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3416"/>
         <source>Maximum active torrents:</source>
         <translation>최대 활성 토렌트:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2909"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3418"/>
         <source>Do not count slow torrents in these limits</source>
         <translation>이 제한에 느린 토렌트는 계산하지 않음</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2957"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3421"/>
         <source>Upload rate threshold:</source>
         <translation>업로드 속도 임계값:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2921"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3419"/>
         <source>Download rate threshold:</source>
         <translation>다운로드 속도 임계값:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2987"/>
         <location filename="../gui/optionsdialog.ui" line="3415"/>
-        <location filename="../gui/optionsdialog.ui" line="3785"/>
-        <location filename="../gui/optionsdialog.ui" line="3812"/>
+        <location filename="../gui/optionsdialog.ui" line="3845"/>
+        <location filename="../gui/optionsdialog.ui" line="3872"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3424"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3450"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3486"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3489"/>
         <source> sec</source>
         <extracomment>seconds</extracomment>
         <translation>초</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2980"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3423"/>
         <source>Torrent inactivity timer:</source>
         <translation>토렌트 비활성 타이머:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3094"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3431"/>
         <source>then</source>
         <translation>제한 조치:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3615"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3467"/>
         <source>Use UPnP / NAT-PMP to forward the port from my router</source>
         <translation>라우터에서 포트 포워딩하기 위해 UPnP / NAT-PMP 사용</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3640"/>
+        <location filename="../gui/optionsdialog.ui" line="3700"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3473"/>
         <source>Certificate:</source>
         <translation>인증서:</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3653"/>
+        <location filename="../gui/optionsdialog.ui" line="3713"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3474"/>
         <source>Key:</source>
         <translation>키:</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3663"/>
+        <location filename="../gui/optionsdialog.ui" line="3723"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3475"/>
         <source>&lt;a href=https://httpd.apache.org/docs/current/ssl/ssl_faq.html#aboutcerts&gt;Information about certificates&lt;/a&gt;</source>
         <translation>&lt;a href=https://httpd.apache.org/docs/current/ssl/ssl_faq.html#aboutcerts&gt;인증서 정보&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3707"/>
+        <location filename="../gui/optionsdialog.ui" line="3767"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3479"/>
         <source>Change current password</source>
         <translation>현재 암호 바꾸기</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3854"/>
+        <location filename="../gui/optionsdialog.ui" line="3914"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3491"/>
         <source>Files location:</source>
         <translation>파일 위치:</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3866"/>
+        <location filename="../gui/optionsdialog.ui" line="3926"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3492"/>
         <source>&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs&quot;&gt;List of alternative WebUI&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs&quot;&gt;대체 웹UI 목록&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3882"/>
+        <location filename="../gui/optionsdialog.ui" line="3942"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3493"/>
         <source>Security</source>
         <translation>보안</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3888"/>
+        <location filename="../gui/optionsdialog.ui" line="3948"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3494"/>
         <source>Enable clickjacking protection</source>
         <translation>클릭 가로채기 방지 활성화</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3895"/>
+        <location filename="../gui/optionsdialog.ui" line="3955"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3495"/>
         <source>Enable Cross-Site Request Forgery (CSRF) protection</source>
         <translation>사이트 간 요청 위조(CSRF) 보호 활성화</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3902"/>
+        <location filename="../gui/optionsdialog.ui" line="3962"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3496"/>
         <source>Enable cookie Secure flag (requires HTTPS or localhost connection)</source>
         <translation>쿠키 보안 플래그 사용 (HTTPS 또는 localhost 연결 필요)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3909"/>
+        <location filename="../gui/optionsdialog.ui" line="3969"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3497"/>
         <source>Enable Host header validation</source>
         <translation>호스트 헤더 유효성 검사 활성화</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3946"/>
+        <location filename="../gui/optionsdialog.ui" line="4006"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3506"/>
         <source>Add custom HTTP headers</source>
         <translation>사용자 지정 HTTP 헤더 추가</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3961"/>
+        <location filename="../gui/optionsdialog.ui" line="4021"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3507"/>
         <source>Header: value pairs, one per line</source>
         <translation>헤더: 값, 한 줄에 하나</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3971"/>
+        <location filename="../gui/optionsdialog.ui" line="4031"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3508"/>
         <source>Enable reverse proxy support</source>
         <translation>역방향 프록시 지원 활성화</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3982"/>
+        <location filename="../gui/optionsdialog.ui" line="4042"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3509"/>
         <source>Trusted proxies list:</source>
         <translation>신뢰할 수 있는 프록시 목록:</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3998"/>
+        <location filename="../gui/optionsdialog.ui" line="4058"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3513"/>
         <source>&lt;a href=https://github.com/qbittorrent/qBittorrent/wiki#reverse-proxy-setup-for-webui-access&gt;Reverse proxy setup examples&lt;/a&gt;</source>
         <translation>&lt;a href=https://github.com/qbittorrent/qBittorrent/wiki#reverse-proxy-setup-for-webui-access&gt;역방향 프록시 설정 예시&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="4026"/>
+        <location filename="../gui/optionsdialog.ui" line="4086"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3515"/>
         <source>Service:</source>
         <translation>서비스:</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="4049"/>
+        <location filename="../gui/optionsdialog.ui" line="4109"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3517"/>
         <source>Register</source>
         <translation>등록</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="4058"/>
+        <location filename="../gui/optionsdialog.ui" line="4118"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3518"/>
         <source>Domain name:</source>
         <translation>도메인 이름:</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="584"/>
+        <location filename="../gui/optionsdialog.cpp" line="610"/>
         <source>By enabling these options, you can &lt;strong&gt;irrevocably lose&lt;/strong&gt; your .torrent files!</source>
         <translation>이 옵션으로 .torrent 파일을 &lt;strong&gt;복구 불가능하게 제거&lt;/strong&gt;할 수 있습니다!</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="591"/>
+        <location filename="../gui/optionsdialog.cpp" line="617"/>
         <source>If you enable the second option (&amp;ldquo;Also when addition is cancelled&amp;rdquo;) the .torrent file &lt;strong&gt;will be deleted&lt;/strong&gt; even if you press &amp;ldquo;&lt;strong&gt;Cancel&lt;/strong&gt;&amp;rdquo; in the &amp;ldquo;Add torrent&amp;rdquo; dialog</source>
         <translation>두 번째 옵션을 활성화하도록 설정하면(&amp;ldquo;또한 추가가 취소된 경우에도&amp;rdquo;) &amp;ldquo;토렌트 추가&amp;rdquo; 대화상자에서 &amp;ldquo;&lt;strong&gt;취소&lt;/strong&gt;&amp;rdquo; 버튼을 누르면 .torrent 파일이 &lt;strong&gt;삭제&lt;/strong&gt;됩니다</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="254"/>
+        <location filename="../gui/optionsdialog.cpp" line="280"/>
         <source>Select qBittorrent UI Theme file</source>
         <translation>qBittorrent UI 테마 파일 선택</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1312"/>
+        <location filename="../gui/optionsdialog.cpp" line="1338"/>
         <source>Choose Alternative UI files location</source>
         <translation>대체 UI 파일 위치 선정</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="664"/>
+        <location filename="../gui/optionsdialog.cpp" line="690"/>
         <source>Supported parameters (case sensitive):</source>
         <translation>지원 변수 (대소문자 구분):</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="298"/>
+        <location filename="../gui/optionsdialog.cpp" line="324"/>
         <source>Minimized</source>
         <translation>최소화됨</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="300"/>
+        <location filename="../gui/optionsdialog.cpp" line="326"/>
         <source>Hidden</source>
         <translation>숨겨짐</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="315"/>
+        <location filename="../gui/optionsdialog.cpp" line="341"/>
         <source>Disabled due to failed to detect system tray presence</source>
         <translation>시스템 트레이 존재를 감지하지 못하여 비활성화됨</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="556"/>
+        <location filename="../gui/optionsdialog.cpp" line="582"/>
         <source>No stop condition is set.</source>
         <translation>중지 조건이 설정되지 않았습니다.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="557"/>
+        <location filename="../gui/optionsdialog.cpp" line="583"/>
         <source>Torrent will stop after metadata is received.</source>
         <translation>메타데이터가 수신되면 토렌트가 중지됩니다.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="559"/>
+        <location filename="../gui/optionsdialog.cpp" line="585"/>
         <source>Torrent will stop after files are initially checked.</source>
         <translation>파일을 처음 확인한 후에는 토렌트가 중지됩니다.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="560"/>
+        <location filename="../gui/optionsdialog.cpp" line="586"/>
         <source>This will also download metadata if it wasn&apos;t there initially.</source>
         <translation>처음에 메타데이터가 없는 경우 메타데이터 또한 다운로드됩니다.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="665"/>
+        <location filename="../gui/optionsdialog.cpp" line="691"/>
         <source>%N: Torrent name</source>
         <translation>%N: 토렌트 이름</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="666"/>
+        <location filename="../gui/optionsdialog.cpp" line="692"/>
         <source>%L: Category</source>
         <translation>%L: 범주</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="668"/>
+        <location filename="../gui/optionsdialog.cpp" line="694"/>
         <source>%F: Content path (same as root path for multifile torrent)</source>
         <translation>%F: 내용 경로 (다중 파일 토렌트의 루트 경로와 동일)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="669"/>
+        <location filename="../gui/optionsdialog.cpp" line="695"/>
         <source>%R: Root path (first torrent subdirectory path)</source>
         <translation>%R: 루트 경로 (첫 토렌트의 하위 디렉터리 경로)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="670"/>
+        <location filename="../gui/optionsdialog.cpp" line="696"/>
         <source>%D: Save path</source>
         <translation>%D: 저장 경로</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="671"/>
+        <location filename="../gui/optionsdialog.cpp" line="697"/>
         <source>%C: Number of files</source>
         <translation>%C: 파일 수</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="672"/>
+        <location filename="../gui/optionsdialog.cpp" line="698"/>
         <source>%Z: Torrent size (bytes)</source>
         <translation>%Z: 토렌트 크기 (바이트)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="673"/>
+        <location filename="../gui/optionsdialog.cpp" line="699"/>
         <source>%T: Current tracker</source>
         <translation>%T: 현재 트래커</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="677"/>
+        <location filename="../gui/optionsdialog.cpp" line="703"/>
         <source>Tip: Encapsulate parameter with quotation marks to avoid text being cut off at whitespace (e.g., &quot;%N&quot;)</source>
         <translation>도움말: 텍스트가 공백에서 잘리지 않게 하려면 변수를 따옴표로 감싸십시오. (예: &quot;%N&quot;)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="742"/>
+        <location filename="../gui/optionsdialog.cpp" line="768"/>
         <source>Test email</source>
         <translation>테스트 메일</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="742"/>
+        <location filename="../gui/optionsdialog.cpp" line="768"/>
         <source>Attempted to send email. Check your inbox to confirm success</source>
         <translation>이메일 전송을 시도했습니다. 받은 편지함을 확인하여 성공 여부를 확인하세요.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="892"/>
+        <location filename="../gui/optionsdialog.cpp" line="918"/>
         <source>(None)</source>
         <translation>(없음)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1091"/>
+        <location filename="../gui/optionsdialog.cpp" line="1117"/>
         <source>A torrent will be considered slow if its download and upload rates stay below these values for &quot;Torrent inactivity timer&quot; seconds</source>
         <translation>&quot;토렌트 비활성 시간(초)&quot;동안 다운로드/업로드 속도가 이 값 이하면 느린 토렌트로 간주합니다.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1306"/>
+        <location filename="../gui/optionsdialog.cpp" line="1332"/>
         <source>Certificate</source>
         <translation>자격 증명</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1307"/>
+        <location filename="../gui/optionsdialog.cpp" line="1333"/>
         <source>Select certificate</source>
         <translation>자격 증명 선택</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1309"/>
+        <location filename="../gui/optionsdialog.cpp" line="1335"/>
         <source>Private key</source>
         <translation>개인 키</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1310"/>
+        <location filename="../gui/optionsdialog.cpp" line="1336"/>
         <source>Select private key</source>
         <translation>개인 키 선택</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1315"/>
+        <location filename="../gui/optionsdialog.cpp" line="1341"/>
         <source>WebUI configuration failed. Reason: %1</source>
         <translation>WebUI 구성에 실패했습니다. 원인: %1</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1740"/>
+        <location filename="../gui/optionsdialog.cpp" line="1770"/>
         <source>%1 is recommended for best compatibility with Windows dark mode</source>
         <comment>Fusion is recommended for best compatibility with Windows dark mode</comment>
         <translation>윈도 다크 모드와의 최상의 호환성을 위해 %1을(를) 권장합니다.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1742"/>
+        <location filename="../gui/optionsdialog.cpp" line="1772"/>
         <source>System</source>
         <comment>System default Qt style</comment>
         <translation>시스템</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1743"/>
+        <location filename="../gui/optionsdialog.cpp" line="1773"/>
         <source>Let Qt decide the style for this system</source>
         <translation>Qt가 이 시스템의 스타일을 결정하도록 하세요.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1768"/>
+        <location filename="../gui/optionsdialog.cpp" line="1798"/>
         <source>Dark</source>
         <comment>Dark color scheme</comment>
         <translation>다크</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1769"/>
+        <location filename="../gui/optionsdialog.cpp" line="1799"/>
         <source>Light</source>
         <comment>Light color scheme</comment>
         <translation>라이트</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1770"/>
+        <location filename="../gui/optionsdialog.cpp" line="1800"/>
         <source>System</source>
         <comment>System color scheme</comment>
         <translation>시스템</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1893"/>
+        <location filename="../gui/optionsdialog.cpp" line="1923"/>
         <source>Select folder to monitor</source>
         <translation>모니터할 폴더 선택</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1915"/>
+        <location filename="../gui/optionsdialog.cpp" line="1945"/>
         <source>Adding entry failed</source>
         <translation>항목을 추가하지 못했습니다</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2014"/>
+        <location filename="../gui/optionsdialog.cpp" line="2044"/>
         <source>The WebUI username must be at least 3 characters long.</source>
         <translation>WebUI 사용자이름은 3자 이상이어야 합니다.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2021"/>
+        <location filename="../gui/optionsdialog.cpp" line="2051"/>
         <source>The WebUI password must be at least 6 characters long.</source>
         <translation>WebUI 비밀번호는 6자 이상이어야 합니다.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2031"/>
+        <location filename="../gui/optionsdialog.cpp" line="2061"/>
         <source>Location Error</source>
         <translation>위치 오류</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="621"/>
-        <location filename="../gui/optionsdialog.cpp" line="629"/>
+        <location filename="../gui/optionsdialog.cpp" line="647"/>
+        <location filename="../gui/optionsdialog.cpp" line="655"/>
         <source>Choose export directory</source>
         <translation>내보낼 디렉터리 선정</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="586"/>
+        <location filename="../gui/optionsdialog.cpp" line="612"/>
         <source>When these options are enabled, qBittorrent will &lt;strong&gt;delete&lt;/strong&gt; .torrent files after they were successfully (the first option) or not (the second option) added to its download queue. This will be applied &lt;strong&gt;not only&lt;/strong&gt; to the files opened via &amp;ldquo;Add torrent&amp;rdquo; menu action but to those opened via &lt;strong&gt;file type association&lt;/strong&gt; as well</source>
         <translation>이 옵션이 활성화되면, qBittorrent는 .torrent 파일이 다운로드 대기열에 성공적으로 추가되거나(첫 번째 옵션) 추가되지 않았을 때(두 번째 옵션) 해당 파일을 &lt;strong&gt;삭제&lt;/strong&gt;합니다. 이 옵션은 &amp;ldquo;토렌트 추가&amp;rdquo; 메뉴를 통해 연 파일&lt;strong&gt;뿐만 아니라&lt;/strong&gt; &lt;strong&gt;파일 유형 연계&lt;/strong&gt;를 통해 연 파일에도 적용됩니다.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="255"/>
+        <location filename="../gui/optionsdialog.cpp" line="281"/>
         <source>qBittorrent UI Theme file (*.qbtheme config.json)</source>
         <translation>qBittorrent UI 테마 파일(*.qbtheme config.json)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="667"/>
+        <location filename="../gui/optionsdialog.cpp" line="693"/>
         <source>%G: Tags (separated by comma)</source>
         <translation>%G: 태그(쉼표로 분리)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="674"/>
+        <location filename="../gui/optionsdialog.cpp" line="700"/>
         <source>%I: Info hash v1 (or &apos;-&apos; if unavailable)</source>
         <translation>%J: 정보 해시 v1 (사용할 수 없는 경우 &apos;-&apos;)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="675"/>
+        <location filename="../gui/optionsdialog.cpp" line="701"/>
         <source>%J: Info hash v2 (or &apos;-&apos; if unavailable)</source>
         <translation>%J: 정보 해시 v2 (사용할 수 없는 경우 &apos;-&apos;)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="676"/>
+        <location filename="../gui/optionsdialog.cpp" line="702"/>
         <source>%K: Torrent ID (either sha-1 info hash for v1 torrent or truncated sha-256 info hash for v2/hybrid torrent)</source>
         <translation>%K: 토렌트 ID (v1 토렌트에 대한 sha-1 정보 해시 또는 v2/하이브리드 토렌트에 대한 몹시 생략된 sha-256 정보 해시)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="342"/>
-        <location filename="../gui/optionsdialog.cpp" line="609"/>
-        <location filename="../gui/optionsdialog.cpp" line="614"/>
+        <location filename="../gui/optionsdialog.cpp" line="368"/>
+        <location filename="../gui/optionsdialog.cpp" line="635"/>
+        <location filename="../gui/optionsdialog.cpp" line="640"/>
         <source>Choose a save directory</source>
         <translation>저장 디렉터리 선정</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="558"/>
+        <location filename="../gui/optionsdialog.cpp" line="584"/>
         <source>Torrents that have metadata initially will be added as stopped.</source>
         <translation>처음에 메타데이터가 포함된 토렌트는 중지된 상태로 추가</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="912"/>
+        <location filename="../gui/optionsdialog.cpp" line="938"/>
         <source>Choose an IP filter file</source>
         <translation>IP 필터 파일 선정</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="914"/>
+        <location filename="../gui/optionsdialog.cpp" line="940"/>
         <source>All supported filters</source>
         <translation>지원하는 모든 필터</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2031"/>
+        <location filename="../gui/optionsdialog.cpp" line="2061"/>
         <source>The alternative WebUI files location cannot be blank.</source>
         <translation>대체 WebUI 파일 위치는 비워둘 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2068"/>
+        <location filename="../gui/optionsdialog.cpp" line="2091"/>
+        <source>Add MIME type override</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/optionsdialog.cpp" line="2092"/>
+        <source>Failed to add MIME type override. Ensure the extension is unique and both fields are not empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/optionsdialog.cpp" line="2115"/>
+        <source>Edit MIME type override</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/optionsdialog.cpp" line="2116"/>
+        <source>Failed to update MIME type override. Ensure the extension is unique and both fields are not empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/optionsdialog.cpp" line="2167"/>
         <source>Parsing error</source>
         <translation>분석 오류</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2068"/>
+        <location filename="../gui/optionsdialog.cpp" line="2167"/>
         <source>Failed to parse the provided IP filter</source>
         <translation>제공한 IP 필터를 분석하지 못했습니다</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2070"/>
+        <location filename="../gui/optionsdialog.cpp" line="2169"/>
         <source>Successfully refreshed</source>
         <translation>새로 고쳤습니다</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2070"/>
+        <location filename="../gui/optionsdialog.cpp" line="2169"/>
         <source>Successfully parsed the provided IP filter: %1 rules were applied.</source>
         <comment>%1 is a number</comment>
         <translation>제공한 IP 필터를 분석했습니다: %1개 규칙을 적용했습니다.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="154"/>
+        <location filename="../gui/optionsdialog.cpp" line="161"/>
         <source>Preferences</source>
         <translation>환경설정</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2079"/>
+        <location filename="../gui/optionsdialog.cpp" line="2178"/>
         <source>Time Error</source>
         <translation>시간 오류</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2079"/>
+        <location filename="../gui/optionsdialog.cpp" line="2178"/>
         <source>The start time and the end time can&apos;t be the same.</source>
         <translation>시작 시간과 종료 시간은 같을 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2014"/>
-        <location filename="../gui/optionsdialog.cpp" line="2021"/>
+        <location filename="../gui/optionsdialog.cpp" line="2044"/>
+        <location filename="../gui/optionsdialog.cpp" line="2051"/>
         <source>Length Error</source>
         <translation>길이 오류</translation>
     </message>
@@ -7968,16 +8499,19 @@ readme[0-9].txt: &apos;readme1.txt&apos;, &apos;readme2.txt&apos;를 필터링�
     <name>PeersAdditionDialog</name>
     <message>
         <location filename="../gui/properties/peersadditiondialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_peersadditiondialog.h" line="66"/>
         <source>Add Peers</source>
         <translation>피어 추가</translation>
     </message>
     <message>
         <location filename="../gui/properties/peersadditiondialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_peersadditiondialog.h" line="67"/>
         <source>List of peers to add (one IP per line):</source>
         <translation>추가할 피어 목록 (줄 당 IP 하나):</translation>
     </message>
     <message>
         <location filename="../gui/properties/peersadditiondialog.ui" line="36"/>
+        <location filename="../../build/src/gui/ui_peersadditiondialog.h" line="68"/>
         <source>Format: IPv4:port / [IPv6]:port</source>
         <translation>형식: IPv4:포트 / [IPv6]:포트</translation>
     </message>
@@ -8047,62 +8581,75 @@ readme[0-9].txt: &apos;readme1.txt&apos;, &apos;readme2.txt&apos;를 필터링�
     <name>PluginSelectDialog</name>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="17"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="116"/>
         <source>Search plugins</source>
         <translation>검색 플러그인</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="29"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="119"/>
         <source>Installed search plugins:</source>
         <translation>설치한 검색 플러그인:</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="52"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="124"/>
         <source>Name</source>
         <translation>이름</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="57"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="123"/>
         <source>Version</source>
         <translation>버전</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="62"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="122"/>
         <source>Url</source>
         <translation>URL</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="67"/>
         <location filename="../gui/search/pluginselectdialog.ui" line="133"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="117"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="121"/>
         <source>Enabled</source>
         <translation>활성화됨</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="80"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="125"/>
         <source>Warning: Be sure to comply with your country&apos;s copyright laws when downloading torrents from any of these search engines.</source>
         <translation>경고: 검색 엔진에서 토렌트를 다운로드할 때 해당 국가의 저작권법을 준수해야 합니다.</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="95"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="126"/>
         <source>You can get new search engine plugins here: &lt;a href=&quot;https://plugins.qbittorrent.org&quot;&gt;https://plugins.qbittorrent.org&lt;/a&gt;</source>
         <translation>여기에서 새로운 검색 엔진 플러그인을 받을 수 있습니다: &lt;a href=&quot;https://plugins.qbittorrent.org&quot;&gt;https://plugins.qbittorrent.org&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="107"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="127"/>
         <source>Install a new one</source>
         <translation>새로운 플러그인 설치</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="114"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="128"/>
         <source>Check for updates</source>
         <translation>업데이트 확인</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="121"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="129"/>
         <source>Close</source>
         <translation>닫기</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="138"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="118"/>
         <source>Uninstall</source>
         <translation>설치 삭제</translation>
     </message>
@@ -8218,21 +8765,25 @@ Those plugins were disabled.</source>
     <name>PluginSourceDialog</name>
     <message>
         <location filename="../gui/search/pluginsourcedialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_pluginsourcedialog.h" line="70"/>
         <source>Plugin source</source>
         <translation>플러그인 소스</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginsourcedialog.ui" line="26"/>
+        <location filename="../../build/src/gui/ui_pluginsourcedialog.h" line="71"/>
         <source>Search plugin source:</source>
         <translation>검색 플러그인 소스:</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginsourcedialog.ui" line="35"/>
+        <location filename="../../build/src/gui/ui_pluginsourcedialog.h" line="72"/>
         <source>Local file</source>
         <translation>로컬 파일</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginsourcedialog.ui" line="42"/>
+        <location filename="../../build/src/gui/ui_pluginsourcedialog.h" line="73"/>
         <source>Web link</source>
         <translation>웹 링크</translation>
     </message>
@@ -8319,6 +8870,7 @@ Those plugins were disabled.</source>
     </message>
     <message>
         <location filename="../gui/previewselectdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_previewselectdialog.h" line="66"/>
         <source>Preview selection</source>
         <translation>선택항목 미리보기</translation>
     </message>
@@ -8401,173 +8953,208 @@ Those plugins were disabled.</source>
     <name>PropertiesWidget</name>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="262"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="794"/>
         <source>Downloaded:</source>
         <translation>다운로드함:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="117"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="789"/>
         <source>Availability:</source>
         <translation>가용성:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="81"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="788"/>
         <source>Progress:</source>
         <translation>진행률:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="157"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="790"/>
         <source>Transfer</source>
         <translation>전송</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="175"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="791"/>
         <source>Time Active:</source>
         <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>활성 시간:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="204"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="792"/>
         <source>ETA:</source>
         <translation>남은 시간:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="291"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="795"/>
         <source>Uploaded:</source>
         <translation>올려줌:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="320"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="796"/>
         <source>Seeds:</source>
         <translation>시드:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="349"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="797"/>
         <source>Download Speed:</source>
         <translation>다운로드 속도:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="378"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="798"/>
         <source>Upload Speed:</source>
         <translation>업로드 속도:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="407"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="799"/>
         <source>Peers:</source>
         <translation>피어:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="436"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="800"/>
         <source>Download Limit:</source>
         <translation>다운로드 제한:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="465"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="801"/>
         <source>Upload Limit:</source>
         <translation>업로드 제한:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="494"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="802"/>
         <source>Wasted:</source>
         <translation>낭비됨:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="233"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="793"/>
         <source>Connections:</source>
         <translation>연결:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="642"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="813"/>
         <source>Information</source>
         <translation>정보</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="866"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="821"/>
         <source>Info Hash v1:</source>
         <translation>정보 해시 v1:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="898"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="822"/>
         <source>Info Hash v2:</source>
         <translation>정보 해시 v2:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="965"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="824"/>
         <source>Comment:</source>
         <translation>주석:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="1125"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="825"/>
         <source>Select All</source>
         <translation>모두 선택</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="1132"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="826"/>
         <source>Select None</source>
         <translation>선택 없음</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="523"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="803"/>
         <source>Share Ratio:</source>
         <translation>공유 비율:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="552"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="804"/>
         <source>Reannounce In:</source>
         <translation>다시 알림 시간:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="581"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="805"/>
         <source>Last Seen Complete:</source>
         <translation>최근 완료:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="610"/>
         <location filename="../gui/properties/propertieswidget.ui" line="629"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="807"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="811"/>
         <source>Ratio / Time Active (in months), indicates how popular the torrent is</source>
         <translation>비율/활성 시간(개월), 토렌트의 인기도를 나타냅니다.</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="613"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="809"/>
         <source>Popularity:</source>
         <translation>인지도:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="660"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="814"/>
         <source>Total Size:</source>
         <translation>전체 크기:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="689"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="815"/>
         <source>Pieces:</source>
         <translation>조각:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="718"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="816"/>
         <source>Created By:</source>
         <translation>생성자:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="747"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="817"/>
         <source>Added On:</source>
         <translation>추가된 날짜:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="776"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="818"/>
         <source>Completed On:</source>
         <translation>완료된 날짜:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="805"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="819"/>
         <source>Created On:</source>
         <translation>만든 날짜:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="834"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="820"/>
         <source>Private:</source>
         <translation>비공개:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="930"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="823"/>
         <source>Save Path:</source>
         <translation>저장 경로:</translation>
     </message>
@@ -8896,16 +9483,19 @@ Those plugins were disabled.</source>
     <name>RSSWidget</name>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="17"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="180"/>
         <source>Search</source>
         <translation>검색</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="31"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="210"/>
         <source>Fetching of RSS feeds is disabled now! You can enable it in application settings.</source>
         <translation>지금 RSS 피드 가져오기가 비활성화되었습니다! 앱 설정에서 활성화할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="43"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="211"/>
         <source>New subscription</source>
         <translation>새로운 구독</translation>
     </message>
@@ -8913,89 +9503,111 @@ Those plugins were disabled.</source>
         <location filename="../gui/rss/rsswidget.ui" line="50"/>
         <location filename="../gui/rss/rsswidget.ui" line="175"/>
         <location filename="../gui/rss/rsswidget.ui" line="178"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="198"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="200"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="212"/>
         <source>Mark items read</source>
         <translation>읽은 항목들 표시</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="57"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="214"/>
         <source>Refresh RSS streams</source>
         <translation>RSS 스트림 새로고침</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="60"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="216"/>
         <source>Update all</source>
         <translation>모두 업데이트</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="80"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="217"/>
         <source>RSS Downloader...</source>
         <translation>RSS 다운로드 도구…</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="108"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="218"/>
         <source>Torrents: (double-click to download)</source>
         <translation>토렌트: (두 번 클릭해서 다운로드)</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="138"/>
         <location filename="../gui/rss/rsswidget.ui" line="141"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="181"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="183"/>
         <source>Delete</source>
         <translation>삭제</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="146"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="185"/>
         <source>Rename...</source>
         <translation>이름 바꾸기…</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="149"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="187"/>
         <source>Rename</source>
         <translation>이름 바꾸기</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="154"/>
         <location filename="../gui/rss/rsswidget.ui" line="157"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="189"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="191"/>
         <source>Update</source>
         <translation>업데이트</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="162"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="193"/>
         <source>New subscription...</source>
         <translation>새로운 구독…</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="167"/>
         <location filename="../gui/rss/rsswidget.ui" line="170"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="194"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="196"/>
         <source>Update all feeds</source>
         <translation>모든 피드 업데이트</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="183"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="202"/>
         <source>Download torrent</source>
         <translation>토렌트 다운로드</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="188"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="203"/>
         <source>Open news URL</source>
         <translation>뉴스 URL 열기</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="193"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="204"/>
         <source>Copy feed URL</source>
         <translation>피드 URL 복사</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="198"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="205"/>
         <source>New folder...</source>
         <translation>새 폴더…</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="203"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="206"/>
         <source>Edit feed URL...</source>
         <translation>피드 URL 편집...</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="206"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="208"/>
         <source>Edit feed URL</source>
         <translation>피드 URL 편집</translation>
     </message>
@@ -9135,68 +9747,83 @@ Those plugins were disabled.</source>
     <name>SearchJobWidget</name>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="19"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="168"/>
         <source>Results(xxx)</source>
         <translation>결과 (xxx)</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="39"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="169"/>
         <source>Search in:</source>
         <translation>찾기:</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="46"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="171"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Some search engines search in torrent description and in torrent file names too. Whether such results will be shown in the list below is controlled by this mode.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Everywhere &lt;/span&gt;disables filtering and shows everything returned by the search engines.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Torrent names only&lt;/span&gt; shows only torrents whose names match the search query.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;어떤 검색 엔진은 토렌트 설명과 파일 이름도 검색합니다. 검색 결과의 목록 표시 여부를 이 모드로 제어합니다.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;모두&lt;/span&gt;는 필터 사용을 중지하고 검색 엔진이 반환하는 모든 결과를 표시합니다.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;토렌트 이름만&lt;/span&gt;은 이름이 검색 질의와 일치하는 토렌트만 표시합니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="69"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="174"/>
         <source>Set minimum and maximum allowed number of seeders</source>
         <translation>허용되는 최소 및 최대 배포자 수 설정</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="79"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="178"/>
         <source>Minimum number of seeds</source>
         <translation>최소 시드 수</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="96"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="182"/>
         <source>Maximum number of seeds</source>
         <translation>최대 시드 수</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="125"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="186"/>
         <source>Set minimum and maximum allowed size of a torrent</source>
         <translation>토렌트의 최소 및 최대 허용 크기 설정</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="137"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="190"/>
         <source>Minimum torrent size</source>
         <translation>최소 토렌트 크기</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="161"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="194"/>
         <source>Maximum torrent size</source>
         <translation>최대 토렌트 크기</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="72"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="176"/>
         <source>Seeds:</source>
         <translation>시드:</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="89"/>
         <location filename="../gui/search/searchjobwidget.ui" line="152"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="180"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="192"/>
         <source>to</source>
         <translation>~</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="99"/>
         <location filename="../gui/search/searchjobwidget.ui" line="164"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="184"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="196"/>
         <source>∞</source>
         <translation>∞</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="128"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="188"/>
         <source>Size:</source>
         <translation>크기:</translation>
     </message>
@@ -9478,11 +10105,14 @@ Those plugins were disabled.</source>
     <message>
         <location filename="../gui/search/searchwidget.ui" line="14"/>
         <location filename="../gui/search/searchwidget.ui" line="51"/>
+        <location filename="../../build/src/gui/ui_searchwidget.h" line="152"/>
+        <location filename="../../build/src/gui/ui_searchwidget.h" line="153"/>
         <source>Search</source>
         <translation>검색</translation>
     </message>
     <message>
         <location filename="../gui/search/searchwidget.ui" line="86"/>
+        <location filename="../../build/src/gui/ui_searchwidget.h" line="155"/>
         <source>There aren&apos;t any search plugins installed.
 Click the &quot;Search plugins...&quot; button at the bottom right of the window to install some.</source>
         <translation>검색 플러그인이 설치되어 있지 않습니다.
@@ -9490,6 +10120,7 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     </message>
     <message>
         <location filename="../gui/search/searchwidget.ui" line="142"/>
+        <location filename="../../build/src/gui/ui_searchwidget.h" line="157"/>
         <source>Search plugins...</source>
         <translation>플러그인 검색…</translation>
     </message>
@@ -9581,6 +10212,7 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     </message>
     <message>
         <location filename="../gui/search/searchwidget.ui" line="58"/>
+        <location filename="../../build/src/gui/ui_searchwidget.h" line="154"/>
         <location filename="../gui/search/searchwidget.cpp" line="832"/>
         <source>Stop</source>
         <translation>중지</translation>
@@ -9646,6 +10278,7 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     <name>ShutdownConfirmDialog</name>
     <message>
         <location filename="../gui/shutdownconfirmdialog.ui" line="64"/>
+        <location filename="../../build/src/gui/ui_shutdownconfirmdialog.h" line="96"/>
         <source>Don&apos;t show again</source>
         <translation>다시 표시하지 않기</translation>
     </message>
@@ -9719,17 +10352,21 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     <name>SpeedLimitDialog</name>
     <message>
         <location filename="../gui/speedlimitdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="173"/>
         <source>Global Speed Limits</source>
         <translation>전역 속도 제한</translation>
     </message>
     <message>
         <location filename="../gui/speedlimitdialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="174"/>
         <source>Speed limits</source>
         <translation>속도 제한</translation>
     </message>
     <message>
         <location filename="../gui/speedlimitdialog.ui" line="33"/>
         <location filename="../gui/speedlimitdialog.ui" line="109"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="176"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="184"/>
         <source>Upload:</source>
         <translation>업로드:</translation>
     </message>
@@ -9738,6 +10375,10 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
         <location filename="../gui/speedlimitdialog.ui" line="77"/>
         <location filename="../gui/speedlimitdialog.ui" line="123"/>
         <location filename="../gui/speedlimitdialog.ui" line="153"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="177"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="180"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="185"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="188"/>
         <source>∞</source>
         <translation>∞</translation>
     </message>
@@ -9746,17 +10387,24 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
         <location filename="../gui/speedlimitdialog.ui" line="80"/>
         <location filename="../gui/speedlimitdialog.ui" line="126"/>
         <location filename="../gui/speedlimitdialog.ui" line="156"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="178"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="181"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="186"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="189"/>
         <source> KiB/s</source>
         <translation> KiB/s</translation>
     </message>
     <message>
         <location filename="../gui/speedlimitdialog.ui" line="63"/>
         <location filename="../gui/speedlimitdialog.ui" line="139"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="179"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="187"/>
         <source>Download:</source>
         <translation>다운로드:</translation>
     </message>
     <message>
         <location filename="../gui/speedlimitdialog.ui" line="96"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="182"/>
         <source>Alternative speed limits</source>
         <translation>대체 속도 제한</translation>
     </message>
@@ -9916,6 +10564,7 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     <name>StacktraceDialog</name>
     <message>
         <location filename="../gui/stacktracedialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_stacktracedialog.h" line="47"/>
         <source>Crash info</source>
         <translation>충돌 정보</translation>
     </message>
@@ -9924,81 +10573,97 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     <name>StatsDialog</name>
     <message>
         <location filename="../gui/statsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="240"/>
         <source>Statistics</source>
         <translation>통계</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="241"/>
         <source>User statistics</source>
         <translation>사용자 통계</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="99"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="247"/>
         <source>Cache statistics</source>
         <translation>캐시 통계</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="105"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="248"/>
         <source>Read cache hits:</source>
         <translation>읽기 캐시 적중률:</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="184"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="254"/>
         <source>Average time in queue:</source>
         <translation>대기열 평균 시간:</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="82"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="246"/>
         <source>Connected peers:</source>
         <translation>연결된 피어:</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="54"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="244"/>
         <source>All-time share ratio:</source>
         <translation>전체 시간 공유 비율:</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="40"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="243"/>
         <source>All-time download:</source>
         <translation>전체 시간 다운로드:</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="68"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="245"/>
         <source>Session waste:</source>
         <translation>낭비된 세션:</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="26"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="242"/>
         <source>All-time upload:</source>
         <translation>전체 시간 업로드:</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="119"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="249"/>
         <source>Total buffer size:</source>
         <translation>전체 버퍼 크기:</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="136"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="250"/>
         <source>Performance statistics</source>
         <translation>성능 통계</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="170"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="253"/>
         <source>Queued I/O jobs:</source>
         <translation>대기 중인 I/O 작업:</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="142"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="251"/>
         <source>Write cache overload:</source>
         <translation>쓰기 캐시 과부하:</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="156"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="252"/>
         <source>Read cache overload:</source>
         <translation>읽기 캐시 과부하:</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="198"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="255"/>
         <source>Total queued size:</source>
         <translation>전체 대기열 크기:</translation>
     </message>
@@ -10321,46 +10986,55 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     <name>TorrentCategoryDialog</name>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="166"/>
         <source>Torrent Category Properties</source>
         <translation>토렌트 범주 속성</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="35"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="167"/>
         <source>Name:</source>
         <translation>이름:</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="64"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="169"/>
         <source>Save path for incomplete torrents:</source>
         <translation>불완전한 토렌트의 저장 경로:</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="72"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="170"/>
         <source>Use another path for incomplete torrents:</source>
         <translation>불완전한 토렌트에 다른 경로 사용:</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="83"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="171"/>
         <source>Default</source>
         <translation>기본</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="88"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="172"/>
         <source>Yes</source>
         <translation>예</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="93"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="173"/>
         <source>No</source>
         <translation>아니요</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="124"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="175"/>
         <source>Path:</source>
         <translation>경로:</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="45"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="168"/>
         <source>Save path:</source>
         <translation>저장 경로:</translation>
     </message>
@@ -10630,53 +11304,63 @@ Please choose a different name and try again.</source>
     <name>TorrentCreatorDialog</name>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="17"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="358"/>
         <source>Torrent Creator</source>
         <translation>토렌트 생성기</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="56"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="359"/>
         <source>Select file/folder to share</source>
         <translation>공유할 파일/폴더 선택</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="64"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="360"/>
         <source>Path:</source>
         <translation>경로:</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="91"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="361"/>
         <source>[Drag and drop area]</source>
         <translation>[이곳에 끌어놓기]</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="101"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="362"/>
         <location filename="../gui/torrentcreatordialog.cpp" line="142"/>
         <source>Select file</source>
         <translation>파일 선택</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="108"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="363"/>
         <location filename="../gui/torrentcreatordialog.cpp" line="134"/>
         <source>Select folder</source>
         <translation>폴더 선택</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="120"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="364"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="141"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="365"/>
         <source>Torrent format:</source>
         <translation>토렌트 형식:</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="154"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="366"/>
         <source>Hybrid</source>
         <translation>혼합</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="185"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="368"/>
         <source>Piece size:</source>
         <translation>조각 크기:</translation>
     </message>
@@ -10687,76 +11371,91 @@ Please choose a different name and try again.</source>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="202"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="369"/>
         <source>Calculate number of pieces:</source>
         <translation>조각 수 계산:</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="231"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="370"/>
         <source>Private torrent (Won&apos;t distribute on DHT network)</source>
         <translation>비공개 토렌트 (DHT 네트워크로 배포 불가)</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="238"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="371"/>
         <source>Start seeding immediately</source>
         <translation>즉시 시딩 시작</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="248"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="372"/>
         <source>Ignore share ratio limits for this torrent</source>
         <translation>이 토렌트에 대한 공유 비율 제한 무시</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="255"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="373"/>
         <source>Optimize alignment</source>
         <translation>정렬 최적화</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="266"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="374"/>
         <source>Align to piece boundary for files larger than:</source>
         <translation>조각 경계로 정렬할 최소 파일 크기:</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="273"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="375"/>
         <source>Disabled</source>
         <translation>비활성화됨</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="276"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="376"/>
         <source> KiB</source>
         <translation> KiB</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="313"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="377"/>
         <source>Fields</source>
         <translation>토렌트 정보</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="326"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="380"/>
         <source>You can separate tracker tiers / groups with an empty line.</source>
         <translation>트래커 계층/뭉치를 빈줄로 구분할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="339"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="382"/>
         <source>Web seed URLs:</source>
         <translation>웹 시드 URL:</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="319"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="378"/>
         <source>Tracker URLs:</source>
         <translation>트래커 URL:</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="356"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="383"/>
         <source>Comments:</source>
         <translation>주석:</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="373"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="384"/>
         <source>Source:</source>
         <translation>소스:</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="392"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="385"/>
         <source>Progress:</source>
         <translation>진행률:</translation>
     </message>
@@ -10877,93 +11576,113 @@ Please choose a different name and try again.</source>
     <name>TorrentOptionsDialog</name>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="236"/>
         <source>Torrent Options</source>
         <translation>토렌트 옵션</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="238"/>
         <source>Automatic mode means that various torrent properties (e.g. save path) will be decided by the associated category</source>
         <translation>자동 모드는 다양한 토렌트 속성(예: 저장 경로)이 관련 범주에 의해 결정됨을 의미합니다</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="23"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="240"/>
         <source>Automatic Torrent Management</source>
         <translation>자동 토렌트 관리</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="30"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="241"/>
         <source>Save at</source>
         <translation>저장 위치</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="39"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="242"/>
         <source>Use another path for incomplete torrent</source>
         <translation>불완전한 토렌트에 다른 경로 사용</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="58"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="243"/>
         <source>Category:</source>
         <translation>범주:</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="162"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="252"/>
         <source>Torrent Share Limits</source>
         <translation>토렌트 공유 제한</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="122"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="248"/>
         <source>Download:</source>
         <translation>다운로드:</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="106"/>
         <location filename="../gui/torrentoptionsdialog.ui" line="136"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="246"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="249"/>
         <source>∞</source>
         <translation>∞</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="86"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="244"/>
         <source>Torrent Speed Limits</source>
         <translation>토렌트 속도 제한</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="109"/>
         <location filename="../gui/torrentoptionsdialog.ui" line="139"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="247"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="250"/>
         <source> KiB/s</source>
         <translation> KiB/s</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="152"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="251"/>
         <source>These will not exceed the global limits</source>
         <translation>이 제한 전역 제한을 초과할 수 없습니다</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="92"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="245"/>
         <source>Upload:</source>
         <translation>업로드:</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="176"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="253"/>
         <source>Disable DHT for this torrent</source>
         <translation>이 토렌트에 DHT 비활성화</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="183"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="254"/>
         <source>Download in sequential order</source>
         <translation>순차적으로 다운로드</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="203"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="255"/>
         <source>Disable PeX for this torrent</source>
         <translation>이 토렌트에 PeX 비활성화</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="210"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="256"/>
         <source>Download first and last pieces first</source>
         <translation>처음과 마지막 조각 먼저 다운로드</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="217"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="257"/>
         <source>Disable LSD for this torrent</source>
         <translation>이 토렌트에 LSD 비활성화</translation>
     </message>
@@ -10991,6 +11710,10 @@ Please choose a different name and try again.</source>
         <location filename="../gui/torrentsharelimitswidget.ui" line="72"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="117"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="166"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="159"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="164"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="170"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="176"/>
         <source>Default</source>
         <translation>기본</translation>
     </message>
@@ -10998,6 +11721,9 @@ Please choose a different name and try again.</source>
         <location filename="../gui/torrentsharelimitswidget.ui" line="35"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="77"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="122"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="160"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="165"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="171"/>
         <source>Unlimited</source>
         <translation>무제한</translation>
     </message>
@@ -11005,17 +11731,23 @@ Please choose a different name and try again.</source>
         <location filename="../gui/torrentsharelimitswidget.ui" line="40"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="82"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="127"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="161"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="166"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="172"/>
         <source>Set to</source>
         <translation>다음으로 설정</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="61"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="163"/>
         <source>Seeding time:</source>
         <translation>시딩 시간 :</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="93"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="138"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="168"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="174"/>
         <location filename="../gui/torrentsharelimitswidget.cpp" line="268"/>
         <location filename="../gui/torrentsharelimitswidget.cpp" line="273"/>
         <location filename="../gui/torrentsharelimitswidget.cpp" line="291"/>
@@ -11026,36 +11758,43 @@ Please choose a different name and try again.</source>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="106"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="169"/>
         <source>Inactive seeding time:</source>
         <translation>비활성 시딩 시간 :</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="155"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="175"/>
         <source>Action when the limit is reached:</source>
         <translation>한계에 도달했을 때의 조치 :</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="171"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="177"/>
         <source>Stop torrent</source>
         <translation>토렌트 정지</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="176"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="178"/>
         <source>Remove torrent</source>
         <translation>토렌트 제거</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="181"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="179"/>
         <source>Remove torrent and its content</source>
         <translation>토렌트 및 해당 내용물 제거</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="186"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="180"/>
         <source>Enable super seeding for torrent</source>
         <translation>토렌트에 대해 슈퍼 시딩 활성화</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="19"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="158"/>
         <source>Ratio:</source>
         <translation>비율 :</translation>
     </message>
@@ -11064,6 +11803,7 @@ Please choose a different name and try again.</source>
     <name>TorrentTagsDialog</name>
     <message>
         <location filename="../gui/torrenttagsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_torrenttagsdialog.h" line="63"/>
         <source>Torrent Tags</source>
         <translation>토렌트 태그</translation>
     </message>
@@ -11233,11 +11973,13 @@ Please choose a different name and try again.</source>
     <name>TrackerEntriesDialog</name>
     <message>
         <location filename="../gui/trackerentriesdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_trackerentriesdialog.h" line="63"/>
         <source>Edit trackers</source>
         <translation>트래커 편집</translation>
     </message>
     <message>
         <location filename="../gui/trackerentriesdialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_trackerentriesdialog.h" line="64"/>
         <source>One tracker URL per line.
 
 - You can split the trackers into groups by inserting blank lines.
@@ -11448,21 +12190,25 @@ Please choose a different name and try again.</source>
     <name>TrackersAdditionDialog</name>
     <message>
         <location filename="../gui/trackersadditiondialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_trackersadditiondialog.h" line="93"/>
         <source>Add trackers</source>
         <translation>트래커 추가</translation>
     </message>
     <message>
         <location filename="../gui/trackersadditiondialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_trackersadditiondialog.h" line="94"/>
         <source>List of trackers to add (one per line):</source>
         <translation>추가할 트래커 목록(한 줄에 하나):</translation>
     </message>
     <message>
         <location filename="../gui/trackersadditiondialog.ui" line="40"/>
+        <location filename="../../build/src/gui/ui_trackersadditiondialog.h" line="95"/>
         <source>µTorrent compatible list URL:</source>
         <translation>µTorrent 호환 목록 URL:</translation>
     </message>
     <message>
         <location filename="../gui/trackersadditiondialog.ui" line="52"/>
+        <location filename="../../build/src/gui/ui_trackersadditiondialog.h" line="97"/>
         <source>Download trackers list</source>
         <translation>트래커 목록 다운로드</translation>
     </message>
@@ -12248,38 +12994,47 @@ Please choose a different name and try again.</source>
     <name>UIThemeDialog</name>
     <message>
         <location filename="../gui/uithemedialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="196"/>
         <source>UI Theme Configuration</source>
         <translation>UI 테마 구성</translation>
     </message>
     <message>
         <location filename="../gui/uithemedialog.ui" line="33"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="200"/>
         <source>Colors</source>
         <translation>색상</translation>
     </message>
     <message>
         <location filename="../gui/uithemedialog.ui" line="85"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="197"/>
         <source>Color ID</source>
         <translation>색상 ID</translation>
     </message>
     <message>
         <location filename="../gui/uithemedialog.ui" line="97"/>
         <location filename="../gui/uithemedialog.ui" line="200"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="198"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="202"/>
         <source>Light Mode</source>
         <translation>밝은 모드</translation>
     </message>
     <message>
         <location filename="../gui/uithemedialog.ui" line="109"/>
         <location filename="../gui/uithemedialog.ui" line="212"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="199"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="203"/>
         <source>Dark Mode</source>
         <translation>어두운 모드</translation>
     </message>
     <message>
         <location filename="../gui/uithemedialog.ui" line="136"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="204"/>
         <source>Icons</source>
         <translation>아이콘</translation>
     </message>
     <message>
         <location filename="../gui/uithemedialog.ui" line="188"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="201"/>
         <source>Icon ID</source>
         <translation>아이콘 ID</translation>
     </message>
@@ -12433,21 +13188,25 @@ Please choose a different name and try again.</source>
     <name>WatchedFolderOptionsDialog</name>
     <message>
         <location filename="../gui/watchedfolderoptionsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_watchedfolderoptionsdialog.h" line="90"/>
         <source>Watched Folder Options</source>
         <translation>주시 중인 폴더 옵션</translation>
     </message>
     <message>
         <location filename="../gui/watchedfolderoptionsdialog.ui" line="22"/>
+        <location filename="../../build/src/gui/ui_watchedfolderoptionsdialog.h" line="92"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Will watch the folder and all its subfolders. In Manual torrent management mode it will also add subfolder name to the selected Save path.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;폴더와 모든 하위 폴더를 주시합니다. 수동 토렌트 관리 모드에서는 선택된 저장 경로에 하위 폴더 이름 또한 추가됩니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/watchedfolderoptionsdialog.ui" line="25"/>
+        <location filename="../../build/src/gui/ui_watchedfolderoptionsdialog.h" line="94"/>
         <source>Recursive mode</source>
         <translation>재귀 모드</translation>
     </message>
     <message>
         <location filename="../gui/watchedfolderoptionsdialog.ui" line="47"/>
+        <location filename="../../build/src/gui/ui_watchedfolderoptionsdialog.h" line="95"/>
         <source>Torrent parameters</source>
         <translation>토렌트 매개변수</translation>
     </message>
@@ -12488,72 +13247,72 @@ Please choose a different name and try again.</source>
 <context>
     <name>WebApplication</name>
     <message>
-        <location filename="../webui/webapplication.cpp" line="179"/>
+        <location filename="../webui/webapplication.cpp" line="180"/>
         <source>Unacceptable session cookie name is specified: &apos;%1&apos;. Default one is used.</source>
         <translation>허용할 수 없는 세션 쿠키 이름이 지정되었습니다: &apos;%1&apos;. 기본 쿠키가 사용됩니다.</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="230"/>
+        <location filename="../webui/webapplication.cpp" line="231"/>
         <source>Unacceptable file type, only regular file is allowed.</source>
         <translation>허용되지 않는 파일 형식, 일반 파일만 허용됩니다.</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="238"/>
+        <location filename="../webui/webapplication.cpp" line="239"/>
         <source>Symlinks inside alternative UI folder are forbidden.</source>
         <translation>대체 UI 폴더의 심볼릭 링크는 금지되어 있습니다.</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="417"/>
+        <location filename="../webui/webapplication.cpp" line="418"/>
         <source>Using built-in WebUI.</source>
         <translation>기본 제공 WebUI를 사용합니다.</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="419"/>
+        <location filename="../webui/webapplication.cpp" line="420"/>
         <source>Using custom WebUI. Location: &quot;%1&quot;.</source>
         <translation>사용자 정의 WebUI를 사용합니다. 위치: &quot;%1&quot;.</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="431"/>
+        <location filename="../webui/webapplication.cpp" line="432"/>
         <source>WebUI translation for selected locale (%1) has been successfully loaded.</source>
         <translation>선택한 로케일 (%1)에 대한 WebUI 번역을 성공적으로 불러왔습니다.</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="436"/>
+        <location filename="../webui/webapplication.cpp" line="437"/>
         <source>Couldn&apos;t load WebUI translation for selected locale (%1).</source>
         <translation>선택한 로케일 (%1)에 대한 WebUI 번역을 불러올 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="487"/>
+        <location filename="../webui/webapplication.cpp" line="488"/>
         <source>Missing &apos;:&apos; separator in WebUI custom HTTP header: &quot;%1&quot;</source>
         <translation>WebUI 사용자 지정 HTTP 헤더에 &apos;:&apos; 구분자 누락: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="551"/>
+        <location filename="../webui/webapplication.cpp" line="552"/>
         <source>Web server error. %1</source>
         <translation>웹 서버 오류입니다. %1</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="571"/>
+        <location filename="../webui/webapplication.cpp" line="572"/>
         <source>Web server error. Unknown error.</source>
         <translation>웹 서버 오류입니다. 알 수 없는 오류입니다.</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="815"/>
+        <location filename="../webui/webapplication.cpp" line="836"/>
         <source>WebUI: Origin header &amp; Target origin mismatch! Source IP: &apos;%1&apos;. Origin header: &apos;%2&apos;. Target origin: &apos;%3&apos;</source>
         <translation>웹 UI: 원본 헤더 및 목표 원점 불일치! 소스 IP: &apos;%1&apos;. 원본 헤더: &apos;%2&apos;. 목표 원점: &apos;%3&apos;</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="827"/>
+        <location filename="../webui/webapplication.cpp" line="848"/>
         <source>WebUI: Referer header &amp; Target origin mismatch! Source IP: &apos;%1&apos;. Referer header: &apos;%2&apos;. Target origin: &apos;%3&apos;</source>
         <translation>웹 UI: 출처 헤더 및 목표 원점 불일치! 소스 IP: &apos;%1&apos;. 출처 헤더: &apos;%2&apos;. 목표 원점: &apos;%3&apos;</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="846"/>
+        <location filename="../webui/webapplication.cpp" line="867"/>
         <source>WebUI: Invalid Host header, port mismatch. Request source IP: &apos;%1&apos;. Server port: &apos;%2&apos;. Received Host header: &apos;%3&apos;</source>
         <translation>웹 UI: 잘못된 호스트 헤더, 포트 불일치. 소스 IP 요청: &apos;%1&apos;. 서버 포트: &apos;%2&apos;. 수신된 호스트 헤더: &apos;%3&apos;</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="867"/>
+        <location filename="../webui/webapplication.cpp" line="888"/>
         <source>WebUI: Invalid Host header. Request source IP: &apos;%1&apos;. Received Host header: &apos;%2&apos;</source>
         <translation>웹 UI: 잘못된 호스트 헤더. 소스 IP 요청: &apos;%1&apos;. 수신된 호스트 헤더: &apos;%2&apos;</translation>
     </message>
@@ -12584,6 +13343,95 @@ Please choose a different name and try again.</source>
         <location filename="../webui/webui.cpp" line="138"/>
         <source>Unable to bind to IP: %1, port: %2. Reason: %3</source>
         <translation>IP: %1, 포트: %2에 바인딩할 수 없습니다. 원인: %3</translation>
+    </message>
+</context>
+<context>
+    <name>WebUIMimeOverrideEntryDialog</name>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.ui" line="6"/>
+        <location filename="../../build/src/gui/ui_webuimimeoverrideentrydialog.h" line="83"/>
+        <source>Custom MIME type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_webuimimeoverrideentrydialog.h" line="84"/>
+        <source>Extension:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.ui" line="21"/>
+        <location filename="../../build/src/gui/ui_webuimimeoverrideentrydialog.h" line="85"/>
+        <source>e.g. svg</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.ui" line="28"/>
+        <location filename="../../build/src/gui/ui_webuimimeoverrideentrydialog.h" line="86"/>
+        <source>Content type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.ui" line="35"/>
+        <location filename="../../build/src/gui/ui_webuimimeoverrideentrydialog.h" line="87"/>
+        <source>e.g. image/svg+xml</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.cpp" line="42"/>
+        <source>Invalid extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.cpp" line="42"/>
+        <source>Please enter a valid file extension.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.cpp" line="48"/>
+        <source>Invalid content type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.cpp" line="48"/>
+        <source>Please enter a valid content type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WebUIMimeOverridesModel</name>
+    <message>
+        <location filename="../gui/webuimimeoverridesmodel.cpp" line="64"/>
+        <source>Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverridesmodel.cpp" line="66"/>
+        <source>Content type</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WebUIMimeTypeStore</name>
+    <message>
+        <location filename="../base/webuimimetypestore.cpp" line="92"/>
+        <source>Failed to load WebUI MIME overrides. %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../base/webuimimetypestore.cpp" line="101"/>
+        <source>Failed to parse WebUI MIME overrides. %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../base/webuimimetypestore.cpp" line="107"/>
+        <source>Failed to load WebUI MIME overrides. Invalid data format.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../base/webuimimetypestore.cpp" line="138"/>
+        <source>Couldn&apos;t store WebUI MIME overrides to %1. Error: %2</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

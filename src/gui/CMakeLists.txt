@@ -35,6 +35,7 @@ qt_wrap_ui(UI_HEADERS
     trackersadditiondialog.ui
     uithemedialog.ui
     watchedfolderoptionsdialog.ui
+    webuimimeoverrideentrydialog.ui
 )
 
 add_library(qbt_gui STATIC
@@ -139,6 +140,8 @@ add_library(qbt_gui STATIC
     utils.h
     watchedfolderoptionsdialog.h
     watchedfoldersmodel.h
+    webuimimeoverrideentrydialog.h
+    webuimimeoverridesmodel.h
     windowstate.h
 
     # sources
@@ -236,6 +239,8 @@ add_library(qbt_gui STATIC
     utils.cpp
     watchedfolderoptionsdialog.cpp
     watchedfoldersmodel.cpp
+    webuimimeoverrideentrydialog.cpp
+    webuimimeoverridesmodel.cpp
 
     # generated .ui headers
     ${UI_HEADERS}

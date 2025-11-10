@@ -3610,17 +3610,77 @@ Specify an IPv4 or IPv6 address. You can specify &quot;0.0.0.0&quot; for any IPv
                 </layout>
                </item>
                <item>
-                <widget class="QCheckBox" name="checkWebUIUPnP">
-                 <property name="text">
-                  <string>Use UPnP / NAT-PMP to forward the port from my router</string>
-                 </property>
-                 <property name="checked">
-                  <bool>true</bool>
-                 </property>
-                </widget>
-               </item>
-               <item>
-                <widget class="QGroupBox" name="checkWebUIHttps">
+               <widget class="QCheckBox" name="checkWebUIUPnP">
+                <property name="text">
+                 <string>Use UPnP / NAT-PMP to forward the port from my router</string>
+                </property>
+                <property name="checked">
+                 <bool>true</bool>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QGroupBox" name="groupWebUIMimeOverrides">
+                <property name="title">
+                 <string>Custom MIME type overrides</string>
+                </property>
+                <layout class="QVBoxLayout" name="verticalLayout_webuiMimeOverrides">
+                 <item>
+                  <widget class="QTreeView" name="webUIMimeOverridesView">
+                   <property name="rootIsDecorated">
+                    <bool>false</bool>
+                   </property>
+                   <property name="alternatingRowColors">
+                    <bool>true</bool>
+                   </property>
+                   <property name="selectionMode">
+                    <enum>QAbstractItemView::SingleSelection</enum>
+                   </property>
+                  </widget>
+                 </item>
+                 <item>
+                  <layout class="QHBoxLayout" name="horizontalLayout_webuiMimeOverrideButtons">
+                   <item>
+                    <widget class="QPushButton" name="addWebUIMimeOverrideButton">
+                     <property name="text">
+                      <string>Add...</string>
+                     </property>
+                    </widget>
+                   </item>
+                   <item>
+                    <widget class="QPushButton" name="editWebUIMimeOverrideButton">
+                     <property name="text">
+                      <string>Edit...</string>
+                     </property>
+                    </widget>
+                   </item>
+                   <item>
+                    <widget class="QPushButton" name="removeWebUIMimeOverrideButton">
+                     <property name="text">
+                      <string>Remove</string>
+                     </property>
+                    </widget>
+                   </item>
+                   <item>
+                    <spacer name="horizontalSpacer_webuiMimeOverrideButtons">
+                     <property name="orientation">
+                      <enum>Qt::Orientation::Horizontal</enum>
+                     </property>
+                     <property name="sizeHint" stdset="0">
+                      <size>
+                       <width>40</width>
+                       <height>20</height>
+                      </size>
+                     </property>
+                    </spacer>
+                   </item>
+                  </layout>
+                 </item>
+                </layout>
+               </widget>
+              </item>
+              <item>
+               <widget class="QGroupBox" name="checkWebUIHttps">
                  <property name="title">
                   <string>&amp;Use HTTPS instead of HTTP</string>
                  </property>

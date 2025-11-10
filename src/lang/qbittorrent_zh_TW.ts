@@ -5,84 +5,103 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../gui/aboutdialog.ui" line="15"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="434"/>
         <source>About qBittorrent</source>
         <translation>關於 qBittorrent</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="55"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="435"/>
         <source>About</source>
         <translation>關於</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="87"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="446"/>
         <source>Authors</source>
         <translation>作者</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="93"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="436"/>
         <source>Current maintainer</source>
         <translation>目前的維護者</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="120"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="439"/>
         <source>Greece</source>
         <translation>希臘</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="113"/>
         <location filename="../gui/aboutdialog.ui" line="183"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="438"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="443"/>
         <source>Nationality:</source>
         <translation>國籍：</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="127"/>
         <location filename="../gui/aboutdialog.ui" line="197"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="440"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="445"/>
         <source>E-mail:</source>
         <translation>電子郵件：</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="99"/>
         <location filename="../gui/aboutdialog.ui" line="169"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="437"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="442"/>
         <source>Name:</source>
         <translation>姓名：</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="163"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="441"/>
         <source>Original author</source>
         <translation>原始作者</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="190"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="444"/>
         <source>France</source>
         <translation>法國</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="247"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="447"/>
         <source>Special Thanks</source>
         <translation>特別感謝</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="273"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="448"/>
         <source>Translators</source>
         <translation>翻譯者</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="302"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="449"/>
         <source>License</source>
         <translation>授權</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="328"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="452"/>
         <source>Software Used</source>
         <translation>使用的軟體</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="336"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="450"/>
         <source>qBittorrent was built with the following libraries:</source>
         <translation>qBittorrent 是使用下列函式庫建構：</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="356"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="451"/>
         <source>Copy to clipboard</source>
         <translation>複製到剪貼簿</translation>
     </message>
@@ -162,71 +181,85 @@
     <name>AddNewTorrentDialog</name>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="113"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="543"/>
         <source>Save at</source>
         <translation>儲存至</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="565"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="578"/>
         <source>Never show again</source>
         <translation>不要再顯示</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="200"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="548"/>
         <source>Set as default category</source>
         <translation>設為預設分類</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="175"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="547"/>
         <source>Category:</source>
         <translation>分類：</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="249"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="555"/>
         <source>Start torrent</source>
         <translation>開始 torrent</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="378"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="570"/>
         <source>Torrent information</source>
         <translation>Torrent 資訊</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="290"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="558"/>
         <source>Skip hash check</source>
         <translation>跳過雜湊值檢查</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="122"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="544"/>
         <source>Use another path for incomplete torrent</source>
         <translation>使用其他路徑取得不完整的 torrent</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="167"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="546"/>
         <source>Torrent options</source>
         <translation>Torrent 選項</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="209"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="549"/>
         <source>Tags:</source>
         <translation>標籤：</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="225"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="550"/>
         <source>Click [...] button to add/remove tags.</source>
         <translation>點擊 [...] 按鈕以新增/移除標籤。</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="235"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="552"/>
         <source>Add/remove tags</source>
         <translation>新增/移除標籤</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="238"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="554"/>
         <source>...</source>
         <translation>…</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="258"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="556"/>
         <source>Stop condition:</source>
         <translation>停止條件：</translation>
     </message>
@@ -255,111 +288,133 @@
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="283"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="557"/>
         <source>Add to top of queue</source>
         <translation>新增至佇列頂部</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="311"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="562"/>
         <source>When checked, the .torrent file will not be deleted regardless of the settings at the &quot;Download&quot; page of the Options dialog</source>
         <translation>勾選後，無論「選項」對話方塊中的「下載」頁面的設定如何，都不會刪除 .torrent 檔案</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="325"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="565"/>
         <source>Content layout:</source>
         <translation>內容佈局：</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="336"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="566"/>
         <source>Original</source>
         <translation>原始</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="341"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="567"/>
         <source>Create subfolder</source>
         <translation>建立子資料夾</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="346"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="568"/>
         <source>Don&apos;t create subfolder</source>
         <translation>不要建立子資料夾</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="404"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="573"/>
         <source>Info hash v1:</source>
         <translation>資訊雜湊值 v1：</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="384"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="571"/>
         <source>Size:</source>
         <translation>大小：</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="432"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="575"/>
         <source>Comment:</source>
         <translation>註解：</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="394"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="572"/>
         <source>Date:</source>
         <translation>日期：</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="74"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="536"/>
         <source>Torrent Management Mode:</source>
         <translation>Torrent 管理模式：</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="81"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="541"/>
         <source>Automatic mode means that various torrent properties(eg save path) will be decided by the associated category</source>
         <translation>自動模式代表了多個 torrent 屬性 (例如儲存路徑) 將會由相關的分類來決定</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="85"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="537"/>
         <source>Manual</source>
         <translation>手動</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="90"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="538"/>
         <source>Automatic</source>
         <translation>自動</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="155"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="545"/>
         <source>Remember last used save path</source>
         <translation>記住最後一次使用的儲存路徑</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="314"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="564"/>
         <source>Do not delete .torrent file</source>
         <translation>不要刪除 .torrent 檔案</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="297"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="559"/>
         <source>Download in sequential order</source>
         <translation>依順序下載</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="304"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="560"/>
         <source>Download first and last pieces first</source>
         <translation>先下載第一和最後一塊</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="418"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="574"/>
         <source>Info hash v2:</source>
         <translation>資訊雜湊值 v2：</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="507"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="576"/>
         <source>Select All</source>
         <translation>全選</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="514"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="577"/>
         <source>Select None</source>
         <translation>全不選</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="617"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="580"/>
         <source>Save as .torrent file...</source>
         <translation>另存為 .torrent 檔案…</translation>
     </message>
@@ -511,86 +566,103 @@
     <name>AddTorrentParamsWidget</name>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="296"/>
         <source>Form</source>
         <translation>表單</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="22"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="297"/>
         <source>Torrent Management Mode:</source>
         <translation>Torrent 管理模式：</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="29"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="299"/>
         <source>Automatic mode means that various torrent properties(eg save path) will be decided by the associated category</source>
         <translation>自動模式代表了多個 torrent 屬性（例如儲存路徑）將會由相關的分類來決定</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="51"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="301"/>
         <source>Save at</source>
         <translation>儲存於</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="62"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="302"/>
         <source>Note: the current defaults are displayed for reference.</source>
         <translation>注意：目前的預設值僅為參考而顯示。</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="74"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="303"/>
         <source>Use another path for incomplete torrents:</source>
         <translation>使用其他路徑取得不完整的 torrents：</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="107"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="304"/>
         <source>Category:</source>
         <translation>分類：</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="147"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="305"/>
         <source>Tags:</source>
         <translation>標籤：</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="163"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="306"/>
         <source>Click [...] button to add/remove tags.</source>
         <translation>點擊 [...] 按鈕以新增/移除標籤。</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="173"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="308"/>
         <source>Add/remove tags</source>
         <translation>新增/移除標籤</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="176"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="310"/>
         <source>...</source>
         <translation>…</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="209"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="311"/>
         <source>Start torrent:</source>
         <translation>啟動 torrent：</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="247"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="312"/>
         <source>Content layout:</source>
         <translation>內容佈局：</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="285"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="313"/>
         <source>Stop condition:</source>
         <translation>停止條件：</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="323"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="314"/>
         <source>Add to top of queue:</source>
         <translation>新增至佇列頂部：</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="346"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="315"/>
         <source>Skip hash check</source>
         <translation>略過雜湊值檢查</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="354"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="316"/>
         <source>Torrent share limits</source>
         <translation>Torrent 分享限制</translation>
     </message>
@@ -1380,23 +1452,28 @@
 <context>
     <name>AppController</name>
     <message>
-        <location filename="../webui/api/appcontroller.cpp" line="1189"/>
-        <location filename="../webui/api/appcontroller.cpp" line="1193"/>
+        <location filename="../webui/api/appcontroller.cpp" line="1197"/>
+        <source>Invalid MIME override data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../webui/api/appcontroller.cpp" line="1237"/>
+        <location filename="../webui/api/appcontroller.cpp" line="1241"/>
         <source>Invalid directory path</source>
         <translation>無效的目錄路徑</translation>
     </message>
     <message>
-        <location filename="../webui/api/appcontroller.cpp" line="1195"/>
+        <location filename="../webui/api/appcontroller.cpp" line="1243"/>
         <source>Directory does not exist</source>
         <translation>目錄不存在</translation>
     </message>
     <message>
-        <location filename="../webui/api/appcontroller.cpp" line="1207"/>
+        <location filename="../webui/api/appcontroller.cpp" line="1255"/>
         <source>Invalid mode, allowed values: %1</source>
         <translation>無效模式，允許的值：%1</translation>
     </message>
     <message>
-        <location filename="../webui/api/appcontroller.cpp" line="1245"/>
+        <location filename="../webui/api/appcontroller.cpp" line="1293"/>
         <source>cookies must be array</source>
         <translation>cookies 必須為陣列</translation>
     </message>
@@ -1670,56 +1747,67 @@
     <name>AutomatedRssDownloader</name>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="386"/>
         <source>RSS Downloader</source>
         <translation>RSS 下載器</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="58"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="388"/>
         <source>Download Rules</source>
         <translation>下載原則</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="172"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="393"/>
         <source>Use Regular Expressions</source>
         <translation>使用正規表示式</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="257"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="401"/>
         <source>Use Smart Episode Filter</source>
         <translation>使用智慧型章節過濾器</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="181"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="394"/>
         <source>Must Contain:</source>
         <translation>必須包含：</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="28"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="387"/>
         <source>Auto downloading of RSS torrents is currently disabled. You can enable it in application settings.</source>
         <translation>目前已停用自動下載 RSS 種子。您可以在應用程式設定中啟用。</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="68"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="390"/>
         <source>Rename selected rule. You can also use the F2 hotkey to rename.</source>
         <translation>重新命名選取的規則。您也可以使用 F2 快捷鍵來重新命名。</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="147"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="392"/>
         <source>Priority:</source>
         <translation>優先程度：</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="201"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="395"/>
         <source>Must Not Contain:</source>
         <translation>必須不包含：</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="221"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="396"/>
         <source>Episode Filter:</source>
         <translation>章節過濾器：</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="253"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="398"/>
         <source>Smart Episode Filter will check the episode number to prevent downloading of duplicates.
 Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also support - as a separator)</source>
         <translation>智慧型章節過濾器將會檢查章節名稱以避免重複下載。
@@ -1727,42 +1815,50 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="304"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="405"/>
         <source>Torrent parameters</source>
         <translation>Torrent 參數</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="266"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="402"/>
         <source>Ignore Subsequent Matches for (0 to Disable)</source>
         <extracomment>... X days</extracomment>
         <translation>忽略後續符合（0 以停用）</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="276"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="403"/>
         <source>Disabled</source>
         <translation>已停用</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="279"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="404"/>
         <source> days</source>
         <translation>天</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="354"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="406"/>
         <source>Apply Rule to Feeds:</source>
         <translation>套用原則到 feed：</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="374"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="407"/>
         <source>Matching RSS Articles</source>
         <translation>配對 RSS 文章</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="402"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="408"/>
         <source>&amp;Import...</source>
         <translation>匯入… (&amp;I)</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="412"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="409"/>
         <source>&amp;Export...</source>
         <translation>匯出… (&amp;E)</translation>
     </message>
@@ -2032,16 +2128,19 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <name>BanListOptionsDialog</name>
     <message>
         <location filename="../gui/banlistoptionsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_banlistoptionsdialog.h" line="112"/>
         <source>List of banned IP addresses</source>
         <translation>被封鎖的 IP 位置清單</translation>
     </message>
     <message>
         <location filename="../gui/banlistoptionsdialog.ui" line="80"/>
+        <location filename="../../build/src/gui/ui_banlistoptionsdialog.h" line="113"/>
         <source>Ban IP</source>
         <translation>封鎖 IP</translation>
     </message>
     <message>
         <location filename="../gui/banlistoptionsdialog.ui" line="87"/>
+        <location filename="../../build/src/gui/ui_banlistoptionsdialog.h" line="114"/>
         <source>Delete</source>
         <translation>刪除</translation>
     </message>
@@ -3096,6 +3195,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <name>CookiesDialog</name>
     <message>
         <location filename="../gui/cookiesdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_cookiesdialog.h" line="102"/>
         <source>Manage Cookies</source>
         <translation>管理 cookie…</translation>
     </message>
@@ -3153,16 +3253,19 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <name>DeletionConfirmationDialog</name>
     <message>
         <location filename="../gui/deletionconfirmationdialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_deletionconfirmationdialog.h" line="119"/>
         <source>Remove torrent(s)</source>
         <translation>移除 torrent(s)</translation>
     </message>
     <message>
         <location filename="../gui/deletionconfirmationdialog.ui" line="67"/>
+        <location filename="../../build/src/gui/ui_deletionconfirmationdialog.h" line="122"/>
         <source>Remember choice</source>
         <translation>記住選擇</translation>
     </message>
     <message>
         <location filename="../gui/deletionconfirmationdialog.ui" line="91"/>
+        <location filename="../../build/src/gui/ui_deletionconfirmationdialog.h" line="124"/>
         <source>Also remove the content files</source>
         <translation>也移除內容檔案</translation>
     </message>
@@ -3188,16 +3291,19 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <name>DownloadFromURLDialog</name>
     <message>
         <location filename="../gui/downloadfromurldialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_downloadfromurldialog.h" line="77"/>
         <source>Download from URLs</source>
         <translation>從 URL 下載</translation>
     </message>
     <message>
         <location filename="../gui/downloadfromurldialog.ui" line="25"/>
+        <location filename="../../build/src/gui/ui_downloadfromurldialog.h" line="78"/>
         <source>Add torrent links</source>
         <translation>增加 torrent 連結</translation>
     </message>
     <message>
         <location filename="../gui/downloadfromurldialog.ui" line="47"/>
+        <location filename="../../build/src/gui/ui_downloadfromurldialog.h" line="79"/>
         <source>One link per line (HTTP links, Magnet links and info-hashes are supported)</source>
         <translation>每行一連結 (HTTP 連結、磁力連結及資訊雜湊值皆支援)</translation>
     </message>
@@ -3239,11 +3345,13 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <name>ExecutionLogWidget</name>
     <message>
         <location filename="../gui/executionlogwidget.ui" line="36"/>
+        <location filename="../../build/src/gui/ui_executionlogwidget.h" line="65"/>
         <source>General</source>
         <translation>一般</translation>
     </message>
     <message>
         <location filename="../gui/executionlogwidget.ui" line="42"/>
+        <location filename="../../build/src/gui/ui_executionlogwidget.h" line="66"/>
         <source>Blocked IPs</source>
         <translation>被封鎖的 IP</translation>
     </message>
@@ -3478,21 +3586,25 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <name>IPSubnetWhitelistOptionsDialog</name>
     <message>
         <location filename="../gui/ipsubnetwhitelistoptionsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_ipsubnetwhitelistoptionsdialog.h" line="107"/>
         <source>List of whitelisted IP subnets</source>
         <translation>白名單 IP 的子網清單</translation>
     </message>
     <message>
         <location filename="../gui/ipsubnetwhitelistoptionsdialog.ui" line="53"/>
+        <location filename="../../build/src/gui/ui_ipsubnetwhitelistoptionsdialog.h" line="108"/>
         <source>Example: 172.17.32.0/24, fdff:ffff:c8::/40</source>
         <translation>例如：172.17.32.0/24, fdff:ffff:c8::/40</translation>
     </message>
     <message>
         <location filename="../gui/ipsubnetwhitelistoptionsdialog.ui" line="64"/>
+        <location filename="../../build/src/gui/ui_ipsubnetwhitelistoptionsdialog.h" line="109"/>
         <source>Add subnet</source>
         <translation>新增子網</translation>
     </message>
     <message>
         <location filename="../gui/ipsubnetwhitelistoptionsdialog.ui" line="71"/>
+        <location filename="../../build/src/gui/ui_ipsubnetwhitelistoptionsdialog.h" line="110"/>
         <source>Delete</source>
         <translation>刪除</translation>
     </message>
@@ -3638,288 +3750,347 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <name>MainWindow</name>
     <message>
         <location filename="../gui/mainwindow.ui" line="43"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="384"/>
         <source>&amp;Edit</source>
         <translation>編輯 (&amp;E)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="69"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="386"/>
         <source>&amp;Tools</source>
         <translation>工具 (&amp;T)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="90"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="388"/>
         <source>&amp;File</source>
         <translation>檔案 (&amp;F)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="59"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="385"/>
         <source>&amp;Help</source>
         <translation>說明 (&amp;H)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="73"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="387"/>
         <source>On Downloads &amp;Done</source>
         <translation>當下載完成 (&amp;D)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="100"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="389"/>
         <source>&amp;View</source>
         <translation>檢視 (&amp;V)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="182"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="313"/>
         <source>&amp;Options...</source>
         <translation>選項… (&amp;O)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="212"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="319"/>
         <source>&amp;Remove</source>
         <translation>移除(&amp;R)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="225"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="322"/>
         <source>Torrent &amp;Creator</source>
         <translation>Torrent 製作器 (&amp;C)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="287"/>
         <location filename="../gui/mainwindow.ui" line="290"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="341"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="343"/>
         <source>Alternative Speed Limits</source>
         <translation>替補速率限制</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="298"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="345"/>
         <source>&amp;Top Toolbar</source>
         <translation>頂端工具列 (&amp;T)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="301"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="347"/>
         <source>Display Top Toolbar</source>
         <translation>顯示頂端工具列</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="309"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="349"/>
         <source>Status &amp;Bar</source>
         <translation>狀態列 (&amp;B)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="317"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="350"/>
         <source>Filters Sidebar</source>
         <translation>過濾條件側邊欄</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="325"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="351"/>
         <source>S&amp;peed in Title Bar</source>
         <translation>在標題列顯示速率 (&amp;P)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="328"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="353"/>
         <source>Show Transfer Speed in Title Bar</source>
         <translation>在標題列顯示傳輸速率</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="336"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="355"/>
         <source>&amp;RSS Reader</source>
         <translation>RSS 閱讀器 (&amp;R)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="344"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="356"/>
         <source>Search &amp;Engine</source>
         <translation>搜尋引擎 (&amp;E)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="349"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="357"/>
         <source>L&amp;ock qBittorrent</source>
         <translation>鎖定 qBittorrent (&amp;O)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="360"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="359"/>
         <source>Do&amp;nate!</source>
         <translation>捐款！(&amp;N)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="395"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="366"/>
         <source>Sh&amp;utdown System</source>
         <translation>關機(&amp;U)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="403"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="367"/>
         <source>&amp;Do nothing</source>
         <translation>不做任何事(&amp;D)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="479"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="383"/>
         <source>Close Window</source>
         <translation>關閉視窗</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="431"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="374"/>
         <source>Manage Cookies...</source>
         <translation>管理 cookie…</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="434"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="376"/>
         <source>Manage stored network cookies</source>
         <translation>管理儲存的網路 cookie…</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="450"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="379"/>
         <source>Normal Messages</source>
         <translation>一般訊息</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="458"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="380"/>
         <source>Information Messages</source>
         <translation>資訊訊息</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="466"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="381"/>
         <source>Warning Messages</source>
         <translation>警告訊息</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="474"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="382"/>
         <source>Critical Messages</source>
         <translation>重要訊息</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="104"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="390"/>
         <source>&amp;Log</source>
         <translation>記錄 (&amp;L)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="192"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="315"/>
         <source>Sta&amp;rt</source>
         <translation>啟動(&amp;R)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="197"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="316"/>
         <source>Sto&amp;p</source>
         <translation>停止(&amp;P)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="202"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="317"/>
         <source>R&amp;esume Session</source>
         <translation>繼續工作階段(&amp;E)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="207"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="318"/>
         <source>Pau&amp;se Session</source>
         <translation>暫停工作階段(&amp;S)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="235"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="324"/>
         <source>Set Global Speed Limits...</source>
         <translation>設定全域速率限制…</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="240"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="325"/>
         <source>Bottom of Queue</source>
         <translation>佇列底部</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="243"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="327"/>
         <source>Move to the bottom of the queue</source>
         <translation>移動到佇列底部</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="251"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="329"/>
         <source>Top of Queue</source>
         <translation>佇列頂部</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="254"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="331"/>
         <source>Move to the top of the queue</source>
         <translation>移動到佇列頂部</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="262"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="333"/>
         <source>Move Down Queue</source>
         <translation>在佇列中向下移動</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="265"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="335"/>
         <source>Move down in the queue</source>
         <translation>在佇列中向下移動</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="273"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="337"/>
         <source>Move Up Queue</source>
         <translation>在佇列中向上移動</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="276"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="339"/>
         <source>Move up in the queue</source>
         <translation>在佇列中向上移動</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="371"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="363"/>
         <source>&amp;Exit qBittorrent</source>
         <translation>結束 qbittorrent (&amp;E)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="379"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="364"/>
         <source>&amp;Suspend System</source>
         <translation>系統暫停 (&amp;S)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="387"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="365"/>
         <source>&amp;Hibernate System</source>
         <translation>系統休眠 (&amp;H)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="418"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="369"/>
         <source>&amp;Statistics</source>
         <translation>統計資料 (&amp;S)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="423"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="370"/>
         <source>Check for Updates</source>
         <translation>檢查更新</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="426"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="372"/>
         <source>Check for Program Updates</source>
         <translation>檢查程式更新</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="187"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="314"/>
         <source>&amp;About</source>
         <translation>關於 (&amp;A)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="169"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="310"/>
         <source>&amp;Add Torrent File...</source>
         <translation>新增 torrent 檔案… (&amp;A)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="172"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="311"/>
         <source>Open</source>
         <translation>開啟</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="177"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="312"/>
         <source>E&amp;xit</source>
         <translation>離開 (&amp;X)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="220"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="321"/>
         <source>Open URL</source>
         <translation>開啟 URL</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="230"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="323"/>
         <source>&amp;Documentation</source>
         <translation>說明文件 (&amp;D)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="352"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="358"/>
         <source>Lock</source>
         <translation>鎖定</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="408"/>
         <location filename="../gui/mainwindow.ui" line="442"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="368"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="378"/>
         <location filename="../gui/mainwindow.cpp" line="1496"/>
         <source>Show</source>
         <translation>顯示</translation>
@@ -3931,11 +4102,13 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="217"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="320"/>
         <source>Add Torrent &amp;Link...</source>
         <translation>新增 torrent 連結 (&amp;L)</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="363"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="361"/>
         <source>If you like qBittorrent, please donate!</source>
         <translation>如果您喜歡 qBittorrent，請捐款！</translation>
     </message>
@@ -5859,312 +6032,379 @@ Minimum requirement: %2.</source>
     <name>OptionsDialog</name>
     <message>
         <location filename="../gui/optionsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3075"/>
         <source>Options</source>
         <translation>選項</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="52"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3080"/>
         <source>Behavior</source>
         <translation>行為</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="57"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3082"/>
         <source>Downloads</source>
         <translation>下載</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="62"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3084"/>
         <source>Connection</source>
         <translation>連線</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="67"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3086"/>
         <source>Speed</source>
         <translation>速率</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="72"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3088"/>
         <source>BitTorrent</source>
         <translation>BitTorrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="82"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3092"/>
         <source>RSS</source>
         <translation>RSS</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="92"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3096"/>
         <source>Advanced</source>
         <translation>進階</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="250"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3107"/>
         <source>Customize UI Theme...</source>
         <translation>自訂使用者界面佈景主題……</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="260"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3108"/>
         <source>Transfer List</source>
         <translation>傳輸清單</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="269"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3112"/>
         <source>Confirm when deleting torrents</source>
         <translation>當刪除 torrent 時必須確認</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="279"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3113"/>
         <source>Use alternating row colors</source>
         <extracomment>In table elements, every other row will have a grey background.</extracomment>
         <translation>單雙列交替背景顏色</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="291"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3114"/>
         <source>Hide zero and infinity values</source>
         <translation>隱藏零或無限大的值。</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="299"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3115"/>
         <source>Always</source>
         <translation>總是</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="327"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3118"/>
         <source>Action on double-click</source>
         <translation>按兩下時的行動</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="333"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3119"/>
         <source>Downloading torrents:</source>
         <translation>下載中的 torrent：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="349"/>
         <location filename="../gui/optionsdialog.ui" line="398"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3121"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3128"/>
         <source>Open destination folder</source>
         <translation>開啟目標資料夾</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="364"/>
         <location filename="../gui/optionsdialog.ui" line="413"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3124"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3131"/>
         <source>No action</source>
         <translation>無行動</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="385"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3126"/>
         <source>Completed torrents:</source>
         <translation>已完成的 torrent：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="424"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3133"/>
         <source>Auto hide zero status filters</source>
         <translation>自動隱藏零狀態過濾條件</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="434"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3134"/>
         <source>Desktop</source>
         <translation>桌面</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="440"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3135"/>
         <source>Start qBittorrent on Windows start up</source>
         <translation>在 Windows 啟動時啟動 qBittorrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="447"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3136"/>
         <source>Show splash screen on start up</source>
         <translation>啟動時顯示起始畫面</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="491"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3144"/>
         <source>Confirmation on exit when torrents are active</source>
         <translation>當 torrent 活躍時，離開時要確認</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="501"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3145"/>
         <source>Confirmation on auto-exit when downloads finish</source>
         <translation>下載完成時的自動離開要確認</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="642"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3163"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To set qBittorrent as default program for .torrent files and/or Magnet links&lt;br/&gt;you can use &lt;span style=&quot; font-weight:600;&quot;&gt;Default Programs&lt;/span&gt; dialog from &lt;span style=&quot; font-weight:600;&quot;&gt;Control Panel&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;要設定 qBittorrent 為 .torrent 檔案及/或磁力連結的預設程式&lt;br/&gt;您可以使用來自&lt;span style=&quot; font-weight:600;&quot;&gt;控制台&lt;/span&gt;的&lt;span style=&quot; font-weight:600;&quot;&gt;預設程式&lt;/span&gt;對話方塊。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="732"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3174"/>
         <source> KiB</source>
         <translation> KiB</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="917"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3185"/>
         <source>Torrent content layout:</source>
         <translation>Torrent 內容佈局：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="928"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3186"/>
         <source>Original</source>
         <translation>原始</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="933"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3187"/>
         <source>Create subfolder</source>
         <translation>建立子資料夾</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="938"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3188"/>
         <source>Don&apos;t create subfolder</source>
         <translation>不要建立子資料夾</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="961"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3191"/>
         <source>The torrent will be added to the top of the download queue</source>
         <translation>Torrent 將會被新增至下載佇列頂部</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="964"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3193"/>
         <source>Add to top of queue</source>
         <extracomment>The torrent will be added to the top of the download queue</extracomment>
         <translation>新增至佇列頂部</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1027"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3203"/>
         <source>When duplicate torrent is being added</source>
         <translation>新增重複的 torrent 時</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1033"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3204"/>
         <source>Merge trackers to existing torrent</source>
         <translation>合併追蹤器到既有的 torrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1128"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3220"/>
         <source>Keep unselected files in &quot;.unwanted&quot; folder</source>
         <translation>將未選取的檔案保留在「.unwanted」資料夾中</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1431"/>
+        <location filename="../gui/optionsdialog.ui" line="3646"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3256"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3469"/>
         <source>Add...</source>
         <translation>新增……</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1441"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3257"/>
         <source>Options..</source>
         <translation>選項……</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1451"/>
+        <location filename="../gui/optionsdialog.ui" line="3660"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3258"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3471"/>
         <source>Remove</source>
         <translation>移除</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1518"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3275"/>
         <source>Email notification &amp;upon download completion</source>
         <translation>下載完成時使用電子郵件通知 (&amp;U)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1622"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3289"/>
         <source>Send test email</source>
         <translation>傳送測試電子郵件</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1638"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3291"/>
         <source>Run on torrent added:</source>
         <translation>在 torrent 新增時執行：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1656"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3292"/>
         <source>Run on torrent finished:</source>
         <translation>在 torrent 結束時執行：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1728"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3294"/>
         <source>Peer connection protocol:</source>
         <translation>下載者連線協定：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1787"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3302"/>
         <source>Any</source>
         <translation>任何</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1937"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3310"/>
         <source>I2P (experimental)</source>
         <translation>I2P（實驗性）</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1999"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3316"/>
         <source>Mixed mode</source>
         <translation>混合模式</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2080"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3321"/>
         <source>Some options are incompatible with the chosen proxy type!</source>
         <translation>某些選項與選定的代理伺服器類型不相容！</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2087"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3323"/>
         <source>If checked, hostname lookups are done via the proxy</source>
         <translation>若勾選，主機名稱查詢將會透過代理伺服器完成</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2090"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3325"/>
         <source>Perform hostname lookup via proxy</source>
         <translation>透過代理伺服器執行主機名稱查詢</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2150"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3330"/>
         <source>Use proxy for BitTorrent purposes</source>
         <translation>對 BitTorrent 使用代理伺服器</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2175"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3336"/>
         <source>RSS feeds will use proxy</source>
         <translation>RSS feed 將會使用代理伺服器</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2178"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3338"/>
         <source>Use proxy for RSS purposes</source>
         <translation>對 RSS 使用代理伺服器</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2188"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3340"/>
         <source>Search engine, software updates or anything else will use proxy</source>
         <translation>搜尋引擎、軟體更新或其他任何會使用代理伺服器的東西</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2191"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3342"/>
         <source>Use proxy for general purposes</source>
         <translation>對一般目的使用代理伺服器</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2204"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3343"/>
         <source>IP Fi&amp;ltering</source>
         <translation>IP 過濾 (&amp;L)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2453"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3364"/>
         <source>Schedule &amp;the use of alternative rate limits</source>
         <translation>預約使用替補速率限制 (&amp;T)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2468"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3368"/>
         <source>From:</source>
         <comment>From start time</comment>
         <translation>從：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2498"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3372"/>
         <source>To:</source>
         <comment>To end time</comment>
         <translation>到：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2657"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3384"/>
         <source>Find peers on the DHT network</source>
         <translation>在 DHT 網路上尋找 peer</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2705"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3401"/>
         <source>Allow encryption: Connect to peers regardless of setting
 Require encryption: Only connect to peers with protocol encryption
 Disable encryption: Only connect to peers without protocol encryption</source>
@@ -6174,56 +6414,67 @@ Disable encryption: Only connect to peers without protocol encryption</source>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2711"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3396"/>
         <source>Allow encryption</source>
         <translation>允許加密</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2756"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3409"/>
         <source>(&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/Anonymous-Mode&quot;&gt;More information&lt;/a&gt;)</source>
         <translation>(&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/Anonymous-Mode&quot;&gt;更多資訊&lt;/a&gt;)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2789"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3410"/>
         <source>Maximum active checking torrents:</source>
         <translation>最大活躍的正在檢查 torrent 數：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2824"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3411"/>
         <source>&amp;Torrent Queueing</source>
         <translation>Torrent 佇列 (&amp;T)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3048"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3427"/>
         <source>When total seeding time reaches</source>
         <translation>當總種子時間達到</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3071"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3429"/>
         <source>When inactive seeding time reaches</source>
         <translation>當不活躍種子時間達到</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3357"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3445"/>
         <source>RSS Reader</source>
         <translation>RSS 閱讀器</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3363"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3446"/>
         <source>Enable fetching RSS feeds</source>
         <translation>啟用抓取 RSS feed</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3372"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3447"/>
         <source>Feeds refresh interval:</source>
         <translation>Feed 更新區間：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3408"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3449"/>
         <source>Same host request delay:</source>
         <translation>相同主機請求延遲：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3428"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3451"/>
         <source>Maximum number of articles per feed:</source>
         <translation>每個 feed 的最大文章數：</translation>
     </message>
@@ -6231,122 +6482,148 @@ Disable encryption: Only connect to peers without protocol encryption</source>
         <location filename="../gui/optionsdialog.ui" line="3058"/>
         <location filename="../gui/optionsdialog.ui" line="3081"/>
         <location filename="../gui/optionsdialog.ui" line="3379"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3428"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3430"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3448"/>
         <source> min</source>
         <extracomment>minutes</extracomment>
         <translation>分鐘</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3009"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3425"/>
         <source>Seeding Limits</source>
         <translation>種子限制</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3113"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3433"/>
         <source>Remove torrent</source>
         <translation>移除 torrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3118"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3434"/>
         <source>Remove torrent and its files</source>
         <translation>移除 torrent 與其檔案</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3123"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3435"/>
         <source>Enable super seeding for torrent</source>
         <translation>為 torrent 啟用超級做種</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3015"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3426"/>
         <source>When ratio reaches</source>
         <translation>當分享率達到</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3108"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3432"/>
         <source>Stop torrent</source>
         <translation>停止 torrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3134"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3437"/>
         <source>A&amp;utomatically append these trackers to new downloads:</source>
         <translation>自動附加這些追蹤器到新下載項目 (&amp;u)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3156"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3438"/>
         <source>Automatically append trackers from URL to new downloads:</source>
         <translation>自動將 URL 的 tracker 附加到新下載的檔案：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3170"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3439"/>
         <source>URL:</source>
         <translation>URL：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3182"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3440"/>
         <source>Fetched trackers</source>
         <translation>擷取 tracker</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3247"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3441"/>
         <source>Search UI</source>
         <translation>搜尋使用者介面</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3253"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3442"/>
         <source>Store opened tabs</source>
         <translation>儲存已開啟的分頁</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3265"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3443"/>
         <source>Also store search results</source>
         <translation>也儲存搜尋結果</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3277"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3444"/>
         <source>History length</source>
         <translation>歷史紀錄長度</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3450"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3452"/>
         <source>RSS Torrent Auto Downloader</source>
         <translation>RSS torrent 自動下載器</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3456"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3453"/>
         <source>Enable auto downloading of RSS torrents</source>
         <translation>啟用自動 RSS torrent 下載</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3463"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3454"/>
         <source>Edit auto downloading rules...</source>
         <translation>編輯自動下載規則…</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3473"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3455"/>
         <source>RSS Smart Episode Filter</source>
         <translation>RSS 智慧型章節過濾器</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3479"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3456"/>
         <source>Download REPACK/PROPER episodes</source>
         <translation>下載 REPACK╱PROPER 章節</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3486"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3457"/>
         <source>Filters:</source>
         <translation>過濾器：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3551"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3458"/>
         <source>Web User Interface (Remote control)</source>
         <translation>Web UI（遠端控制）</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3577"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3460"/>
         <source>IP address:</source>
         <translation>IP 位置：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3584"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3462"/>
         <source>IP address that the Web UI will bind to.
 Specify an IPv4 or IPv6 address. You can specify &quot;0.0.0.0&quot; for any IPv4 address,
 &quot;::&quot; for any IPv6 address, or &quot;*&quot; for both IPv4 and IPv6.</source>
@@ -6355,37 +6632,56 @@ Specify an IPv4 or IPv6 address. You can specify &quot;0.0.0.0&quot; for any IPv
 「::」以配對任何 IPv6 位址，或是「*」以配對任何 IPv4 或 IPv6 位址。</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3745"/>
+        <location filename="../gui/optionsdialog.ui" line="3625"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3468"/>
+        <source>Custom MIME type overrides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/optionsdialog.ui" line="3653"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3470"/>
+        <source>Edit...</source>
+        <translation type="unfinished">編輯……</translation>
+    </message>
+    <message>
+        <location filename="../gui/optionsdialog.ui" line="3805"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3483"/>
         <source>Ban client after consecutive failures:</source>
         <translation>連續失敗後封鎖用戶端：</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3752"/>
+        <location filename="../gui/optionsdialog.ui" line="3812"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3484"/>
         <source>Never</source>
         <translation>永不</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3775"/>
+        <location filename="../gui/optionsdialog.ui" line="3835"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3485"/>
         <source>ban for:</source>
         <translation>封鎖：</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3802"/>
+        <location filename="../gui/optionsdialog.ui" line="3862"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3487"/>
         <source>Session timeout:</source>
         <translation>工作階段逾時：</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3809"/>
+        <location filename="../gui/optionsdialog.ui" line="3869"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3488"/>
         <source>Disabled</source>
         <translation>已停用</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3920"/>
+        <location filename="../gui/optionsdialog.ui" line="3980"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3498"/>
         <source>Server domains:</source>
         <translation>伺服器網域：</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3927"/>
+        <location filename="../gui/optionsdialog.ui" line="3987"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3500"/>
         <source>Whitelist for filtering HTTP Host header values.
 In order to defend against DNS rebinding attack,
 you should put in domain names used by WebUI server.
@@ -6398,398 +6694,480 @@ Use &apos;;&apos; to split multiple entries. Can use wildcard &apos;*&apos;.</so
 使用「;」來分隔多個項目。可以使用萬用字元「*」。</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3625"/>
+        <location filename="../gui/optionsdialog.ui" line="3685"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3472"/>
         <source>&amp;Use HTTPS instead of HTTP</source>
         <translation>使用 HTTPS 而不是 HTTP (&amp;U)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3716"/>
+        <location filename="../gui/optionsdialog.ui" line="3776"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3480"/>
         <source>Bypass authentication for clients on localhost</source>
         <translation>在本機上略過用戶端驗證</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3723"/>
+        <location filename="../gui/optionsdialog.ui" line="3783"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3481"/>
         <source>Bypass authentication for clients in whitelisted IP subnets</source>
         <translation>讓已在白名單中的 IP 子網路略過驗證</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3736"/>
+        <location filename="../gui/optionsdialog.ui" line="3796"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3482"/>
         <source>IP subnet whitelist...</source>
         <translation>IP 子網白名單…</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3840"/>
+        <location filename="../gui/optionsdialog.ui" line="3900"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3490"/>
         <source>Use alternative WebUI</source>
         <translation>使用替補 WebUI</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3989"/>
+        <location filename="../gui/optionsdialog.ui" line="4049"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3511"/>
         <source>Specify reverse proxy IPs (or subnets, e.g. 0.0.0.0/24) in order to use forwarded client address (X-Forwarded-For header). Use &apos;;&apos; to split multiple entries.</source>
         <translation>指定反向代理 IP（或子網路，例如 0.0.0.0/24）以使用轉送的用戶端位置（X-Forwarded-For 標頭）。使用 &apos;;&apos; 來分隔多個項目。</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="4014"/>
+        <location filename="../gui/optionsdialog.ui" line="4074"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3514"/>
         <source>Upda&amp;te my dynamic domain name</source>
         <translation>更新我的動態領域名稱 (&amp;T)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="523"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3150"/>
         <source>Minimize qBittorrent to notification area</source>
         <translation>最小化 qBittorrent 到通知區域</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="77"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3090"/>
         <source>Search</source>
         <translation>搜尋</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="87"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3094"/>
         <source>WebUI</source>
         <translation>WebUI</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="138"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3099"/>
         <source>Interface</source>
         <translation>界面</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="156"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3101"/>
         <source>Language:</source>
         <translation>語言：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="179"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3102"/>
         <source>Style:</source>
         <translation>樣式：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="198"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3103"/>
         <source>Color scheme:</source>
         <translation>配色方案：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="304"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3116"/>
         <source>Stopped torrents only</source>
         <translation>僅已停止的 torrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="344"/>
         <location filename="../gui/optionsdialog.ui" line="393"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3120"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3127"/>
         <source>Start / stop torrent</source>
         <translation>開始 / 停止 torrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="359"/>
         <location filename="../gui/optionsdialog.ui" line="408"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3123"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3130"/>
         <source>Open torrent options dialog</source>
         <translation>開啟 torrent 選項對話方塊</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="545"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3155"/>
         <source>Tray icon style:</source>
         <translation>圖示樣式：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="553"/>
-        <location filename="../gui/optionsdialog.cpp" line="297"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3156"/>
+        <location filename="../gui/optionsdialog.cpp" line="323"/>
         <source>Normal</source>
         <translation>一般</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="589"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3160"/>
         <source>File association</source>
         <translation>檔案關聯</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="610"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3161"/>
         <source>Use qBittorrent for .torrent files</source>
         <translation>Torrent 檔案使用 qBittorrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="617"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3162"/>
         <source>Use qBittorrent for magnet links</source>
         <translation>磁力連結使用 qBittorrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="655"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3164"/>
         <source>Check for program updates</source>
         <translation>檢查程式更新</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="665"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3165"/>
         <source>Power Management</source>
         <translation>電源管理</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="688"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3168"/>
         <source>&amp;Log Files</source>
         <translation>紀錄檔(&amp;L)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="708"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3169"/>
         <source>Save path:</source>
         <translation>儲存路徑：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="725"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3173"/>
         <source>Backup the log file after:</source>
         <translation>備份記錄檔，每滿</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="765"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3175"/>
         <source>Delete backup logs older than:</source>
         <translation>只保存備份記錄：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="825"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3180"/>
         <source>Show external IP in status bar</source>
         <translation>在狀態列中顯示外部 IP</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="887"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3182"/>
         <source>When adding a torrent</source>
         <translation>當增加 torrent 時</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="902"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3184"/>
         <source>Bring torrent dialog to the front</source>
         <translation>以最上層顯示 torrent 對話方塊</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="971"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3195"/>
         <source>The torrent will be added to download list in a stopped state</source>
         <translation>這個 torrent 將會以「停止狀態」加入下載清單。</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1071"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3211"/>
         <source>Also delete .torrent files whose addition was cancelled</source>
         <translation>同時也刪除新增時被取消的 .torrent 檔案</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1074"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3213"/>
         <source>Also when addition is cancelled</source>
         <translation>新增時被取消亦同</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1096"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3214"/>
         <source>Warning! Data loss possible!</source>
         <translation>警告！可能遺失資料！</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1145"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3225"/>
         <source>Saving Management</source>
         <translation>存檔管理</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1153"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3226"/>
         <source>Default Torrent Management Mode:</source>
         <translation>預設 torrent 管理模式：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1170"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3227"/>
         <source>Manual</source>
         <translation>手動</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1175"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3228"/>
         <source>Automatic</source>
         <translation>自動</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1198"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3234"/>
         <source>When Torrent Category changed:</source>
         <translation>當 Torrent 分類變更時：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1208"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3235"/>
         <source>Relocate torrent</source>
         <translation>重新定位 torrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1213"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3236"/>
         <source>Switch torrent to Manual Mode</source>
         <translation>切換 torrent 到手動模式</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1249"/>
         <location filename="../gui/optionsdialog.ui" line="1290"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3239"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3243"/>
         <source>Relocate affected torrents</source>
         <translation>重新定位受影響的 torrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1254"/>
         <location filename="../gui/optionsdialog.ui" line="1295"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3240"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3244"/>
         <source>Switch affected torrents to Manual Mode</source>
         <translation>切換受影響的 torrent 至手動模式</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1320"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3246"/>
         <source>Use Subcategories</source>
         <translation>使用子分類</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1339"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3251"/>
         <source>Default Save Path:</source>
         <translation>預設儲存路徑：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1359"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3253"/>
         <source>Copy .torrent files to:</source>
         <translation>複製 torrent 檔案到：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="511"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3146"/>
         <source>Show &amp;qBittorrent in notification area</source>
         <translation>在通知區域顯示 qBittorrent (&amp;Q)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="893"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3183"/>
         <source>Display &amp;torrent content and some options</source>
         <translation>顯示 torrent 內容及其他選項 (&amp;T)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1059"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3209"/>
         <source>De&amp;lete .torrent files afterwards </source>
         <translation>事後刪除 .torrent 檔案 (&amp;L)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1369"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3254"/>
         <source>Copy .torrent files for finished downloads to:</source>
         <translation>複製已完成的 torrent 檔案到：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1114"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3218"/>
         <source>Pre-allocate disk space for all files</source>
         <translation>為所有檔案預先分配磁碟空間</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="221"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3104"/>
         <source>Use custom UI Theme</source>
         <translation>使用自訂 UI 佈景主題</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="230"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3105"/>
         <source>UI Theme file:</source>
         <translation>UI 佈景主題檔案：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="149"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3100"/>
         <source>Changing Interface settings requires application restart</source>
         <translation>變更介面設定需要應用重新啟動</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="266"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3110"/>
         <source>Shows a confirmation dialog upon torrent deletion</source>
         <translation>Torrent 刪除時顯示確認對話框</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="354"/>
         <location filename="../gui/optionsdialog.ui" line="403"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3122"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3129"/>
         <source>Preview file, otherwise open destination folder</source>
         <translation>預覽檔案，否則開啟目標資料夾</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="488"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3142"/>
         <source>Shows a confirmation dialog when exiting with active torrents</source>
         <translation>在有活躍的 torrent 但要結束程式時顯示確認對話框</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="520"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3148"/>
         <source>When minimizing, the main window is closed and must be reopened from the systray icon</source>
         <translation>最小化時，主視窗會關閉且必須從系統匣圖示重新開啟</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="533"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3152"/>
         <source>The systray icon will still be visible when closing the main window</source>
         <translation>系統匣圖示將會在關閉主視窗後仍然可見</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="536"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3154"/>
         <source>Close qBittorrent to notification area</source>
         <extracomment>The systray icon will still be visible when closing the main window</extracomment>
         <translation>將 qBittorrent 關閉到通知區域</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="558"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3157"/>
         <source>Monochrome (for dark theme)</source>
         <translation>單色（供暗色背景使用）</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="563"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3158"/>
         <source>Monochrome (for light theme)</source>
         <translation>單色（供淺色背景使用）</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="671"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3166"/>
         <source>Inhibit system sleep when torrents are downloading</source>
         <translation>當 torrent 正在下載時，防止系統進入睡眠</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="678"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3167"/>
         <source>Inhibit system sleep when torrents are seeding</source>
         <translation>當 torrent 正在做種時，防止系統進入睡眠</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="722"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3171"/>
         <source>Creates an additional log file after the log file reaches the specified file size</source>
         <translation>紀錄檔達到一定大小後，建立額外的紀錄檔</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="789"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3176"/>
         <source>days</source>
         <extracomment>Delete backup logs older than 10 days</extracomment>
         <translation>天</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="794"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3177"/>
         <source>months</source>
         <extracomment>Delete backup logs older than 10 months</extracomment>
         <translation>月</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="799"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3178"/>
         <source>years</source>
         <extracomment>Delete backup logs older than 10 years</extracomment>
         <translation>年</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="832"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3181"/>
         <source>Log performance warnings</source>
         <translation>記錄效能警告</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="974"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3197"/>
         <source>Do not start the download automatically</source>
         <extracomment>The torrent will be added to download list in a stopped state</extracomment>
         <translation>無法自動開始下載</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1056"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3207"/>
         <source>Whether the .torrent file should be deleted after adding it</source>
         <translation>新增後是否應刪除 .torrent 檔案</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1111"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3216"/>
         <source>Allocate full file sizes on disk before starting downloads, to minimize fragmentation. Only useful for HDDs.</source>
         <translation>開始下載前，在磁碟上預先分配好完整檔案大小的空間以減少空間碎片。僅對 HDD 有用。</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1121"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3219"/>
         <source>Append .!qB extension to incomplete files</source>
         <translation>在未完成檔案加上 .!qB 副檔名</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1135"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3222"/>
         <source>When a torrent is downloaded, offer to add torrents from any .torrent files found inside it</source>
         <translation>下載 torrent 時，可以從其中找到的任何 .torrent 檔案新增 torrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1138"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3224"/>
         <source>Enable recursive download dialog</source>
         <translation>啟用遞迴下載確認對話框</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1165"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3231"/>
         <source>Automatic: Various torrent properties (e.g. save path) will be decided by the associated category
 Manual: Various torrent properties (e.g. save path) must be assigned manually</source>
         <translation>自動：各種 torrent 屬性（如儲存路徑）將由相關分類來決定
@@ -6797,84 +7175,100 @@ Manual: Various torrent properties (e.g. save path) must be assigned manually</s
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1236"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3238"/>
         <source>When Default Save/Incomplete Path changed:</source>
         <translation>當預設儲存／不完整路徑變更時：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1277"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3242"/>
         <source>When Category Save Path changed:</source>
         <translation>當分類儲存路徑變更：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1330"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3250"/>
         <source>Use Category paths in Manual Mode</source>
         <translation>在手動模式下使用分類路徑</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1327"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3248"/>
         <source>Resolve relative Save Path against appropriate Category path instead of Default one</source>
         <translation>根據適當的分類路徑而非預設路徑解析相對儲存路徑</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="243"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3106"/>
         <source>Use icons from system theme</source>
         <translation>使用來自系統佈景主題的圖示</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="459"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3137"/>
         <source>Window state on start up:</source>
         <translation>啟動時的視窗狀態</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="466"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3139"/>
         <source>qBittorrent window state on start up</source>
         <translation>啟動時的 qBittorrent 視窗狀態</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="983"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3198"/>
         <source>Torrent stop condition:</source>
         <translation>Torrent 停止條件：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="994"/>
-        <location filename="../gui/optionsdialog.cpp" line="556"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3199"/>
+        <location filename="../gui/optionsdialog.cpp" line="582"/>
         <source>None</source>
         <translation>無</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="999"/>
-        <location filename="../gui/optionsdialog.cpp" line="557"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3200"/>
+        <location filename="../gui/optionsdialog.cpp" line="583"/>
         <source>Metadata received</source>
         <translation>收到的詮釋資料</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1004"/>
-        <location filename="../gui/optionsdialog.cpp" line="559"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3201"/>
+        <location filename="../gui/optionsdialog.cpp" line="585"/>
         <source>Files checked</source>
         <translation>已檢查的檔案</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1043"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3205"/>
         <source>Ask for merging trackers when torrent is being added manually</source>
         <translation>手動新增 torrent 時詢問是否合併追蹤器</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1349"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3252"/>
         <source>Use another path for incomplete torrents:</source>
         <translation>使用其他路徑取得不完整的 torrents：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1384"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3255"/>
         <source>Automatically add torrents from:</source>
         <translation>自動載入 torrent 檔案：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1478"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3259"/>
         <source>Excluded file names</source>
         <translation>排除的檔案名稱</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1490"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3261"/>
         <source>Blacklist filtered file names from being downloaded from torrent(s).
 Files matching any of the filters in this list will have their priority automatically set to &quot;Do not download&quot;.
 
@@ -6904,151 +7298,184 @@ readme[0-9].txt：過濾「readme1.txt」、「readme2.txt」但不包含「read
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1545"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3281"/>
         <source>Receiver</source>
         <translation>接收者</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1548"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3283"/>
         <source>To:</source>
         <comment>To receiver</comment>
         <translation>到：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1558"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3284"/>
         <source>SMTP server:</source>
         <translation>SMTP 伺服器：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1532"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3277"/>
         <source>Sender</source>
         <translation>傳送者</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1535"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3279"/>
         <source>From:</source>
         <comment>From sender</comment>
         <translation>從：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1570"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3285"/>
         <source>This server requires a secure connection (SSL)</source>
         <translation>這個伺服器需要加密連線 (SSL)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1577"/>
-        <location filename="../gui/optionsdialog.ui" line="3679"/>
+        <location filename="../gui/optionsdialog.ui" line="3739"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3286"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3476"/>
         <source>Authentication</source>
         <translation>驗證</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1589"/>
         <location filename="../gui/optionsdialog.ui" line="2114"/>
-        <location filename="../gui/optionsdialog.ui" line="3687"/>
-        <location filename="../gui/optionsdialog.ui" line="4072"/>
+        <location filename="../gui/optionsdialog.ui" line="3747"/>
+        <location filename="../gui/optionsdialog.ui" line="4132"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3287"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3327"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3477"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3519"/>
         <source>Username:</source>
         <translation>使用者名稱：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1599"/>
         <location filename="../gui/optionsdialog.ui" line="2124"/>
-        <location filename="../gui/optionsdialog.ui" line="3697"/>
-        <location filename="../gui/optionsdialog.ui" line="4082"/>
+        <location filename="../gui/optionsdialog.ui" line="3757"/>
+        <location filename="../gui/optionsdialog.ui" line="4142"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3288"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3328"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3478"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3520"/>
         <source>Password:</source>
         <translation>密碼：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1632"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3290"/>
         <source>Run external program</source>
         <translation>執行外部程式</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1674"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3293"/>
         <source>Show console window</source>
         <translation>顯示終端機視窗</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1736"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3295"/>
         <source>TCP and μTP</source>
         <translation>TCP 與 μTP</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1769"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3297"/>
         <source>Listening Port</source>
         <translation>監聽埠</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1777"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3298"/>
         <source>Port used for incoming connections:</source>
         <translation>連入連線時使用的埠：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1784"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3300"/>
         <source>Set to 0 to let your system pick an unused port</source>
         <translation>設定為 0 讓您的系統挑選未使用的連接埠</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1797"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3303"/>
         <source>Random</source>
         <translation>隨機</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1819"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3304"/>
         <source>Use UPnP / NAT-PMP port forwarding from my router</source>
         <translation>使用從路由器轉送的 UPnP／NAT-PMP 連接埠</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1832"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3305"/>
         <source>Connections Limits</source>
         <translation>連線限制</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1877"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3307"/>
         <source>Maximum number of connections per torrent:</source>
         <translation>每個 torrent 的最大連線數：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1838"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3306"/>
         <source>Global maximum number of connections:</source>
         <translation>全域最大連線數：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1917"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3309"/>
         <source>Maximum number of upload slots per torrent:</source>
         <translation>每個 torrent 上傳通道的最大數：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1900"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3308"/>
         <source>Global maximum number of upload slots:</source>
         <translation>全域上傳通道的最大數：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2012"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3317"/>
         <source>Proxy Server</source>
         <translation>代理伺服器</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2020"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3318"/>
         <source>Type:</source>
         <translation>類型：</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="893"/>
+        <location filename="../gui/optionsdialog.cpp" line="919"/>
         <source>SOCKS4</source>
         <translation>SOCKS4</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="894"/>
+        <location filename="../gui/optionsdialog.cpp" line="920"/>
         <source>SOCKS5</source>
         <translation>SOCKS5</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="895"/>
+        <location filename="../gui/optionsdialog.cpp" line="921"/>
         <source>HTTP</source>
         <translation>HTTP</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1951"/>
         <location filename="../gui/optionsdialog.ui" line="2030"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3311"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3319"/>
         <source>Host:</source>
         <translation>主機：</translation>
     </message>
@@ -7056,51 +7483,63 @@ readme[0-9].txt：過濾「readme1.txt」、「readme2.txt」但不包含「read
         <location filename="../gui/optionsdialog.ui" line="1961"/>
         <location filename="../gui/optionsdialog.ui" line="2040"/>
         <location filename="../gui/optionsdialog.ui" line="3593"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3312"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3320"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3466"/>
         <source>Port:</source>
         <translation>埠：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2162"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3332"/>
         <source>Otherwise, the proxy server is only used for tracker connections</source>
         <translation>除此之外，代理伺服器僅用於追蹤者連線</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2165"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3334"/>
         <source>Use proxy for peer connections</source>
         <translation>使用代理伺服器來連線下載者</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2100"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3326"/>
         <source>A&amp;uthentication</source>
         <translation>驗證 (&amp;U)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2140"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3329"/>
         <source>Info: The password is saved unencrypted</source>
         <translation>資訊：密碼以未加密的形式儲存</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2212"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3344"/>
         <source>Filter path (.dat, .p2p, .p2b):</source>
         <translation>過濾路徑 (.dat, .p2p, .p2b)：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2222"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3346"/>
         <source>Reload the filter</source>
         <translation>重新載入過濾器</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2237"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3348"/>
         <source>Manually banned IP addresses...</source>
         <translation>手動封鎖 IP 位置…</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2244"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3349"/>
         <source>Apply to trackers</source>
         <translation>套用到追蹤者</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2302"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3350"/>
         <source>Global Rate Limits</source>
         <translation>全域速率限制</translation>
     </message>
@@ -7112,6 +7551,13 @@ readme[0-9].txt：過濾「readme1.txt」、「readme2.txt」但不包含「read
         <location filename="../gui/optionsdialog.ui" line="2843"/>
         <location filename="../gui/optionsdialog.ui" line="2876"/>
         <location filename="../gui/optionsdialog.ui" line="2896"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3352"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3355"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3359"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3362"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3413"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3415"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3417"/>
         <source>∞</source>
         <translation>∞</translation>
     </message>
@@ -7122,597 +7568,682 @@ readme[0-9].txt：過濾「readme1.txt」、「readme2.txt」但不包含「read
         <location filename="../gui/optionsdialog.ui" line="2437"/>
         <location filename="../gui/optionsdialog.ui" line="2928"/>
         <location filename="../gui/optionsdialog.ui" line="2964"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3353"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3356"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3360"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3363"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3420"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3422"/>
         <source> KiB/s</source>
         <translation> KiB/s</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2311"/>
         <location filename="../gui/optionsdialog.ui" line="2388"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3351"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3358"/>
         <source>Upload:</source>
         <translation>上傳：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2350"/>
         <location filename="../gui/optionsdialog.ui" line="2427"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3354"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3361"/>
         <source>Download:</source>
         <translation>下載：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2379"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3357"/>
         <source>Alternative Rate Limits</source>
         <translation>替補速率限制</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2465"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3366"/>
         <source>Start time</source>
         <translation>開始時間</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2495"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3370"/>
         <source>End time</source>
         <translation>結束時間</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2535"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3373"/>
         <source>When:</source>
         <translation>何時：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2549"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3374"/>
         <source>Every day</source>
         <translation>每天</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2554"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3375"/>
         <source>Weekdays</source>
         <translation>平日</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2559"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3376"/>
         <source>Weekends</source>
         <translation>週末</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2573"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3378"/>
         <source>Rate Limits Settings</source>
         <translation>速率限制設定</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2593"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3381"/>
         <source>Apply rate limit to peers on LAN</source>
         <translation>在 LAN 上套用對下載者的速率限制</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2586"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3380"/>
         <source>Apply rate limit to transport overhead</source>
         <translation>套用速率限制至傳輸負載</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1996"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3314"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If &quot;mixed mode&quot; is enabled I2P torrents are allowed to also get peers from other sources than the tracker, and connect to regular IPs, not providing any anonymization. This may be useful if the user is not interested in the anonymization of I2P, but still wants to be able to connect to I2P peers.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;若啟用「混合模式」，I2P torrent 也允許從追蹤者以外的來源取得 peer，並連線到一般 IP，不提供任何匿名化。若使用者對 I2P 的匿名化不感興趣，但仍希望可以連線至 I2P peer，這可能會很有用。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2579"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3379"/>
         <source>Apply rate limit to µTP protocol</source>
         <translation>套用速率限制到 µTP 協定</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2651"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3382"/>
         <source>Privacy</source>
         <translation>隱私</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2660"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3386"/>
         <source>Enable DHT (decentralized network) to find more peers</source>
         <translation>啟用 DHT (分散式網路) 來尋找更多下載者</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2670"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3388"/>
         <source>Exchange peers with compatible Bittorrent clients (µTorrent, Vuze, ...)</source>
         <translation>與相容的 Bittorrent 客戶端 (µTorrent、Vuze 等) 交換下載者資訊</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2673"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3390"/>
         <source>Enable Peer Exchange (PeX) to find more peers</source>
         <translation>啟用下載者交換 (PeX) 來尋找更多下載者</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2683"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3392"/>
         <source>Look for peers on your local network</source>
         <translation>在本地網路找尋下載者</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2686"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3394"/>
         <source>Enable Local Peer Discovery to find more peers</source>
         <translation>啟用本地下載者搜尋來尋找更多下載者</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2698"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3395"/>
         <source>Encryption mode:</source>
         <translation>加密模式：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2716"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3397"/>
         <source>Require encryption</source>
         <translation>要求加密</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2721"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3398"/>
         <source>Disable encryption</source>
         <translation>停用加密</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2746"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3406"/>
         <source>Enable when using a proxy or a VPN connection</source>
         <translation>當使用代理伺服器或 VPN 連線時啟用</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2749"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3408"/>
         <source>Enable anonymous mode</source>
         <translation>啟用匿名模式</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2836"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3412"/>
         <source>Maximum active downloads:</source>
         <translation>最大活躍的下載數：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2869"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3414"/>
         <source>Maximum active uploads:</source>
         <translation>最大活躍的上傳數：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2889"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3416"/>
         <source>Maximum active torrents:</source>
         <translation>最大活躍的 torrent 數：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2909"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3418"/>
         <source>Do not count slow torrents in these limits</source>
         <translation>在這些限制中不要計算速率慢的 torrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2957"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3421"/>
         <source>Upload rate threshold:</source>
         <translation>上傳速率閾值：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2921"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3419"/>
         <source>Download rate threshold:</source>
         <translation>下載速率閾值：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2987"/>
         <location filename="../gui/optionsdialog.ui" line="3415"/>
-        <location filename="../gui/optionsdialog.ui" line="3785"/>
-        <location filename="../gui/optionsdialog.ui" line="3812"/>
+        <location filename="../gui/optionsdialog.ui" line="3845"/>
+        <location filename="../gui/optionsdialog.ui" line="3872"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3424"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3450"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3486"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3489"/>
         <source> sec</source>
         <extracomment>seconds</extracomment>
         <translation>秒</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2980"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3423"/>
         <source>Torrent inactivity timer:</source>
         <translation>Torrent 不活躍計時器：</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3094"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3431"/>
         <source>then</source>
         <translation>然後</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3615"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3467"/>
         <source>Use UPnP / NAT-PMP to forward the port from my router</source>
         <translation>使用 UPnP／NAT-PMP 轉送路由器連接埠</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3640"/>
+        <location filename="../gui/optionsdialog.ui" line="3700"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3473"/>
         <source>Certificate:</source>
         <translation>憑證：</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3653"/>
+        <location filename="../gui/optionsdialog.ui" line="3713"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3474"/>
         <source>Key:</source>
         <translation>鍵值：</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3663"/>
+        <location filename="../gui/optionsdialog.ui" line="3723"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3475"/>
         <source>&lt;a href=https://httpd.apache.org/docs/current/ssl/ssl_faq.html#aboutcerts&gt;Information about certificates&lt;/a&gt;</source>
         <translation>&lt;a href=https://httpd.apache.org/docs/current/ssl/ssl_faq.html#aboutcerts&gt;關於憑證的資訊&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3707"/>
+        <location filename="../gui/optionsdialog.ui" line="3767"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3479"/>
         <source>Change current password</source>
         <translation>變更目前的密碼</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3854"/>
+        <location filename="../gui/optionsdialog.ui" line="3914"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3491"/>
         <source>Files location:</source>
         <translation>檔案位置：</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3866"/>
+        <location filename="../gui/optionsdialog.ui" line="3926"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3492"/>
         <source>&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs&quot;&gt;List of alternative WebUI&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs&quot;&gt;替代 WebUI 清單&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3882"/>
+        <location filename="../gui/optionsdialog.ui" line="3942"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3493"/>
         <source>Security</source>
         <translation>安全</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3888"/>
+        <location filename="../gui/optionsdialog.ui" line="3948"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3494"/>
         <source>Enable clickjacking protection</source>
         <translation>啟用點選劫持保護</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3895"/>
+        <location filename="../gui/optionsdialog.ui" line="3955"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3495"/>
         <source>Enable Cross-Site Request Forgery (CSRF) protection</source>
         <translation>啟用跨站請求偽造 (CSRF) 保護</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3902"/>
+        <location filename="../gui/optionsdialog.ui" line="3962"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3496"/>
         <source>Enable cookie Secure flag (requires HTTPS or localhost connection)</source>
         <translation>啟用 cookie 安全旗標（需要 HTTPS 或 localhost 連線）</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3909"/>
+        <location filename="../gui/optionsdialog.ui" line="3969"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3497"/>
         <source>Enable Host header validation</source>
         <translation>啟用主機檔頭驗證</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3946"/>
+        <location filename="../gui/optionsdialog.ui" line="4006"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3506"/>
         <source>Add custom HTTP headers</source>
         <translation>新增自訂 HTTP 標頭</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3961"/>
+        <location filename="../gui/optionsdialog.ui" line="4021"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3507"/>
         <source>Header: value pairs, one per line</source>
         <translation>標頭：鍵值對，一行一個</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3971"/>
+        <location filename="../gui/optionsdialog.ui" line="4031"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3508"/>
         <source>Enable reverse proxy support</source>
         <translation>啟用反向代理支援</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3982"/>
+        <location filename="../gui/optionsdialog.ui" line="4042"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3509"/>
         <source>Trusted proxies list:</source>
         <translation>受信任的代理伺服器清單：</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3998"/>
+        <location filename="../gui/optionsdialog.ui" line="4058"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3513"/>
         <source>&lt;a href=https://github.com/qbittorrent/qBittorrent/wiki#reverse-proxy-setup-for-webui-access&gt;Reverse proxy setup examples&lt;/a&gt;</source>
         <translation>&lt;a href=https://github.com/qbittorrent/qBittorrent/wiki#reverse-proxy-setup-for-webui-access&gt;反向代理設定範例&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="4026"/>
+        <location filename="../gui/optionsdialog.ui" line="4086"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3515"/>
         <source>Service:</source>
         <translation>服務：</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="4049"/>
+        <location filename="../gui/optionsdialog.ui" line="4109"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3517"/>
         <source>Register</source>
         <translation>註冊</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="4058"/>
+        <location filename="../gui/optionsdialog.ui" line="4118"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3518"/>
         <source>Domain name:</source>
         <translation>網域名稱：</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="584"/>
+        <location filename="../gui/optionsdialog.cpp" line="610"/>
         <source>By enabling these options, you can &lt;strong&gt;irrevocably lose&lt;/strong&gt; your .torrent files!</source>
         <translation>啟用這些選項，您可能會&lt;strong&gt;無可挽回地失去&lt;/strong&gt;您的 .torrent 檔案！</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="591"/>
+        <location filename="../gui/optionsdialog.cpp" line="617"/>
         <source>If you enable the second option (&amp;ldquo;Also when addition is cancelled&amp;rdquo;) the .torrent file &lt;strong&gt;will be deleted&lt;/strong&gt; even if you press &amp;ldquo;&lt;strong&gt;Cancel&lt;/strong&gt;&amp;rdquo; in the &amp;ldquo;Add torrent&amp;rdquo; dialog</source>
         <translation>若您啟用第二個選項 (新增時被取消亦同)，即使您只是按下「新增 torrent」對話方塊中的「&lt;strong&gt;取消&lt;/strong&gt;」按鈕，您的 .torrent 檔案&lt;strong&gt;也會被刪除&lt;/strong&gt;。</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="254"/>
+        <location filename="../gui/optionsdialog.cpp" line="280"/>
         <source>Select qBittorrent UI Theme file</source>
         <translation>選取 qBittorrent UI 佈景主題檔案</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1312"/>
+        <location filename="../gui/optionsdialog.cpp" line="1338"/>
         <source>Choose Alternative UI files location</source>
         <translation>選擇替補 UI 檔案位置</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="664"/>
+        <location filename="../gui/optionsdialog.cpp" line="690"/>
         <source>Supported parameters (case sensitive):</source>
         <translation>支援的參數 (區分大小寫)：</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="298"/>
+        <location filename="../gui/optionsdialog.cpp" line="324"/>
         <source>Minimized</source>
         <translation>最小化</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="300"/>
+        <location filename="../gui/optionsdialog.cpp" line="326"/>
         <source>Hidden</source>
         <translation>隱藏</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="315"/>
+        <location filename="../gui/optionsdialog.cpp" line="341"/>
         <source>Disabled due to failed to detect system tray presence</source>
         <translation>未偵測到系統匣存在而停用</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="556"/>
+        <location filename="../gui/optionsdialog.cpp" line="582"/>
         <source>No stop condition is set.</source>
         <translation>未設定停止條件。</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="557"/>
+        <location filename="../gui/optionsdialog.cpp" line="583"/>
         <source>Torrent will stop after metadata is received.</source>
         <translation>Torrent 將會在收到詮釋資料後停止。</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="559"/>
+        <location filename="../gui/optionsdialog.cpp" line="585"/>
         <source>Torrent will stop after files are initially checked.</source>
         <translation>最初檢查檔案後，torrent 將會停止。</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="560"/>
+        <location filename="../gui/optionsdialog.cpp" line="586"/>
         <source>This will also download metadata if it wasn&apos;t there initially.</source>
         <translation>如果一開始不存在，這也會下載詮釋資料。</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="665"/>
+        <location filename="../gui/optionsdialog.cpp" line="691"/>
         <source>%N: Torrent name</source>
         <translation>%N：Torrent 名稱</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="666"/>
+        <location filename="../gui/optionsdialog.cpp" line="692"/>
         <source>%L: Category</source>
         <translation>%L：分類</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="668"/>
+        <location filename="../gui/optionsdialog.cpp" line="694"/>
         <source>%F: Content path (same as root path for multifile torrent)</source>
         <translation>%F：內容路徑 (與多重 torrent 的根路徑相同)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="669"/>
+        <location filename="../gui/optionsdialog.cpp" line="695"/>
         <source>%R: Root path (first torrent subdirectory path)</source>
         <translation>%R：根路徑 (第一個 torrent 的子目錄路徑)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="670"/>
+        <location filename="../gui/optionsdialog.cpp" line="696"/>
         <source>%D: Save path</source>
         <translation>%D：儲存路徑</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="671"/>
+        <location filename="../gui/optionsdialog.cpp" line="697"/>
         <source>%C: Number of files</source>
         <translation>%C：檔案數</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="672"/>
+        <location filename="../gui/optionsdialog.cpp" line="698"/>
         <source>%Z: Torrent size (bytes)</source>
         <translation>%Z：Torrent 大小 (位元組)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="673"/>
+        <location filename="../gui/optionsdialog.cpp" line="699"/>
         <source>%T: Current tracker</source>
         <translation>%T：目前的追蹤者</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="677"/>
+        <location filename="../gui/optionsdialog.cpp" line="703"/>
         <source>Tip: Encapsulate parameter with quotation marks to avoid text being cut off at whitespace (e.g., &quot;%N&quot;)</source>
         <translation>提示：把參數以引號包起來以避免被空格切斷 (例如：&quot;%N&quot;)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="742"/>
+        <location filename="../gui/optionsdialog.cpp" line="768"/>
         <source>Test email</source>
         <translation>測試電子郵件</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="742"/>
+        <location filename="../gui/optionsdialog.cpp" line="768"/>
         <source>Attempted to send email. Check your inbox to confirm success</source>
         <translation>嘗試發送電子郵件。請檢查您的收件匣以確認是否成功</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="892"/>
+        <location filename="../gui/optionsdialog.cpp" line="918"/>
         <source>(None)</source>
         <translation>(無)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1091"/>
+        <location filename="../gui/optionsdialog.cpp" line="1117"/>
         <source>A torrent will be considered slow if its download and upload rates stay below these values for &quot;Torrent inactivity timer&quot; seconds</source>
         <translation>Torrent 若下載與上傳速率在「Torrent 不活躍計時器」秒數內都低於這些值的話就會被認為是太慢了</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1306"/>
+        <location filename="../gui/optionsdialog.cpp" line="1332"/>
         <source>Certificate</source>
         <translation>憑證</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1307"/>
+        <location filename="../gui/optionsdialog.cpp" line="1333"/>
         <source>Select certificate</source>
         <translation>選取憑證</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1309"/>
+        <location filename="../gui/optionsdialog.cpp" line="1335"/>
         <source>Private key</source>
         <translation>私密金鑰</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1310"/>
+        <location filename="../gui/optionsdialog.cpp" line="1336"/>
         <source>Select private key</source>
         <translation>選取私密金鑰</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1315"/>
+        <location filename="../gui/optionsdialog.cpp" line="1341"/>
         <source>WebUI configuration failed. Reason: %1</source>
         <translation>WebUI 設定失敗。理由：%1</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1740"/>
+        <location filename="../gui/optionsdialog.cpp" line="1770"/>
         <source>%1 is recommended for best compatibility with Windows dark mode</source>
         <comment>Fusion is recommended for best compatibility with Windows dark mode</comment>
         <translation>建議使用 %1 以取得對 Windows 深色模式的最佳相容性</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1742"/>
+        <location filename="../gui/optionsdialog.cpp" line="1772"/>
         <source>System</source>
         <comment>System default Qt style</comment>
         <translation>系統</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1743"/>
+        <location filename="../gui/optionsdialog.cpp" line="1773"/>
         <source>Let Qt decide the style for this system</source>
         <translation>讓 Qt 決定此系統的樣式</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1768"/>
+        <location filename="../gui/optionsdialog.cpp" line="1798"/>
         <source>Dark</source>
         <comment>Dark color scheme</comment>
         <translation>深色</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1769"/>
+        <location filename="../gui/optionsdialog.cpp" line="1799"/>
         <source>Light</source>
         <comment>Light color scheme</comment>
         <translation>淺色</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1770"/>
+        <location filename="../gui/optionsdialog.cpp" line="1800"/>
         <source>System</source>
         <comment>System color scheme</comment>
         <translation>系統</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1893"/>
+        <location filename="../gui/optionsdialog.cpp" line="1923"/>
         <source>Select folder to monitor</source>
         <translation>選擇資料夾以監視</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1915"/>
+        <location filename="../gui/optionsdialog.cpp" line="1945"/>
         <source>Adding entry failed</source>
         <translation>新增項目失敗</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2014"/>
+        <location filename="../gui/optionsdialog.cpp" line="2044"/>
         <source>The WebUI username must be at least 3 characters long.</source>
         <translation>WebUI 使用者名稱必須至少 3 個字元長。</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2021"/>
+        <location filename="../gui/optionsdialog.cpp" line="2051"/>
         <source>The WebUI password must be at least 6 characters long.</source>
         <translation>WebUI 密碼必須至少 6 個字元長。</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2031"/>
+        <location filename="../gui/optionsdialog.cpp" line="2061"/>
         <source>Location Error</source>
         <translation>位置錯誤</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="621"/>
-        <location filename="../gui/optionsdialog.cpp" line="629"/>
+        <location filename="../gui/optionsdialog.cpp" line="647"/>
+        <location filename="../gui/optionsdialog.cpp" line="655"/>
         <source>Choose export directory</source>
         <translation>選擇輸出目錄</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="586"/>
+        <location filename="../gui/optionsdialog.cpp" line="612"/>
         <source>When these options are enabled, qBittorrent will &lt;strong&gt;delete&lt;/strong&gt; .torrent files after they were successfully (the first option) or not (the second option) added to its download queue. This will be applied &lt;strong&gt;not only&lt;/strong&gt; to the files opened via &amp;ldquo;Add torrent&amp;rdquo; menu action but to those opened via &lt;strong&gt;file type association&lt;/strong&gt; as well</source>
         <translation>當這些選項啟用時，qBittorrent 將會在它們成功（第一個選項）或是未（第二個選項）加入其下載佇列時&lt;strong&gt;刪除&lt;/strong&gt; .torrent 檔案。這將&lt;strong&gt;不僅是套用於&lt;/strong&gt;透過「新增 torrent」選單動作開啟的檔案，也會套用於透過&lt;strong&gt;檔案類型關聯&lt;/strong&gt;開啟的檔案。</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="255"/>
+        <location filename="../gui/optionsdialog.cpp" line="281"/>
         <source>qBittorrent UI Theme file (*.qbtheme config.json)</source>
         <translation>qBittorrent UI 佈景主題檔案 (*.qbtheme config.json)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="667"/>
+        <location filename="../gui/optionsdialog.cpp" line="693"/>
         <source>%G: Tags (separated by comma)</source>
         <translation>%G：標籤（以逗號分隔）</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="674"/>
+        <location filename="../gui/optionsdialog.cpp" line="700"/>
         <source>%I: Info hash v1 (or &apos;-&apos; if unavailable)</source>
         <translation>%I：資訊雜湊值 v1（如果不可用則為 &apos;-&apos;）</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="675"/>
+        <location filename="../gui/optionsdialog.cpp" line="701"/>
         <source>%J: Info hash v2 (or &apos;-&apos; if unavailable)</source>
         <translation>%J：資訊雜湊值 v2（如果不可用則為 &apos;-&apos;）</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="676"/>
+        <location filename="../gui/optionsdialog.cpp" line="702"/>
         <source>%K: Torrent ID (either sha-1 info hash for v1 torrent or truncated sha-256 info hash for v2/hybrid torrent)</source>
         <translation>%K：Torrent ID（v1 的 torrent 即為 sha-1 資訊雜湊值，若為 v2 或是混合的 torrent 即為截斷的 sha-256 資訊雜湊值）</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="342"/>
-        <location filename="../gui/optionsdialog.cpp" line="609"/>
-        <location filename="../gui/optionsdialog.cpp" line="614"/>
+        <location filename="../gui/optionsdialog.cpp" line="368"/>
+        <location filename="../gui/optionsdialog.cpp" line="635"/>
+        <location filename="../gui/optionsdialog.cpp" line="640"/>
         <source>Choose a save directory</source>
         <translation>選擇儲存的目錄</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="558"/>
+        <location filename="../gui/optionsdialog.cpp" line="584"/>
         <source>Torrents that have metadata initially will be added as stopped.</source>
         <translation>一開始就有詮釋資料的 torrent 將被新增為已停止。</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="912"/>
+        <location filename="../gui/optionsdialog.cpp" line="938"/>
         <source>Choose an IP filter file</source>
         <translation>選擇一個 IP 過濾器檔案</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="914"/>
+        <location filename="../gui/optionsdialog.cpp" line="940"/>
         <source>All supported filters</source>
         <translation>所有支援的過濾器</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2031"/>
+        <location filename="../gui/optionsdialog.cpp" line="2061"/>
         <source>The alternative WebUI files location cannot be blank.</source>
         <translation>替補的 WebUI 檔案位置不應該為空白。</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2068"/>
+        <location filename="../gui/optionsdialog.cpp" line="2091"/>
+        <source>Add MIME type override</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/optionsdialog.cpp" line="2092"/>
+        <source>Failed to add MIME type override. Ensure the extension is unique and both fields are not empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/optionsdialog.cpp" line="2115"/>
+        <source>Edit MIME type override</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/optionsdialog.cpp" line="2116"/>
+        <source>Failed to update MIME type override. Ensure the extension is unique and both fields are not empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/optionsdialog.cpp" line="2167"/>
         <source>Parsing error</source>
         <translation>解析錯誤</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2068"/>
+        <location filename="../gui/optionsdialog.cpp" line="2167"/>
         <source>Failed to parse the provided IP filter</source>
         <translation>所提供的 IP 過濾器解析失敗</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2070"/>
+        <location filename="../gui/optionsdialog.cpp" line="2169"/>
         <source>Successfully refreshed</source>
         <translation>重新更新成功</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2070"/>
+        <location filename="../gui/optionsdialog.cpp" line="2169"/>
         <source>Successfully parsed the provided IP filter: %1 rules were applied.</source>
         <comment>%1 is a number</comment>
         <translation>成功分析所提供的 IP 過濾器：套用 %1 個規則。</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="154"/>
+        <location filename="../gui/optionsdialog.cpp" line="161"/>
         <source>Preferences</source>
         <translation>偏好設定</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2079"/>
+        <location filename="../gui/optionsdialog.cpp" line="2178"/>
         <source>Time Error</source>
         <translation>時間錯誤</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2079"/>
+        <location filename="../gui/optionsdialog.cpp" line="2178"/>
         <source>The start time and the end time can&apos;t be the same.</source>
         <translation>起始時間與終止時間不應該相同。</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2014"/>
-        <location filename="../gui/optionsdialog.cpp" line="2021"/>
+        <location filename="../gui/optionsdialog.cpp" line="2044"/>
+        <location filename="../gui/optionsdialog.cpp" line="2051"/>
         <source>Length Error</source>
         <translation>長度錯誤</translation>
     </message>
@@ -7968,16 +8499,19 @@ readme[0-9].txt：過濾「readme1.txt」、「readme2.txt」但不包含「read
     <name>PeersAdditionDialog</name>
     <message>
         <location filename="../gui/properties/peersadditiondialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_peersadditiondialog.h" line="66"/>
         <source>Add Peers</source>
         <translation>新增下載者</translation>
     </message>
     <message>
         <location filename="../gui/properties/peersadditiondialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_peersadditiondialog.h" line="67"/>
         <source>List of peers to add (one IP per line):</source>
         <translation>要新增的下載者清單 (每行一個 IP)：</translation>
     </message>
     <message>
         <location filename="../gui/properties/peersadditiondialog.ui" line="36"/>
+        <location filename="../../build/src/gui/ui_peersadditiondialog.h" line="68"/>
         <source>Format: IPv4:port / [IPv6]:port</source>
         <translation>格式：IPv4:埠／[IPv6]:埠</translation>
     </message>
@@ -8047,62 +8581,75 @@ readme[0-9].txt：過濾「readme1.txt」、「readme2.txt」但不包含「read
     <name>PluginSelectDialog</name>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="17"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="116"/>
         <source>Search plugins</source>
         <translation>搜尋附加元件</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="29"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="119"/>
         <source>Installed search plugins:</source>
         <translation>已安裝的搜尋附加元件：</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="52"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="124"/>
         <source>Name</source>
         <translation>名稱</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="57"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="123"/>
         <source>Version</source>
         <translation>版本</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="62"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="122"/>
         <source>Url</source>
         <translation>URL</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="67"/>
         <location filename="../gui/search/pluginselectdialog.ui" line="133"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="117"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="121"/>
         <source>Enabled</source>
         <translation>已啟用</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="80"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="125"/>
         <source>Warning: Be sure to comply with your country&apos;s copyright laws when downloading torrents from any of these search engines.</source>
         <translation>警告：請確保您從這些搜尋引擎中下載 torrent 時遵守您所在國家的版權法。</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="95"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="126"/>
         <source>You can get new search engine plugins here: &lt;a href=&quot;https://plugins.qbittorrent.org&quot;&gt;https://plugins.qbittorrent.org&lt;/a&gt;</source>
         <translation>您可以造訪此處取得新的搜尋引擎附加元件：&lt;a href=&quot;https://plugins.qbittorrent.org&quot;&gt;https://plugins.qbittorrent.org&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="107"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="127"/>
         <source>Install a new one</source>
         <translation>安裝新的</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="114"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="128"/>
         <source>Check for updates</source>
         <translation>檢查更新</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="121"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="129"/>
         <source>Close</source>
         <translation>關閉</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="138"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="118"/>
         <source>Uninstall</source>
         <translation>解除安裝</translation>
     </message>
@@ -8218,21 +8765,25 @@ Those plugins were disabled.</source>
     <name>PluginSourceDialog</name>
     <message>
         <location filename="../gui/search/pluginsourcedialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_pluginsourcedialog.h" line="70"/>
         <source>Plugin source</source>
         <translation>附加元件來源</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginsourcedialog.ui" line="26"/>
+        <location filename="../../build/src/gui/ui_pluginsourcedialog.h" line="71"/>
         <source>Search plugin source:</source>
         <translation>搜尋附加元件來源：</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginsourcedialog.ui" line="35"/>
+        <location filename="../../build/src/gui/ui_pluginsourcedialog.h" line="72"/>
         <source>Local file</source>
         <translation>本機檔案</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginsourcedialog.ui" line="42"/>
+        <location filename="../../build/src/gui/ui_pluginsourcedialog.h" line="73"/>
         <source>Web link</source>
         <translation>網頁連結</translation>
     </message>
@@ -8319,6 +8870,7 @@ Those plugins were disabled.</source>
     </message>
     <message>
         <location filename="../gui/previewselectdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_previewselectdialog.h" line="66"/>
         <source>Preview selection</source>
         <translation>選擇預覽</translation>
     </message>
@@ -8401,173 +8953,208 @@ Those plugins were disabled.</source>
     <name>PropertiesWidget</name>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="262"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="794"/>
         <source>Downloaded:</source>
         <translation>已下載：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="117"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="789"/>
         <source>Availability:</source>
         <translation>可得性：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="81"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="788"/>
         <source>Progress:</source>
         <translation>進度：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="157"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="790"/>
         <source>Transfer</source>
         <translation>傳輸</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="175"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="791"/>
         <source>Time Active:</source>
         <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>經過時間：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="204"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="792"/>
         <source>ETA:</source>
         <translation>預估剩餘時間：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="291"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="795"/>
         <source>Uploaded:</source>
         <translation>已上傳：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="320"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="796"/>
         <source>Seeds:</source>
         <translation>種子：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="349"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="797"/>
         <source>Download Speed:</source>
         <translation>下載速率：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="378"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="798"/>
         <source>Upload Speed:</source>
         <translation>上傳速率：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="407"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="799"/>
         <source>Peers:</source>
         <translation>下載者：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="436"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="800"/>
         <source>Download Limit:</source>
         <translation>下載限制：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="465"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="801"/>
         <source>Upload Limit:</source>
         <translation>上傳限制：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="494"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="802"/>
         <source>Wasted:</source>
         <translation>已丟棄：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="233"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="793"/>
         <source>Connections:</source>
         <translation>連線：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="642"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="813"/>
         <source>Information</source>
         <translation>資訊</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="866"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="821"/>
         <source>Info Hash v1:</source>
         <translation>資訊雜湊值 v1：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="898"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="822"/>
         <source>Info Hash v2:</source>
         <translation>資訊雜湊值 v2：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="965"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="824"/>
         <source>Comment:</source>
         <translation>註解：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="1125"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="825"/>
         <source>Select All</source>
         <translation>全部選擇</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="1132"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="826"/>
         <source>Select None</source>
         <translation>全部不選</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="523"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="803"/>
         <source>Share Ratio:</source>
         <translation>分享率：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="552"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="804"/>
         <source>Reannounce In:</source>
         <translation>重新發佈於：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="581"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="805"/>
         <source>Last Seen Complete:</source>
         <translation>最後完整可見：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="610"/>
         <location filename="../gui/properties/propertieswidget.ui" line="629"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="807"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="811"/>
         <source>Ratio / Time Active (in months), indicates how popular the torrent is</source>
         <translation>比例 / 活躍時間（以月為單位），表示該 torrent 的受歡迎程度</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="613"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="809"/>
         <source>Popularity:</source>
         <translation>人氣：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="660"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="814"/>
         <source>Total Size:</source>
         <translation>總大小：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="689"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="815"/>
         <source>Pieces:</source>
         <translation>分塊：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="718"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="816"/>
         <source>Created By:</source>
         <translation>製作器：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="747"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="817"/>
         <source>Added On:</source>
         <translation>增加於：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="776"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="818"/>
         <source>Completed On:</source>
         <translation>完成於：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="805"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="819"/>
         <source>Created On:</source>
         <translation>建立於：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="834"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="820"/>
         <source>Private:</source>
         <translation>私人：</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="930"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="823"/>
         <source>Save Path:</source>
         <translation>儲存路徑：</translation>
     </message>
@@ -8896,16 +9483,19 @@ Those plugins were disabled.</source>
     <name>RSSWidget</name>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="17"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="180"/>
         <source>Search</source>
         <translation>搜尋</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="31"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="210"/>
         <source>Fetching of RSS feeds is disabled now! You can enable it in application settings.</source>
         <translation>RSS feed 的抓取現在已停用！您可以在應用程式設定中啟用它。</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="43"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="211"/>
         <source>New subscription</source>
         <translation>新訂閱</translation>
     </message>
@@ -8913,89 +9503,111 @@ Those plugins were disabled.</source>
         <location filename="../gui/rss/rsswidget.ui" line="50"/>
         <location filename="../gui/rss/rsswidget.ui" line="175"/>
         <location filename="../gui/rss/rsswidget.ui" line="178"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="198"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="200"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="212"/>
         <source>Mark items read</source>
         <translation>標記項目為已讀</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="57"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="214"/>
         <source>Refresh RSS streams</source>
         <translation>更新 RSS 資源</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="60"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="216"/>
         <source>Update all</source>
         <translation>全部更新</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="80"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="217"/>
         <source>RSS Downloader...</source>
         <translation>RSS 下載器…</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="108"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="218"/>
         <source>Torrents: (double-click to download)</source>
         <translation>Torrent：(雙擊以下載)</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="138"/>
         <location filename="../gui/rss/rsswidget.ui" line="141"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="181"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="183"/>
         <source>Delete</source>
         <translation>刪除</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="146"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="185"/>
         <source>Rename...</source>
         <translation>重新命名…</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="149"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="187"/>
         <source>Rename</source>
         <translation>重新命名</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="154"/>
         <location filename="../gui/rss/rsswidget.ui" line="157"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="189"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="191"/>
         <source>Update</source>
         <translation>更新</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="162"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="193"/>
         <source>New subscription...</source>
         <translation>新訂閱…</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="167"/>
         <location filename="../gui/rss/rsswidget.ui" line="170"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="194"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="196"/>
         <source>Update all feeds</source>
         <translation>更新所有 feed</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="183"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="202"/>
         <source>Download torrent</source>
         <translation>下載 torrent</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="188"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="203"/>
         <source>Open news URL</source>
         <translation>開啟消息 URL</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="193"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="204"/>
         <source>Copy feed URL</source>
         <translation>複製 feed URL</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="198"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="205"/>
         <source>New folder...</source>
         <translation>新資料夾…</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="203"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="206"/>
         <source>Edit feed URL...</source>
         <translation>編輯 feed URL……</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="206"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="208"/>
         <source>Edit feed URL</source>
         <translation>編輯 feed URL</translation>
     </message>
@@ -9135,68 +9747,83 @@ Those plugins were disabled.</source>
     <name>SearchJobWidget</name>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="19"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="168"/>
         <source>Results(xxx)</source>
         <translation>結果 (xxx)</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="39"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="169"/>
         <source>Search in:</source>
         <translation>搜尋：</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="46"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="171"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Some search engines search in torrent description and in torrent file names too. Whether such results will be shown in the list below is controlled by this mode.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Everywhere &lt;/span&gt;disables filtering and shows everything returned by the search engines.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Torrent names only&lt;/span&gt; shows only torrents whose names match the search query.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;有些搜尋引擎同時掃瞄 torrent 檔名和 torrent 描述。請選擇是否於下方清單中顯示相關結果。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;各處&lt;/span&gt;：不作過濾，顯示所有搜尋結果。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;僅 torrent 名稱&lt;/span&gt;：僅顯示與 torrent 名稱符合的項目。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="69"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="174"/>
         <source>Set minimum and maximum allowed number of seeders</source>
         <translation>設定最小與最大允許的做種者數量</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="79"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="178"/>
         <source>Minimum number of seeds</source>
         <translation>最小種子數量</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="96"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="182"/>
         <source>Maximum number of seeds</source>
         <translation>最大種子數量</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="125"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="186"/>
         <source>Set minimum and maximum allowed size of a torrent</source>
         <translation>設定最小與最大允許的 torrent 大小</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="137"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="190"/>
         <source>Minimum torrent size</source>
         <translation>最小 torrent 大小</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="161"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="194"/>
         <source>Maximum torrent size</source>
         <translation>最大 torrent 大小</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="72"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="176"/>
         <source>Seeds:</source>
         <translation>種子：</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="89"/>
         <location filename="../gui/search/searchjobwidget.ui" line="152"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="180"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="192"/>
         <source>to</source>
         <translation>到</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="99"/>
         <location filename="../gui/search/searchjobwidget.ui" line="164"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="184"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="196"/>
         <source>∞</source>
         <translation>無限</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="128"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="188"/>
         <source>Size:</source>
         <translation>大小：</translation>
     </message>
@@ -9478,11 +10105,14 @@ Those plugins were disabled.</source>
     <message>
         <location filename="../gui/search/searchwidget.ui" line="14"/>
         <location filename="../gui/search/searchwidget.ui" line="51"/>
+        <location filename="../../build/src/gui/ui_searchwidget.h" line="152"/>
+        <location filename="../../build/src/gui/ui_searchwidget.h" line="153"/>
         <source>Search</source>
         <translation>搜尋</translation>
     </message>
     <message>
         <location filename="../gui/search/searchwidget.ui" line="86"/>
+        <location filename="../../build/src/gui/ui_searchwidget.h" line="155"/>
         <source>There aren&apos;t any search plugins installed.
 Click the &quot;Search plugins...&quot; button at the bottom right of the window to install some.</source>
         <translation>沒有安裝任何搜尋附加元件。
@@ -9490,6 +10120,7 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     </message>
     <message>
         <location filename="../gui/search/searchwidget.ui" line="142"/>
+        <location filename="../../build/src/gui/ui_searchwidget.h" line="157"/>
         <source>Search plugins...</source>
         <translation>搜尋附加元件…</translation>
     </message>
@@ -9581,6 +10212,7 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     </message>
     <message>
         <location filename="../gui/search/searchwidget.ui" line="58"/>
+        <location filename="../../build/src/gui/ui_searchwidget.h" line="154"/>
         <location filename="../gui/search/searchwidget.cpp" line="832"/>
         <source>Stop</source>
         <translation>停止</translation>
@@ -9646,6 +10278,7 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     <name>ShutdownConfirmDialog</name>
     <message>
         <location filename="../gui/shutdownconfirmdialog.ui" line="64"/>
+        <location filename="../../build/src/gui/ui_shutdownconfirmdialog.h" line="96"/>
         <source>Don&apos;t show again</source>
         <translation>不要再顯示</translation>
     </message>
@@ -9719,17 +10352,21 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     <name>SpeedLimitDialog</name>
     <message>
         <location filename="../gui/speedlimitdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="173"/>
         <source>Global Speed Limits</source>
         <translation>全域速率限制</translation>
     </message>
     <message>
         <location filename="../gui/speedlimitdialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="174"/>
         <source>Speed limits</source>
         <translation>速率限制</translation>
     </message>
     <message>
         <location filename="../gui/speedlimitdialog.ui" line="33"/>
         <location filename="../gui/speedlimitdialog.ui" line="109"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="176"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="184"/>
         <source>Upload:</source>
         <translation>上傳</translation>
     </message>
@@ -9738,6 +10375,10 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
         <location filename="../gui/speedlimitdialog.ui" line="77"/>
         <location filename="../gui/speedlimitdialog.ui" line="123"/>
         <location filename="../gui/speedlimitdialog.ui" line="153"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="177"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="180"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="185"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="188"/>
         <source>∞</source>
         <translation>∞</translation>
     </message>
@@ -9746,17 +10387,24 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
         <location filename="../gui/speedlimitdialog.ui" line="80"/>
         <location filename="../gui/speedlimitdialog.ui" line="126"/>
         <location filename="../gui/speedlimitdialog.ui" line="156"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="178"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="181"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="186"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="189"/>
         <source> KiB/s</source>
         <translation> KiB/s</translation>
     </message>
     <message>
         <location filename="../gui/speedlimitdialog.ui" line="63"/>
         <location filename="../gui/speedlimitdialog.ui" line="139"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="179"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="187"/>
         <source>Download:</source>
         <translation>下載：</translation>
     </message>
     <message>
         <location filename="../gui/speedlimitdialog.ui" line="96"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="182"/>
         <source>Alternative speed limits</source>
         <translation>替補速率限制</translation>
     </message>
@@ -9916,6 +10564,7 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     <name>StacktraceDialog</name>
     <message>
         <location filename="../gui/stacktracedialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_stacktracedialog.h" line="47"/>
         <source>Crash info</source>
         <translation>當機資訊</translation>
     </message>
@@ -9924,81 +10573,97 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     <name>StatsDialog</name>
     <message>
         <location filename="../gui/statsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="240"/>
         <source>Statistics</source>
         <translation>統計資料</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="241"/>
         <source>User statistics</source>
         <translation>使用者的統計資料</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="99"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="247"/>
         <source>Cache statistics</source>
         <translation>快取的統計資料</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="105"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="248"/>
         <source>Read cache hits:</source>
         <translation>讀取快取次數：</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="184"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="254"/>
         <source>Average time in queue:</source>
         <translation>在佇列的平均時間：</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="82"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="246"/>
         <source>Connected peers:</source>
         <translation>已連線的下載者：</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="54"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="244"/>
         <source>All-time share ratio:</source>
         <translation>合計總分享率：</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="40"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="243"/>
         <source>All-time download:</source>
         <translation>合計總下載：</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="68"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="245"/>
         <source>Session waste:</source>
         <translation>今期丟棄：</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="26"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="242"/>
         <source>All-time upload:</source>
         <translation>合計總上傳：</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="119"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="249"/>
         <source>Total buffer size:</source>
         <translation>總緩衝大小：</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="136"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="250"/>
         <source>Performance statistics</source>
         <translation>效能統計</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="170"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="253"/>
         <source>Queued I/O jobs:</source>
         <translation>佇列的 I/O 任務：</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="142"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="251"/>
         <source>Write cache overload:</source>
         <translation>寫入快取超過負荷：</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="156"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="252"/>
         <source>Read cache overload:</source>
         <translation>讀取快取超過負荷：</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="198"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="255"/>
         <source>Total queued size:</source>
         <translation>總佇列大小：</translation>
     </message>
@@ -10321,46 +10986,55 @@ Click the &quot;Search plugins...&quot; button at the bottom right of the window
     <name>TorrentCategoryDialog</name>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="166"/>
         <source>Torrent Category Properties</source>
         <translation>Torrent 分類屬性</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="35"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="167"/>
         <source>Name:</source>
         <translation>名稱：</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="64"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="169"/>
         <source>Save path for incomplete torrents:</source>
         <translation>儲存不完整 torrents 的路徑：</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="72"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="170"/>
         <source>Use another path for incomplete torrents:</source>
         <translation>使用其他路徑取得不完整的 torrents：</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="83"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="171"/>
         <source>Default</source>
         <translation>預設</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="88"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="172"/>
         <source>Yes</source>
         <translation>是</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="93"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="173"/>
         <source>No</source>
         <translation>否</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="124"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="175"/>
         <source>Path:</source>
         <translation>路徑：</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="45"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="168"/>
         <source>Save path:</source>
         <translation>儲存路徑：</translation>
     </message>
@@ -10630,53 +11304,63 @@ Please choose a different name and try again.</source>
     <name>TorrentCreatorDialog</name>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="17"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="358"/>
         <source>Torrent Creator</source>
         <translation>Torrent 製作器</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="56"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="359"/>
         <source>Select file/folder to share</source>
         <translation>選擇要分享的檔案／資料夾</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="64"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="360"/>
         <source>Path:</source>
         <translation>路徑：</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="91"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="361"/>
         <source>[Drag and drop area]</source>
         <translation>[拖曳區]</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="101"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="362"/>
         <location filename="../gui/torrentcreatordialog.cpp" line="142"/>
         <source>Select file</source>
         <translation>選擇檔案</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="108"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="363"/>
         <location filename="../gui/torrentcreatordialog.cpp" line="134"/>
         <source>Select folder</source>
         <translation>選擇資料夾</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="120"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="364"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="141"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="365"/>
         <source>Torrent format:</source>
         <translation>Torrent 格式：</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="154"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="366"/>
         <source>Hybrid</source>
         <translation>混合</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="185"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="368"/>
         <source>Piece size:</source>
         <translation>分塊大小：</translation>
     </message>
@@ -10687,76 +11371,91 @@ Please choose a different name and try again.</source>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="202"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="369"/>
         <source>Calculate number of pieces:</source>
         <translation>計算分塊數：</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="231"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="370"/>
         <source>Private torrent (Won&apos;t distribute on DHT network)</source>
         <translation>私有的 torrent（不會發佈到 DHT 網路）</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="238"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="371"/>
         <source>Start seeding immediately</source>
         <translation>現在開始做種</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="248"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="372"/>
         <source>Ignore share ratio limits for this torrent</source>
         <translation>忽略這 torrent 的分享率設定</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="255"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="373"/>
         <source>Optimize alignment</source>
         <translation>最佳化對齊</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="266"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="374"/>
         <source>Align to piece boundary for files larger than:</source>
         <translation>對齊大於以下內容的檔案邊界：</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="273"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="375"/>
         <source>Disabled</source>
         <translation>已停用</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="276"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="376"/>
         <source> KiB</source>
         <translation> KiB</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="313"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="377"/>
         <source>Fields</source>
         <translation>資訊項</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="326"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="380"/>
         <source>You can separate tracker tiers / groups with an empty line.</source>
         <translation>您可以用一行空白來分隔追蹤器層級 / 群組。</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="339"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="382"/>
         <source>Web seed URLs:</source>
         <translation>網頁種子 URL：</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="319"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="378"/>
         <source>Tracker URLs:</source>
         <translation>追蹤者 URL：</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="356"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="383"/>
         <source>Comments:</source>
         <translation>註解：</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="373"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="384"/>
         <source>Source:</source>
         <translation>來源：</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="392"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="385"/>
         <source>Progress:</source>
         <translation>進度：</translation>
     </message>
@@ -10877,93 +11576,113 @@ Please choose a different name and try again.</source>
     <name>TorrentOptionsDialog</name>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="236"/>
         <source>Torrent Options</source>
         <translation>Torrent 選項</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="238"/>
         <source>Automatic mode means that various torrent properties (e.g. save path) will be decided by the associated category</source>
         <translation>自動模式代表了多個 torrent 屬性（例如儲存路徑）將會由相關的分類來決定</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="23"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="240"/>
         <source>Automatic Torrent Management</source>
         <translation>自動 Torrent 管理</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="30"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="241"/>
         <source>Save at</source>
         <translation>儲存於</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="39"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="242"/>
         <source>Use another path for incomplete torrent</source>
         <translation>使用其他路徑取得不完整的 torrent</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="58"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="243"/>
         <source>Category:</source>
         <translation>分類：</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="162"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="252"/>
         <source>Torrent Share Limits</source>
         <translation>Torrent 分享限制</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="122"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="248"/>
         <source>Download:</source>
         <translation>下載：</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="106"/>
         <location filename="../gui/torrentoptionsdialog.ui" line="136"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="246"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="249"/>
         <source>∞</source>
         <translation>∞</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="86"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="244"/>
         <source>Torrent Speed Limits</source>
         <translation>Torrent 速率限制</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="109"/>
         <location filename="../gui/torrentoptionsdialog.ui" line="139"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="247"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="250"/>
         <source> KiB/s</source>
         <translation> KiB/s</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="152"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="251"/>
         <source>These will not exceed the global limits</source>
         <translation>這些不會超過全域限制</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="92"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="245"/>
         <source>Upload:</source>
         <translation>上傳：</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="176"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="253"/>
         <source>Disable DHT for this torrent</source>
         <translation>停用此 torrent 的 DHT</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="183"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="254"/>
         <source>Download in sequential order</source>
         <translation>依順序下載</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="203"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="255"/>
         <source>Disable PeX for this torrent</source>
         <translation>停用此 torrent 的 PeX</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="210"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="256"/>
         <source>Download first and last pieces first</source>
         <translation>先下載第一和最後一塊</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="217"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="257"/>
         <source>Disable LSD for this torrent</source>
         <translation>停用此 torrent 的 LSD</translation>
     </message>
@@ -10991,6 +11710,10 @@ Please choose a different name and try again.</source>
         <location filename="../gui/torrentsharelimitswidget.ui" line="72"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="117"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="166"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="159"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="164"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="170"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="176"/>
         <source>Default</source>
         <translation>預設</translation>
     </message>
@@ -10998,6 +11721,9 @@ Please choose a different name and try again.</source>
         <location filename="../gui/torrentsharelimitswidget.ui" line="35"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="77"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="122"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="160"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="165"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="171"/>
         <source>Unlimited</source>
         <translation>無限制</translation>
     </message>
@@ -11005,17 +11731,23 @@ Please choose a different name and try again.</source>
         <location filename="../gui/torrentsharelimitswidget.ui" line="40"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="82"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="127"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="161"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="166"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="172"/>
         <source>Set to</source>
         <translation>設定為</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="61"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="163"/>
         <source>Seeding time:</source>
         <translation>做種時間：</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="93"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="138"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="168"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="174"/>
         <location filename="../gui/torrentsharelimitswidget.cpp" line="268"/>
         <location filename="../gui/torrentsharelimitswidget.cpp" line="273"/>
         <location filename="../gui/torrentsharelimitswidget.cpp" line="291"/>
@@ -11026,36 +11758,43 @@ Please choose a different name and try again.</source>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="106"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="169"/>
         <source>Inactive seeding time:</source>
         <translation>不活躍的做種時間：</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="155"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="175"/>
         <source>Action when the limit is reached:</source>
         <translation>達到限制時要採取的動作：</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="171"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="177"/>
         <source>Stop torrent</source>
         <translation>停止 torrent</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="176"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="178"/>
         <source>Remove torrent</source>
         <translation>移除 torrent</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="181"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="179"/>
         <source>Remove torrent and its content</source>
         <translation>移除 torrent 與其內容</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="186"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="180"/>
         <source>Enable super seeding for torrent</source>
         <translation>為 torrent 啟用超級做種</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="19"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="158"/>
         <source>Ratio:</source>
         <translation>分享率：</translation>
     </message>
@@ -11064,6 +11803,7 @@ Please choose a different name and try again.</source>
     <name>TorrentTagsDialog</name>
     <message>
         <location filename="../gui/torrenttagsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_torrenttagsdialog.h" line="63"/>
         <source>Torrent Tags</source>
         <translation>Torrent 標籤</translation>
     </message>
@@ -11233,11 +11973,13 @@ Please choose a different name and try again.</source>
     <name>TrackerEntriesDialog</name>
     <message>
         <location filename="../gui/trackerentriesdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_trackerentriesdialog.h" line="63"/>
         <source>Edit trackers</source>
         <translation>編輯追蹤者</translation>
     </message>
     <message>
         <location filename="../gui/trackerentriesdialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_trackerentriesdialog.h" line="64"/>
         <source>One tracker URL per line.
 
 - You can split the trackers into groups by inserting blank lines.
@@ -11448,21 +12190,25 @@ Please choose a different name and try again.</source>
     <name>TrackersAdditionDialog</name>
     <message>
         <location filename="../gui/trackersadditiondialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_trackersadditiondialog.h" line="93"/>
         <source>Add trackers</source>
         <translation>新增追蹤者</translation>
     </message>
     <message>
         <location filename="../gui/trackersadditiondialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_trackersadditiondialog.h" line="94"/>
         <source>List of trackers to add (one per line):</source>
         <translation>要增加的追蹤者清單 (每行一個)：</translation>
     </message>
     <message>
         <location filename="../gui/trackersadditiondialog.ui" line="40"/>
+        <location filename="../../build/src/gui/ui_trackersadditiondialog.h" line="95"/>
         <source>µTorrent compatible list URL:</source>
         <translation>µTorrent 相容清單 URL：</translation>
     </message>
     <message>
         <location filename="../gui/trackersadditiondialog.ui" line="52"/>
+        <location filename="../../build/src/gui/ui_trackersadditiondialog.h" line="97"/>
         <source>Download trackers list</source>
         <translation>下載追蹤者清單</translation>
     </message>
@@ -12248,38 +12994,47 @@ Please choose a different name and try again.</source>
     <name>UIThemeDialog</name>
     <message>
         <location filename="../gui/uithemedialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="196"/>
         <source>UI Theme Configuration</source>
         <translation>使用者界面佈景主題設定</translation>
     </message>
     <message>
         <location filename="../gui/uithemedialog.ui" line="33"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="200"/>
         <source>Colors</source>
         <translation>色彩</translation>
     </message>
     <message>
         <location filename="../gui/uithemedialog.ui" line="85"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="197"/>
         <source>Color ID</source>
         <translation>色彩 ID</translation>
     </message>
     <message>
         <location filename="../gui/uithemedialog.ui" line="97"/>
         <location filename="../gui/uithemedialog.ui" line="200"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="198"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="202"/>
         <source>Light Mode</source>
         <translation>淺色模式</translation>
     </message>
     <message>
         <location filename="../gui/uithemedialog.ui" line="109"/>
         <location filename="../gui/uithemedialog.ui" line="212"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="199"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="203"/>
         <source>Dark Mode</source>
         <translation>深色模式</translation>
     </message>
     <message>
         <location filename="../gui/uithemedialog.ui" line="136"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="204"/>
         <source>Icons</source>
         <translation>圖示</translation>
     </message>
     <message>
         <location filename="../gui/uithemedialog.ui" line="188"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="201"/>
         <source>Icon ID</source>
         <translation>圖示 ID</translation>
     </message>
@@ -12433,21 +13188,25 @@ Please choose a different name and try again.</source>
     <name>WatchedFolderOptionsDialog</name>
     <message>
         <location filename="../gui/watchedfolderoptionsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_watchedfolderoptionsdialog.h" line="90"/>
         <source>Watched Folder Options</source>
         <translation>監視資料夾的選項</translation>
     </message>
     <message>
         <location filename="../gui/watchedfolderoptionsdialog.ui" line="22"/>
+        <location filename="../../build/src/gui/ui_watchedfolderoptionsdialog.h" line="92"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Will watch the folder and all its subfolders. In Manual torrent management mode it will also add subfolder name to the selected Save path.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;將會監視資料夾與其所有子資料夾。在手動 torrent 管理模式中，其還會將子資料夾名稱新增至選定的儲存路徑。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/watchedfolderoptionsdialog.ui" line="25"/>
+        <location filename="../../build/src/gui/ui_watchedfolderoptionsdialog.h" line="94"/>
         <source>Recursive mode</source>
         <translation>遞迴模式</translation>
     </message>
     <message>
         <location filename="../gui/watchedfolderoptionsdialog.ui" line="47"/>
+        <location filename="../../build/src/gui/ui_watchedfolderoptionsdialog.h" line="95"/>
         <source>Torrent parameters</source>
         <translation>Torrent 參數</translation>
     </message>
@@ -12488,72 +13247,72 @@ Please choose a different name and try again.</source>
 <context>
     <name>WebApplication</name>
     <message>
-        <location filename="../webui/webapplication.cpp" line="179"/>
+        <location filename="../webui/webapplication.cpp" line="180"/>
         <source>Unacceptable session cookie name is specified: &apos;%1&apos;. Default one is used.</source>
         <translation>指定了不可接受的工作階段 cookie 名稱：「%1」。將會使用預設值。</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="230"/>
+        <location filename="../webui/webapplication.cpp" line="231"/>
         <source>Unacceptable file type, only regular file is allowed.</source>
         <translation>無法接受的檔案類型，僅允許一般檔案。</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="238"/>
+        <location filename="../webui/webapplication.cpp" line="239"/>
         <source>Symlinks inside alternative UI folder are forbidden.</source>
         <translation>在替補 UI 資料夾中的符號連結是被禁止的。</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="417"/>
+        <location filename="../webui/webapplication.cpp" line="418"/>
         <source>Using built-in WebUI.</source>
         <translation>使用內建的 WebUI。</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="419"/>
+        <location filename="../webui/webapplication.cpp" line="420"/>
         <source>Using custom WebUI. Location: &quot;%1&quot;.</source>
         <translation>使用自訂的 WebUI。位置：「%1」。</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="431"/>
+        <location filename="../webui/webapplication.cpp" line="432"/>
         <source>WebUI translation for selected locale (%1) has been successfully loaded.</source>
         <translation>成功載入了選定區域設定 (%1) 的 WebUI 翻譯。</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="436"/>
+        <location filename="../webui/webapplication.cpp" line="437"/>
         <source>Couldn&apos;t load WebUI translation for selected locale (%1).</source>
         <translation>無法載入指定語系 (%1) 的 WebUI 翻譯。</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="487"/>
+        <location filename="../webui/webapplication.cpp" line="488"/>
         <source>Missing &apos;:&apos; separator in WebUI custom HTTP header: &quot;%1&quot;</source>
         <translation>WebUI 的自訂 HTTP 標頭遺失 &apos;:&apos; 分隔符號：「%1」</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="551"/>
+        <location filename="../webui/webapplication.cpp" line="552"/>
         <source>Web server error. %1</source>
         <translation>網路伺服器錯誤。%1</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="571"/>
+        <location filename="../webui/webapplication.cpp" line="572"/>
         <source>Web server error. Unknown error.</source>
         <translation>網路伺服器錯誤。未知錯誤。</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="815"/>
+        <location filename="../webui/webapplication.cpp" line="836"/>
         <source>WebUI: Origin header &amp; Target origin mismatch! Source IP: &apos;%1&apos;. Origin header: &apos;%2&apos;. Target origin: &apos;%3&apos;</source>
         <translation>WebUI：來源檔頭與目標源頭不符合！來源 IP：「%1」╱來源檔頭：「%2」╱目標源頭：「%3」</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="827"/>
+        <location filename="../webui/webapplication.cpp" line="848"/>
         <source>WebUI: Referer header &amp; Target origin mismatch! Source IP: &apos;%1&apos;. Referer header: &apos;%2&apos;. Target origin: &apos;%3&apos;</source>
         <translation>WebUI：Referer 檔頭與目標源頭不符合！來源 IP：「%1」╱Referer 檔頭：「%2」╱目標源頭：「%3」</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="846"/>
+        <location filename="../webui/webapplication.cpp" line="867"/>
         <source>WebUI: Invalid Host header, port mismatch. Request source IP: &apos;%1&apos;. Server port: &apos;%2&apos;. Received Host header: &apos;%3&apos;</source>
         <translation>WebUI：無效的主機檔頭、埠不符合。請求來源 IP：「%1」╱伺服器埠：「%2」╱收到主機檔頭：「%3」</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="867"/>
+        <location filename="../webui/webapplication.cpp" line="888"/>
         <source>WebUI: Invalid Host header. Request source IP: &apos;%1&apos;. Received Host header: &apos;%2&apos;</source>
         <translation>WebUI：無效的主機檔頭。請求來源 IP：「%1」╱收到主機檔頭：「%2」</translation>
     </message>
@@ -12584,6 +13343,95 @@ Please choose a different name and try again.</source>
         <location filename="../webui/webui.cpp" line="138"/>
         <source>Unable to bind to IP: %1, port: %2. Reason: %3</source>
         <translation>無法繫結到 IP：%1，連接埠：%2。原因：%3</translation>
+    </message>
+</context>
+<context>
+    <name>WebUIMimeOverrideEntryDialog</name>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.ui" line="6"/>
+        <location filename="../../build/src/gui/ui_webuimimeoverrideentrydialog.h" line="83"/>
+        <source>Custom MIME type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_webuimimeoverrideentrydialog.h" line="84"/>
+        <source>Extension:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.ui" line="21"/>
+        <location filename="../../build/src/gui/ui_webuimimeoverrideentrydialog.h" line="85"/>
+        <source>e.g. svg</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.ui" line="28"/>
+        <location filename="../../build/src/gui/ui_webuimimeoverrideentrydialog.h" line="86"/>
+        <source>Content type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.ui" line="35"/>
+        <location filename="../../build/src/gui/ui_webuimimeoverrideentrydialog.h" line="87"/>
+        <source>e.g. image/svg+xml</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.cpp" line="42"/>
+        <source>Invalid extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.cpp" line="42"/>
+        <source>Please enter a valid file extension.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.cpp" line="48"/>
+        <source>Invalid content type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.cpp" line="48"/>
+        <source>Please enter a valid content type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WebUIMimeOverridesModel</name>
+    <message>
+        <location filename="../gui/webuimimeoverridesmodel.cpp" line="64"/>
+        <source>Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverridesmodel.cpp" line="66"/>
+        <source>Content type</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WebUIMimeTypeStore</name>
+    <message>
+        <location filename="../base/webuimimetypestore.cpp" line="92"/>
+        <source>Failed to load WebUI MIME overrides. %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../base/webuimimetypestore.cpp" line="101"/>
+        <source>Failed to parse WebUI MIME overrides. %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../base/webuimimetypestore.cpp" line="107"/>
+        <source>Failed to load WebUI MIME overrides. Invalid data format.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../base/webuimimetypestore.cpp" line="138"/>
+        <source>Couldn&apos;t store WebUI MIME overrides to %1. Error: %2</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

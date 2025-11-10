@@ -68,6 +68,7 @@
 #include "api/torrentscontroller.h"
 #include "api/transfercontroller.h"
 #include "freediskspacechecker.h"
+#include "base/webuimimetypestore.h"
 
 const int MAX_ALLOWED_FILESIZE = 10 * 1024 * 1024;
 const QString DEFAULT_SESSION_COOKIE_NAME = u"SID"_s;
@@ -572,7 +573,27 @@ void WebApplication::sendFile(const Path &path)
     }
 
     QByteArray data = readResult.value();
-    const QMimeType mimeType = QMimeDatabase().mimeTypeForFileNameAndData(path.data(), data);
+    QString responseContentType;
+    QMimeType mimeType;
+
+    if (const auto overrideMime = WebUIMimeTypeStore::instance().mimeTypeForPath(path))
+    {
+        responseContentType = overrideMime->contentType;
+        if (overrideMime->mimeType.isValid())
+            mimeType = overrideMime->mimeType;
+    }
+
+    if (!mimeType.isValid())
+    {
+        mimeType = QMimeDatabase().mimeTypeForFileNameAndData(path.data(), data);
+        if (responseContentType.isEmpty())
+            responseContentType = mimeType.name();
+    }
+    else if (responseContentType.isEmpty())
+    {
+        responseContentType = mimeType.name();
+    }
+
     const bool isTranslatable = mimeType.inherits(u"text/plain"_s);
 
     if (isTranslatable)
@@ -586,11 +607,11 @@ void WebApplication::sendFile(const Path &path)
             dataStr.replace(u"${LANGUAGE_OPTIONS}"_s, createLanguagesOptionsHtml());
 
         data = dataStr.toUtf8();
-        m_translatedFiles[path] = {data, mimeType.name(), lastModified}; // caching translated file
+        m_translatedFiles[path] = {data, responseContentType, lastModified}; // caching translated file
     }
 
-    print(data, mimeType.name());
-    setHeader({Http::HEADER_CACHE_CONTROL, getCachingInterval(mimeType.name())});
+    print(data, responseContentType);
+    setHeader({Http::HEADER_CACHE_CONTROL, getCachingInterval(responseContentType)});
 }
 
 Http::Response WebApplication::processRequest(const Http::Request &request, const Http::Environment &env)

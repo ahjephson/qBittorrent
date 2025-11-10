@@ -924,6 +924,22 @@
             <label for="webui_upnp_checkbox">QBT_TR(Use UPnP / NAT-PMP to forward the port from my router)QBT_TR[CONTEXT=OptionsDialog]</label>
         </div>
         <fieldset class="settings">
+            <legend>QBT_TR(Custom MIME type overrides)QBT_TR[CONTEXT=OptionsDialog]</legend>
+            <table class="reducedPadding">
+                <thead>
+                    <tr>
+                        <th>QBT_TR(Extension)QBT_TR[CONTEXT=OptionsDialog]</th>
+                        <th>QBT_TR(Content type)QBT_TR[CONTEXT=OptionsDialog]</th>
+                        <th>QBT_TR(Actions)QBT_TR[CONTEXT=OptionsDialog]</th>
+                    </tr>
+                </thead>
+                <tbody id="webUIMimeOverridesTableBody"></tbody>
+            </table>
+            <div class="formRow">
+                <input type="button" value="QBT_TR(Add...)QBT_TR[CONTEXT=OptionsDialog]" onclick="qBittorrent.Preferences.addWebUIMimeOverride();">
+            </div>
+        </fieldset>
+        <fieldset class="settings">
             <legend>
                 <input type="checkbox" id="use_https_checkbox" onclick="qBittorrent.Preferences.updateHttpsSettings();">
                 <label for="use_https_checkbox">QBT_TR(Use HTTPS instead of HTTP)QBT_TR[CONTEXT=OptionsDialog]</label>
@@ -1769,11 +1785,17 @@ Use ';' to split multiple entries. Can use wildcard '*'.)QBT_TR[CONTEXT=OptionsD
                 updateWebUICustomHTTPHeadersSettings: updateWebUICustomHTTPHeadersSettings,
                 updateWebUIReverseProxySettings: updateWebUIReverseProxySettings,
                 updateDynDnsSettings: updateDynDnsSettings,
+                addWebUIMimeOverride: addWebUIMimeOverride,
+                editWebUIMimeOverride: editWebUIMimeOverride,
+                removeWebUIMimeOverride: removeWebUIMimeOverride,
                 updateWebuiLocaleSelect: updateWebuiLocaleSelect,
                 registerDynDns: registerDynDns,
                 applyPreferences: applyPreferences
             };
         };
+
+        let webUIMimeOverrides = [];
+        let webUIMimeOverridesDirty = false;
 
         // Behavior tab
         const numberInputLimiter = (input) => {
@@ -2092,6 +2114,152 @@ Use ';' to split multiple entries. Can use wildcard '*'.)QBT_TR[CONTEXT=OptionsD
                 window.open("http://www.no-ip.com/services/managed_dns/free_dynamic_dns.html", "NO-IP Registration");
             else
                 window.open("https://www.dyndns.com/account/services/hosts/add.html", "DynDNS Registration");
+        };
+
+        const normalizeMimeExtension = (extension) => {
+            if (typeof extension !== "string")
+                return "";
+            return extension.trim().toLowerCase().replace(/^\.+/, "");
+        };
+
+        const renderWebUIMimeOverrides = () => {
+            const tbody = $("webUIMimeOverridesTableBody");
+            if (!tbody)
+                return;
+
+            if (webUIMimeOverrides.length === 0) {
+                tbody.innerHTML = `<tr><td colspan="3" style="text-align: center;">QBT_TR(No overrides defined)QBT_TR[CONTEXT=OptionsDialog]</td></tr>`;
+                return;
+            }
+
+            const editLabel = "QBT_TR(Edit...)QBT_TR[CONTEXT=OptionsDialog]";
+            const removeLabel = "QBT_TR(Remove)QBT_TR[CONTEXT=OptionsDialog]";
+
+            tbody.innerHTML = webUIMimeOverrides.map((entry, index) => {
+                const extension = entry.extension ? `.${window.parent.qBittorrent.Misc.escapeHtml(entry.extension)}` : "";
+                const contentType = window.parent.qBittorrent.Misc.escapeHtml(entry.content_type);
+                return `<tr>
+                    <td>${extension}</td>
+                    <td>${contentType}</td>
+                    <td>
+                        <button type="button" onclick="qBittorrent.Preferences.editWebUIMimeOverride(${index});">${editLabel}</button>
+                        <button type="button" onclick="qBittorrent.Preferences.removeWebUIMimeOverride(${index});">${removeLabel}</button>
+                    </td>
+                </tr>`;
+            }).join("");
+        };
+
+        const loadWebUIMimeOverrides = () => {
+            renderWebUIMimeOverrides();
+            fetch("api/v2/app/getMimeOverrides", {
+                    method: "GET",
+                    cache: "no-store"
+                })
+                .then(async (response) => {
+                    if (!response.ok)
+                        return;
+
+                    const responseJSON = await response.json();
+                    webUIMimeOverrides = responseJSON;
+                    webUIMimeOverridesDirty = false;
+                    renderWebUIMimeOverrides();
+                });
+        };
+
+        const addWebUIMimeOverride = () => {
+            let extension = window.prompt("QBT_TR(Enter file extension (without dot):)QBT_TR[CONTEXT=OptionsDialog]");
+            if (extension === null)
+                return;
+            extension = normalizeMimeExtension(extension);
+            if (extension.length === 0) {
+                alert("QBT_TR(The extension cannot be empty.)QBT_TR[CONTEXT=OptionsDialog]");
+                return;
+            }
+            if (webUIMimeOverrides.some((entry) => entry.extension === extension)) {
+                alert("QBT_TR(An override for this extension already exists.)QBT_TR[CONTEXT=OptionsDialog]");
+                return;
+            }
+
+            let contentType = window.prompt("QBT_TR(Enter content type:)QBT_TR[CONTEXT=OptionsDialog]", "application/octet-stream");
+            if (contentType === null)
+                return;
+            contentType = contentType.trim();
+            if (contentType.length === 0) {
+                alert("QBT_TR(The content type cannot be empty.)QBT_TR[CONTEXT=OptionsDialog]");
+                return;
+            }
+
+            webUIMimeOverrides.push({
+                extension: extension,
+                content_type: contentType
+            });
+            webUIMimeOverridesDirty = true;
+            renderWebUIMimeOverrides();
+        };
+
+        const editWebUIMimeOverride = (index) => {
+            const entry = webUIMimeOverrides.at(index);
+            if (!entry)
+                return;
+
+            let extension = window.prompt("QBT_TR(Enter file extension (without dot):)QBT_TR[CONTEXT=OptionsDialog]", entry.extension);
+            if (extension === null)
+                return;
+            extension = normalizeMimeExtension(extension);
+            if (extension.length === 0) {
+                alert("QBT_TR(The extension cannot be empty.)QBT_TR[CONTEXT=OptionsDialog]");
+                return;
+            }
+            if (webUIMimeOverrides.some((item, idx) => (idx !== index) && (item.extension === extension))) {
+                alert("QBT_TR(An override for this extension already exists.)QBT_TR[CONTEXT=OptionsDialog]");
+                return;
+            }
+
+            let contentType = window.prompt("QBT_TR(Enter content type:)QBT_TR[CONTEXT=OptionsDialog]", entry.content_type);
+            if (contentType === null)
+                return;
+            contentType = contentType.trim();
+            if (contentType.length === 0) {
+                alert("QBT_TR(The content type cannot be empty.)QBT_TR[CONTEXT=OptionsDialog]");
+                return;
+            }
+
+            webUIMimeOverrides[index] = {
+                extension: extension,
+                content_type: contentType
+            };
+            webUIMimeOverridesDirty = true;
+            renderWebUIMimeOverrides();
+        };
+
+        const removeWebUIMimeOverride = (index) => {
+            const entry = webUIMimeOverrides.at(index);
+            if (!entry)
+                return;
+
+            if (!window.confirm(`QBT_TR(Remove override for ".%1"?)QBT_TR[CONTEXT=OptionsDialog]`.replace("%1", entry.extension)))
+                return;
+
+            webUIMimeOverrides.splice(index, 1);
+            webUIMimeOverridesDirty = true;
+            renderWebUIMimeOverrides();
+        };
+
+        const saveWebUIMimeOverrides = () => {
+            if (!webUIMimeOverridesDirty)
+                return Promise.resolve();
+
+            return fetch("api/v2/app/setMimeOverrides", {
+                    method: "POST",
+                    body: new URLSearchParams({
+                        entries: JSON.stringify(webUIMimeOverrides)
+                    })
+                })
+                .then((response) => {
+                    if (!response.ok)
+                        throw new Error("RequestFailed");
+                    webUIMimeOverridesDirty = false;
+                });
         };
 
         const generateRandomPort = () => {
@@ -3096,9 +3264,14 @@ Use ';' to split multiple entries. Can use wildcard '*'.)QBT_TR[CONTEXT=OptionsD
                     window.parent.qBittorrent.Client.closeWindow(document.getElementById("preferencesPage"));
                 },
                 onSuccess: () => {
-                    // Close window
-                    window.parent.location.reload();
-                    window.parent.qBittorrent.Client.closeWindow(document.getElementById("preferencesPage"));
+                    saveWebUIMimeOverrides()
+                        .then(() => {
+                            window.parent.location.reload();
+                            window.parent.qBittorrent.Client.closeWindow(document.getElementById("preferencesPage"));
+                        })
+                        .catch(() => {
+                            alert("QBT_TR(Unable to save MIME type overrides.)QBT_TR[CONTEXT=OptionsDialog]");
+                        });
                 }
             });
         };
@@ -3139,6 +3312,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.)QBT_TR[CONTEXT=OptionsD
             });
 
             loadPreferences();
+            loadWebUIMimeOverrides();
 
             window.qBittorrent.pathAutofill.attachPathAutofill();
         };

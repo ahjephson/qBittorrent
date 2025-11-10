@@ -44,6 +44,9 @@
 #include <QMessageBox>
 #include <QSystemTrayIcon>
 #include <QTranslator>
+#ifndef DISABLE_WEBUI
+#include <QHeaderView>
+#endif
 
 #ifdef Q_OS_WIN
 #include <QStyleFactory>
@@ -77,6 +80,10 @@
 #include "ipsubnetwhitelistoptionsdialog.h"
 #include "rss/automatedrssdownloader.h"
 #include "ui_optionsdialog.h"
+#ifndef DISABLE_WEBUI
+#include "webuimimeoverrideentrydialog.h"
+#include "webuimimeoverridesmodel.h"
+#endif
 #include "uithemedialog.h"
 #include "uithememanager.h"
 #include "utils.h"
@@ -184,6 +191,24 @@ OptionsDialog::OptionsDialog(IGUIApplication *app, QWidget *parent)
 
     connect(m_ui->tabSelection, &QListWidget::currentItemChanged, this, &ThisType::changePage);
 
+#ifndef DISABLE_WEBUI
+    m_webUIMimeOverridesModel = new WebUIMimeOverridesModel(this);
+    m_ui->webUIMimeOverridesView->setModel(m_webUIMimeOverridesModel);
+    if (auto *header = m_ui->webUIMimeOverridesView->header())
+        header->setSectionResizeMode(QHeaderView::Stretch);
+    m_ui->webUIMimeOverridesView->setRootIsDecorated(false);
+    m_ui->webUIMimeOverridesView->setUniformRowHeights(true);
+    connect(m_ui->webUIMimeOverridesView->selectionModel(), &QItemSelectionModel::selectionChanged
+        , this, &ThisType::handleWebUIMimeOverrideSelectionChanged);
+    connect(m_webUIMimeOverridesModel, &WebUIMimeOverridesModel::dirtyChanged, this
+        , [this](const bool dirty)
+    {
+        updateWebUIMimeOverrideButtons();
+        if (dirty)
+            enableApplyButton();
+    });
+#endif
+
     // Load options
     loadBehaviorTabOptions();
     loadDownloadsTabOptions();
@@ -194,6 +219,7 @@ OptionsDialog::OptionsDialog(IGUIApplication *app, QWidget *parent)
     loadSearchTabOptions();
 #ifndef DISABLE_WEBUI
     loadWebUITabOptions();
+    updateWebUIMimeOverrideButtons();
 #endif
 
     // Load Advanced settings
@@ -1392,6 +1418,9 @@ void OptionsDialog::loadWebUITabOptions()
     connect(m_ui->domainNameTxt, &QLineEdit::textChanged, this, &ThisType::enableApplyButton);
     connect(m_ui->DNSUsernameTxt, &QLineEdit::textChanged, this, &ThisType::enableApplyButton);
     connect(m_ui->DNSPasswordTxt, &QLineEdit::textChanged, this, &ThisType::enableApplyButton);
+
+    m_webUIMimeOverridesModel->load();
+    updateWebUIMimeOverrideButtons();
 }
 
 void OptionsDialog::saveWebUITabOptions() const
@@ -1410,6 +1439,7 @@ void OptionsDialog::saveWebUITabOptions() const
     pref->setWebUIMaxAuthFailCount(m_ui->spinBanCounter->value());
     pref->setWebUIBanDuration(std::chrono::seconds {m_ui->spinBanDuration->value()});
     pref->setWebUISessionTimeout(m_ui->spinSessionTimeout->value());
+    m_webUIMimeOverridesModel->apply();
     // Authentication
     if (const QString username = webUIUsername(); isValidWebUIUsername(username))
         pref->setWebUIUsername(username);
@@ -2045,6 +2075,75 @@ void OptionsDialog::on_registerDNSBtn_clicked()
 {
     const auto service = static_cast<DNS::Service>(m_ui->comboDNSService->currentIndex());
     QDesktopServices::openUrl(Net::DNSUpdater::getRegistrationUrl(service));
+}
+
+void OptionsDialog::on_addWebUIMimeOverrideButton_clicked()
+{
+    if (!m_webUIMimeOverridesModel)
+        return;
+
+    WebUIMimeOverrideEntryDialog dialog(this);
+    if (dialog.exec() != QDialog::Accepted)
+        return;
+
+    if (!m_webUIMimeOverridesModel->addEntry(dialog.entry()))
+    {
+        QMessageBox::warning(this, tr("Add MIME type override")
+            , tr("Failed to add MIME type override. Ensure the extension is unique and both fields are not empty."));
+        return;
+    }
+
+    updateWebUIMimeOverrideButtons();
+}
+
+void OptionsDialog::on_editWebUIMimeOverrideButton_clicked()
+{
+    if (!m_webUIMimeOverridesModel)
+        return;
+
+    const QModelIndex index = m_ui->webUIMimeOverridesView->currentIndex();
+    if (!index.isValid())
+        return;
+
+    WebUIMimeOverrideEntryDialog dialog(this);
+    dialog.setEntry(m_webUIMimeOverridesModel->entryAt(index.row()));
+    if (dialog.exec() != QDialog::Accepted)
+        return;
+
+    if (!m_webUIMimeOverridesModel->updateEntry(index.row(), dialog.entry()))
+    {
+        QMessageBox::warning(this, tr("Edit MIME type override")
+            , tr("Failed to update MIME type override. Ensure the extension is unique and both fields are not empty."));
+        return;
+    }
+
+    updateWebUIMimeOverrideButtons();
+}
+
+void OptionsDialog::on_removeWebUIMimeOverrideButton_clicked()
+{
+    if (!m_webUIMimeOverridesModel)
+        return;
+
+    const QModelIndex index = m_ui->webUIMimeOverridesView->currentIndex();
+    if (!index.isValid())
+        return;
+
+    m_webUIMimeOverridesModel->removeRows(index.row(), 1);
+    updateWebUIMimeOverrideButtons();
+}
+
+void OptionsDialog::handleWebUIMimeOverrideSelectionChanged()
+{
+    updateWebUIMimeOverrideButtons();
+}
+
+void OptionsDialog::updateWebUIMimeOverrideButtons()
+{
+    const auto *selectionModel = m_ui->webUIMimeOverridesView->selectionModel();
+    const bool hasSelection = selectionModel && selectionModel->hasSelection();
+    m_ui->editWebUIMimeOverrideButton->setEnabled(hasSelection);
+    m_ui->removeWebUIMimeOverrideButton->setEnabled(hasSelection);
 }
 #endif
 

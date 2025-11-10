@@ -82,6 +82,7 @@ add_library(qbt_base STATIC
     preferences.h
     profile.h
     profile_p.h
+    webuimimetypestore.h
     rss/feed_serializer.h
     rss/rss_article.h
     rss/rss_autodownloader.h
@@ -179,6 +180,7 @@ add_library(qbt_base STATIC
     path.cpp
     preferences.cpp
     profile.cpp
+    webuimimetypestore.cpp
     profile_p.cpp
     rss/feed_serializer.cpp
     rss/rss_article.cpp

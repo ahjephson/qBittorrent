@@ -59,6 +59,8 @@ namespace Ui
     class OptionsDialog;
 }
 
+class WebUIMimeOverridesModel;
+
 class OptionsDialog final : public GUIApplicationComponent<QDialog>
 {
     Q_OBJECT
@@ -110,6 +112,10 @@ private slots:
     void webUIHttpsCertChanged(const Path &path);
     void webUIHttpsKeyChanged(const Path &path);
     void on_registerDNSBtn_clicked();
+    void on_addWebUIMimeOverrideButton_clicked();
+    void on_editWebUIMimeOverrideButton_clicked();
+    void on_removeWebUIMimeOverrideButton_clicked();
+    void handleWebUIMimeOverrideSelectionChanged();
 #endif
 
 private:
@@ -210,4 +216,8 @@ private:
     AdvancedSettings *m_advancedSettings = nullptr;
 
     bool m_refreshingIpFilter = false;
+#ifndef DISABLE_WEBUI
+    WebUIMimeOverridesModel *m_webUIMimeOverridesModel = nullptr;
+    void updateWebUIMimeOverrideButtons();
+#endif
 };

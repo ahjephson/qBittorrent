@@ -2043,6 +2043,66 @@ Use ';' para dividir múltiples entradas. Puede usar el comodin '*'.</translatio
         <source>Log Files</source>
         <translation>Archivos de Registro</translation>
     </message>
+    <message>
+        <source>Extension</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>No overrides defined</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>Custom MIME type overrides</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>Content type</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>Remove override for ".%1"?</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>Enter content type:</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>The content type cannot be empty.</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>Unable to save MIME type overrides.</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>Add...</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>Edit...</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>Actions</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>An override for this extension already exists.</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>Enter file extension (without dot):</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>The extension cannot be empty.</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished" />
+    </message>
 </context>
 <context>
     <name>PeerListWidget</name>

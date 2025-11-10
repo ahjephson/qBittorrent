@@ -60,6 +60,7 @@
 #include "base/rss/rss_session.h"
 #include "base/torrentfileguard.h"
 #include "base/torrentfileswatcher.h"
+#include "base/webuimimetypestore.h"
 #include "base/utils/datetime.h"
 #include "base/utils/fs.h"
 #include "base/utils/misc.h"
@@ -1167,6 +1168,53 @@ void AppController::setPreferencesAction()
 
     // Save preferences
     pref->apply();
+}
+
+void AppController::getMimeOverridesAction()
+{
+    const auto overrides = WebUIMimeTypeStore::instance().overrides();
+
+    QJsonArray entries;
+    for (auto it = overrides.cbegin(); it != overrides.cend(); ++it)
+    {
+        QJsonObject entry;
+        entry[u"extension"_s] = it.key();
+        entry[u"content_type"_s] = it.value();
+        entries.append(entry);
+    }
+
+    setResult(entries);
+}
+
+void AppController::setMimeOverridesAction()
+{
+    requireParams({u"entries"_s});
+
+    const QByteArray rawEntries = params()[u"entries"_s].toUtf8();
+    QJsonParseError parseError;
+    const QJsonDocument jsonDoc = QJsonDocument::fromJson(rawEntries, &parseError);
+    if ((parseError.error != QJsonParseError::NoError) || !jsonDoc.isArray())
+        throw APIError(APIErrorType::BadParams, tr("Invalid MIME override data."));
+
+    WebUIMimeTypeStore::OverridesMap overrides;
+    const QJsonArray entries = jsonDoc.array();
+
+    for (const QJsonValue &value : entries)
+    {
+        if (!value.isObject())
+            continue;
+
+        const QJsonObject obj = value.toObject();
+        const QString extension = WebUIMimeTypeStore::normalizeExtension(obj.value(u"extension"_s).toString());
+        const QString contentType = obj.value(u"content_type"_s).toString().trimmed();
+        if (extension.isEmpty() || contentType.isEmpty())
+            continue;
+
+        overrides.insert(extension, contentType);
+    }
+
+    WebUIMimeTypeStore::instance().setOverrides(overrides);
+    setResult(QJsonObject {{u"success"_s, true}});
 }
 
 void AppController::defaultSavePathAction()

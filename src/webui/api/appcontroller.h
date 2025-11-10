@@ -47,6 +47,8 @@ private slots:
     void shutdownAction();
     void preferencesAction();
     void setPreferencesAction();
+    void getMimeOverridesAction();
+    void setMimeOverridesAction();
     void defaultSavePathAction();
     void sendTestEmailAction();
     void getDirectoryContentAction();

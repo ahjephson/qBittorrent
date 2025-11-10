@@ -5,84 +5,103 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../gui/aboutdialog.ui" line="15"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="434"/>
         <source>About qBittorrent</source>
         <translation>À propos de qBittorrent</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="55"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="435"/>
         <source>About</source>
         <translation>À propos</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="87"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="446"/>
         <source>Authors</source>
         <translation>Auteurs</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="93"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="436"/>
         <source>Current maintainer</source>
         <translation>Responsable actuel</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="120"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="439"/>
         <source>Greece</source>
         <translation>Grèce</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="113"/>
         <location filename="../gui/aboutdialog.ui" line="183"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="438"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="443"/>
         <source>Nationality:</source>
         <translation>Nationalité :</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="127"/>
         <location filename="../gui/aboutdialog.ui" line="197"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="440"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="445"/>
         <source>E-mail:</source>
         <translation>Courriel :</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="99"/>
         <location filename="../gui/aboutdialog.ui" line="169"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="437"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="442"/>
         <source>Name:</source>
         <translation>Nom&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="163"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="441"/>
         <source>Original author</source>
         <translation>Auteur original</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="190"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="444"/>
         <source>France</source>
         <translation>France</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="247"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="447"/>
         <source>Special Thanks</source>
         <translation>Remerciements</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="273"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="448"/>
         <source>Translators</source>
         <translation>Traducteurs</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="302"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="449"/>
         <source>License</source>
         <translation>Licence</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="328"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="452"/>
         <source>Software Used</source>
         <translation>Logiciels utilisés</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="336"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="450"/>
         <source>qBittorrent was built with the following libraries:</source>
         <translation>qBittorrent a été conçu à l&apos;aide des bibliothèques logicielles suivantes :</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.ui" line="356"/>
+        <location filename="../../build/src/gui/ui_aboutdialog.h" line="451"/>
         <source>Copy to clipboard</source>
         <translation>Copier dans le presse-papiers</translation>
     </message>
@@ -162,71 +181,85 @@
     <name>AddNewTorrentDialog</name>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="113"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="543"/>
         <source>Save at</source>
         <translation>Enregistrer sous</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="565"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="578"/>
         <source>Never show again</source>
         <translation>Ne plus afficher</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="200"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="548"/>
         <source>Set as default category</source>
         <translation>Définir comme catégorie par défaut</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="175"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="547"/>
         <source>Category:</source>
         <translation>Catégorie :</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="249"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="555"/>
         <source>Start torrent</source>
         <translation>Démarrer le torrent</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="378"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="570"/>
         <source>Torrent information</source>
         <translation>Informations sur le torrent</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="290"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="558"/>
         <source>Skip hash check</source>
         <translation>Ne pas vérifier les données du torrent</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="122"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="544"/>
         <source>Use another path for incomplete torrent</source>
         <translation>Utiliser un autre répertoire pour un torrent incomplet</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="167"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="546"/>
         <source>Torrent options</source>
         <translation>Options du torrent</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="209"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="549"/>
         <source>Tags:</source>
         <translation>Étiquettes :</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="225"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="550"/>
         <source>Click [...] button to add/remove tags.</source>
         <translation>Cliquez sur le bouton […] pour ajouter/supprimer des étiquettes.</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="235"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="552"/>
         <source>Add/remove tags</source>
         <translation>Ajouter/supprimer des étiquettes</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="238"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="554"/>
         <source>...</source>
         <translation>…</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="258"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="556"/>
         <source>Stop condition:</source>
         <translation>Condition d&apos;arrêt :</translation>
     </message>
@@ -255,111 +288,133 @@
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="283"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="557"/>
         <source>Add to top of queue</source>
         <translation>Ajouter en haut de la file d&apos;attente</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="311"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="562"/>
         <source>When checked, the .torrent file will not be deleted regardless of the settings at the &quot;Download&quot; page of the Options dialog</source>
         <translation>Lorsque coché, le fichier .torrent ne sera pas supprimé malgré les paramètres de la page « Téléchargements » des Options</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="325"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="565"/>
         <source>Content layout:</source>
         <translation>Agencement du contenu :</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="336"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="566"/>
         <source>Original</source>
         <translation>Original</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="341"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="567"/>
         <source>Create subfolder</source>
         <translation>Créer un sous-dossier</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="346"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="568"/>
         <source>Don&apos;t create subfolder</source>
         <translation>Ne pas créer de sous-dossier</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="404"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="573"/>
         <source>Info hash v1:</source>
         <translation>Info hash v1 :</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="384"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="571"/>
         <source>Size:</source>
         <translation>Taille :</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="432"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="575"/>
         <source>Comment:</source>
         <translation>Commentaire :</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="394"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="572"/>
         <source>Date:</source>
         <translation>Date :</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="74"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="536"/>
         <source>Torrent Management Mode:</source>
         <translation>Mode de gestion de torrent :</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="81"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="541"/>
         <source>Automatic mode means that various torrent properties(eg save path) will be decided by the associated category</source>
         <translation>Le mode automatique signifie que diverses propriétés du torrent (p. ex. le répertoire de destination) seront décidées via la catégorie associée</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="85"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="537"/>
         <source>Manual</source>
         <translation>Manuel</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="90"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="538"/>
         <source>Automatic</source>
         <translation>Automatique</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="155"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="545"/>
         <source>Remember last used save path</source>
         <translation>Se souvenir du dernier répertoire de destination utilisé</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="314"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="564"/>
         <source>Do not delete .torrent file</source>
         <translation>Ne pas supprimer le fichier .torrent</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="297"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="559"/>
         <source>Download in sequential order</source>
         <translation>Télécharger en ordre séquentiel</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="304"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="560"/>
         <source>Download first and last pieces first</source>
         <translation>Télécharger les premiers et derniers morceaux en premier</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="418"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="574"/>
         <source>Info hash v2:</source>
         <translation>Info hash v2 :</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="507"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="576"/>
         <source>Select All</source>
         <translation>Tout sélectionner</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="514"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="577"/>
         <source>Select None</source>
         <translation>Ne rien sélectionner</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="617"/>
+        <location filename="../../build/src/gui/ui_addnewtorrentdialog.h" line="580"/>
         <source>Save as .torrent file...</source>
         <translation>Enregistrer le fichier .torrent sous…</translation>
     </message>
@@ -511,86 +566,103 @@
     <name>AddTorrentParamsWidget</name>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="296"/>
         <source>Form</source>
         <translation>Formulaire</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="22"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="297"/>
         <source>Torrent Management Mode:</source>
         <translation>Mode de gestion de torrent :</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="29"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="299"/>
         <source>Automatic mode means that various torrent properties(eg save path) will be decided by the associated category</source>
         <translation>Le mode automatique signifie que diverses propriétés du torrent (p. ex. le répertoire de destination) seront décidées par la catégorie associée</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="51"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="301"/>
         <source>Save at</source>
         <translation>Enregistrer sous</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="62"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="302"/>
         <source>Note: the current defaults are displayed for reference.</source>
         <translation>Remarque : les valeurs par défaut actuelles sont affichées à titre de référence.</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="74"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="303"/>
         <source>Use another path for incomplete torrents:</source>
         <translation>Utiliser un autre répertoire pour les torrents incomplets :</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="107"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="304"/>
         <source>Category:</source>
         <translation>Catégorie :</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="147"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="305"/>
         <source>Tags:</source>
         <translation>Étiquettes :</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="163"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="306"/>
         <source>Click [...] button to add/remove tags.</source>
         <translation>Cliquez sur le bouton […] pour ajouter/supprimer les étiquettes.</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="173"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="308"/>
         <source>Add/remove tags</source>
         <translation>Ajouter/supprimer les étiquettes</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="176"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="310"/>
         <source>...</source>
         <translation>…</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="209"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="311"/>
         <source>Start torrent:</source>
         <translation>Démarrer le torrent :</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="247"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="312"/>
         <source>Content layout:</source>
         <translation>Agencement du contenu :</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="285"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="313"/>
         <source>Stop condition:</source>
         <translation>Condition d&apos;arrêt :</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="323"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="314"/>
         <source>Add to top of queue:</source>
         <translation>Ajouter en haut de la file d&apos;attente :</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="346"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="315"/>
         <source>Skip hash check</source>
         <translation>Sauter la vérification du hachage</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="354"/>
+        <location filename="../../build/src/gui/ui_addtorrentparamswidget.h" line="316"/>
         <source>Torrent share limits</source>
         <translation>Limites de partage du torrent</translation>
     </message>
@@ -1380,23 +1452,28 @@
 <context>
     <name>AppController</name>
     <message>
-        <location filename="../webui/api/appcontroller.cpp" line="1189"/>
-        <location filename="../webui/api/appcontroller.cpp" line="1193"/>
+        <location filename="../webui/api/appcontroller.cpp" line="1197"/>
+        <source>Invalid MIME override data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../webui/api/appcontroller.cpp" line="1237"/>
+        <location filename="../webui/api/appcontroller.cpp" line="1241"/>
         <source>Invalid directory path</source>
         <translation>Chemin de dossier invalide</translation>
     </message>
     <message>
-        <location filename="../webui/api/appcontroller.cpp" line="1195"/>
+        <location filename="../webui/api/appcontroller.cpp" line="1243"/>
         <source>Directory does not exist</source>
         <translation>Dossier inexistant</translation>
     </message>
     <message>
-        <location filename="../webui/api/appcontroller.cpp" line="1207"/>
+        <location filename="../webui/api/appcontroller.cpp" line="1255"/>
         <source>Invalid mode, allowed values: %1</source>
         <translation>Mode invalide, valeurs autorisées : %1</translation>
     </message>
     <message>
-        <location filename="../webui/api/appcontroller.cpp" line="1245"/>
+        <location filename="../webui/api/appcontroller.cpp" line="1293"/>
         <source>cookies must be array</source>
         <translation>Les cookies doivent être des tableaux</translation>
     </message>
@@ -1670,56 +1747,67 @@ Raison : %2</translation>
     <name>AutomatedRssDownloader</name>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="386"/>
         <source>RSS Downloader</source>
         <translation>Gestionnaire de téléchargement RSS</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="58"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="388"/>
         <source>Download Rules</source>
         <translation>Règles pour le téléchargement</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="172"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="393"/>
         <source>Use Regular Expressions</source>
         <translation>Utiliser les expressions régulières</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="257"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="401"/>
         <source>Use Smart Episode Filter</source>
         <translation>Utiliser le filtre d&apos;épisode intelligent</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="181"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="394"/>
         <source>Must Contain:</source>
         <translation>Doit contenir :</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="28"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="387"/>
         <source>Auto downloading of RSS torrents is currently disabled. You can enable it in application settings.</source>
         <translation>Le téléchargement automatique des torrents par flux RSS est actuellement désactivé. Vous pouvez l&apos;activer dans les paramètres de l&apos;application.</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="68"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="390"/>
         <source>Rename selected rule. You can also use the F2 hotkey to rename.</source>
         <translation>Renommer la règle sélectionnée. Vous pouvez également utiliser la touche de raccourci F2 pour renommer.</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="147"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="392"/>
         <source>Priority:</source>
         <translation>Priorité :</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="201"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="395"/>
         <source>Must Not Contain:</source>
         <translation>Ne doit pas contenir :</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="221"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="396"/>
         <source>Episode Filter:</source>
         <translation>Filtre d&apos;épisode&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="253"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="398"/>
         <source>Smart Episode Filter will check the episode number to prevent downloading of duplicates.
 Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also support - as a separator)</source>
         <translation>Le filtre d&apos;épisode intelligent vérifiera le numéro de l&apos;épisode afin d&apos;éviter le téléchargement de doublons.
@@ -1727,42 +1815,50 @@ Les formats supportés : S01E01, 1x1, 2017.12.31 et 31.12.2017 (les formats date
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="304"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="405"/>
         <source>Torrent parameters</source>
         <translation>Paramètres du torrent</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="266"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="402"/>
         <source>Ignore Subsequent Matches for (0 to Disable)</source>
         <extracomment>... X days</extracomment>
         <translation>Ignorer les correspondances ultérieures pour (0 pour désactiver)</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="276"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="403"/>
         <source>Disabled</source>
         <translation>Désactivé</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="279"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="404"/>
         <source> days</source>
         <translation> jours</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="354"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="406"/>
         <source>Apply Rule to Feeds:</source>
         <translation>Appliquer la règle aux flux :</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="374"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="407"/>
         <source>Matching RSS Articles</source>
         <translation>Articles RSS correspondants</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="402"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="408"/>
         <source>&amp;Import...</source>
         <translation>&amp;Importer…</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="412"/>
+        <location filename="../../build/src/gui/ui_automatedrssdownloader.h" line="409"/>
         <source>&amp;Export...</source>
         <translation>&amp;Exporter…</translation>
     </message>
@@ -2032,16 +2128,19 @@ Les formats supportés : S01E01, 1x1, 2017.12.31 et 31.12.2017 (les formats date
     <name>BanListOptionsDialog</name>
     <message>
         <location filename="../gui/banlistoptionsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_banlistoptionsdialog.h" line="112"/>
         <source>List of banned IP addresses</source>
         <translation>Liste des adresses IP bannies</translation>
     </message>
     <message>
         <location filename="../gui/banlistoptionsdialog.ui" line="80"/>
+        <location filename="../../build/src/gui/ui_banlistoptionsdialog.h" line="113"/>
         <source>Ban IP</source>
         <translation>Bannir l&apos;IP</translation>
     </message>
     <message>
         <location filename="../gui/banlistoptionsdialog.ui" line="87"/>
+        <location filename="../../build/src/gui/ui_banlistoptionsdialog.h" line="114"/>
         <source>Delete</source>
         <translation>Supprimer</translation>
     </message>
@@ -3096,6 +3195,7 @@ Les formats supportés : S01E01, 1x1, 2017.12.31 et 31.12.2017 (les formats date
     <name>CookiesDialog</name>
     <message>
         <location filename="../gui/cookiesdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_cookiesdialog.h" line="102"/>
         <source>Manage Cookies</source>
         <translation>Gérer les cookies</translation>
     </message>
@@ -3153,16 +3253,19 @@ Les formats supportés : S01E01, 1x1, 2017.12.31 et 31.12.2017 (les formats date
     <name>DeletionConfirmationDialog</name>
     <message>
         <location filename="../gui/deletionconfirmationdialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_deletionconfirmationdialog.h" line="119"/>
         <source>Remove torrent(s)</source>
         <translation>Retirer le(s) torrent(s)</translation>
     </message>
     <message>
         <location filename="../gui/deletionconfirmationdialog.ui" line="67"/>
+        <location filename="../../build/src/gui/ui_deletionconfirmationdialog.h" line="122"/>
         <source>Remember choice</source>
         <translation>Se souvenir du choix</translation>
     </message>
     <message>
         <location filename="../gui/deletionconfirmationdialog.ui" line="91"/>
+        <location filename="../../build/src/gui/ui_deletionconfirmationdialog.h" line="124"/>
         <source>Also remove the content files</source>
         <translation>Retirer également les fichiers de contenu</translation>
     </message>
@@ -3188,16 +3291,19 @@ Les formats supportés : S01E01, 1x1, 2017.12.31 et 31.12.2017 (les formats date
     <name>DownloadFromURLDialog</name>
     <message>
         <location filename="../gui/downloadfromurldialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_downloadfromurldialog.h" line="77"/>
         <source>Download from URLs</source>
         <translation>Télécharger depuis des URLs</translation>
     </message>
     <message>
         <location filename="../gui/downloadfromurldialog.ui" line="25"/>
+        <location filename="../../build/src/gui/ui_downloadfromurldialog.h" line="78"/>
         <source>Add torrent links</source>
         <translation>Ajouter des liens torrents</translation>
     </message>
     <message>
         <location filename="../gui/downloadfromurldialog.ui" line="47"/>
+        <location filename="../../build/src/gui/ui_downloadfromurldialog.h" line="79"/>
         <source>One link per line (HTTP links, Magnet links and info-hashes are supported)</source>
         <translation>Un lien par ligne (les liens HTTP, les liens magnet et les info-hashes sont supportés)</translation>
     </message>
@@ -3239,11 +3345,13 @@ Les formats supportés : S01E01, 1x1, 2017.12.31 et 31.12.2017 (les formats date
     <name>ExecutionLogWidget</name>
     <message>
         <location filename="../gui/executionlogwidget.ui" line="36"/>
+        <location filename="../../build/src/gui/ui_executionlogwidget.h" line="65"/>
         <source>General</source>
         <translation>Général</translation>
     </message>
     <message>
         <location filename="../gui/executionlogwidget.ui" line="42"/>
+        <location filename="../../build/src/gui/ui_executionlogwidget.h" line="66"/>
         <source>Blocked IPs</source>
         <translation>IPs bloquées</translation>
     </message>
@@ -3478,21 +3586,25 @@ Les formats supportés : S01E01, 1x1, 2017.12.31 et 31.12.2017 (les formats date
     <name>IPSubnetWhitelistOptionsDialog</name>
     <message>
         <location filename="../gui/ipsubnetwhitelistoptionsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_ipsubnetwhitelistoptionsdialog.h" line="107"/>
         <source>List of whitelisted IP subnets</source>
         <translation>Sous-réseaux IP sur la liste blanche</translation>
     </message>
     <message>
         <location filename="../gui/ipsubnetwhitelistoptionsdialog.ui" line="53"/>
+        <location filename="../../build/src/gui/ui_ipsubnetwhitelistoptionsdialog.h" line="108"/>
         <source>Example: 172.17.32.0/24, fdff:ffff:c8::/40</source>
         <translation>Exemple : 172.17.32.0/24, fdff:ffff:c8::/40</translation>
     </message>
     <message>
         <location filename="../gui/ipsubnetwhitelistoptionsdialog.ui" line="64"/>
+        <location filename="../../build/src/gui/ui_ipsubnetwhitelistoptionsdialog.h" line="109"/>
         <source>Add subnet</source>
         <translation>Ajouter un sous-réseau</translation>
     </message>
     <message>
         <location filename="../gui/ipsubnetwhitelistoptionsdialog.ui" line="71"/>
+        <location filename="../../build/src/gui/ui_ipsubnetwhitelistoptionsdialog.h" line="110"/>
         <source>Delete</source>
         <translation>Supprimer</translation>
     </message>
@@ -3638,288 +3750,347 @@ Les formats supportés : S01E01, 1x1, 2017.12.31 et 31.12.2017 (les formats date
     <name>MainWindow</name>
     <message>
         <location filename="../gui/mainwindow.ui" line="43"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="384"/>
         <source>&amp;Edit</source>
         <translation>&amp;Edition</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="69"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="386"/>
         <source>&amp;Tools</source>
         <translation>Ou&amp;tils</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="90"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="388"/>
         <source>&amp;File</source>
         <translation>&amp;Fichier</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="59"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="385"/>
         <source>&amp;Help</source>
         <translation>&amp;Aide</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="73"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="387"/>
         <source>On Downloads &amp;Done</source>
         <translation>Action lorsque les téléchargements sont &amp;terminés</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="100"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="389"/>
         <source>&amp;View</source>
         <translation>A&amp;ffichage</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="182"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="313"/>
         <source>&amp;Options...</source>
         <translation>&amp;Options…</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="212"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="319"/>
         <source>&amp;Remove</source>
         <translation>&amp;Retirer</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="225"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="322"/>
         <source>Torrent &amp;Creator</source>
         <translation>&amp;Créateur de torrent</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="287"/>
         <location filename="../gui/mainwindow.ui" line="290"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="341"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="343"/>
         <source>Alternative Speed Limits</source>
         <translation>Limites de vitesse alternatives</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="298"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="345"/>
         <source>&amp;Top Toolbar</source>
         <translation>Barre d&apos;ou&amp;tils</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="301"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="347"/>
         <source>Display Top Toolbar</source>
         <translation>Afficher la barre d&apos;outils</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="309"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="349"/>
         <source>Status &amp;Bar</source>
         <translation>&amp;Barre d&apos;état</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="317"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="350"/>
         <source>Filters Sidebar</source>
         <translation>Barre latérale des filtres</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="325"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="351"/>
         <source>S&amp;peed in Title Bar</source>
         <translation>&amp;Vitesse dans le titre de la fenêtre</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="328"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="353"/>
         <source>Show Transfer Speed in Title Bar</source>
         <translation>Afficher la vitesse dans le titre de la fenêtre</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="336"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="355"/>
         <source>&amp;RSS Reader</source>
         <translation>Lecteur &amp;RSS</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="344"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="356"/>
         <source>Search &amp;Engine</source>
         <translation>&amp;Moteur de recherche</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="349"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="357"/>
         <source>L&amp;ock qBittorrent</source>
         <translation>Verr&amp;ouiller qBittorrent</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="360"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="359"/>
         <source>Do&amp;nate!</source>
         <translation>Faire un do&amp;n&#x202f;!</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="395"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="366"/>
         <source>Sh&amp;utdown System</source>
         <translation>É&amp;teindre le système</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="403"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="367"/>
         <source>&amp;Do nothing</source>
         <translation>&amp;Ne rien faire</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="479"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="383"/>
         <source>Close Window</source>
         <translation>Fermer la fenêtre</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="431"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="374"/>
         <source>Manage Cookies...</source>
         <translation>Gérer les cookies…</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="434"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="376"/>
         <source>Manage stored network cookies</source>
         <translation>Gérer les cookies réseau stockées</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="450"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="379"/>
         <source>Normal Messages</source>
         <translation>Messages normaux</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="458"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="380"/>
         <source>Information Messages</source>
         <translation>Messages d&apos;information</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="466"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="381"/>
         <source>Warning Messages</source>
         <translation>Messages d&apos;avertissement</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="474"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="382"/>
         <source>Critical Messages</source>
         <translation>Messages critiques</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="104"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="390"/>
         <source>&amp;Log</source>
         <translation>Journa&amp;l</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="192"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="315"/>
         <source>Sta&amp;rt</source>
         <translation>Déma&amp;rrer</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="197"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="316"/>
         <source>Sto&amp;p</source>
         <translation>Arrê&amp;ter</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="202"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="317"/>
         <source>R&amp;esume Session</source>
         <translation>R&amp;elancer la session</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="207"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="318"/>
         <source>Pau&amp;se Session</source>
         <translation>Mettre en pau&amp;se</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="235"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="324"/>
         <source>Set Global Speed Limits...</source>
         <translation>Définir les limites de vitesse globale…</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="240"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="325"/>
         <source>Bottom of Queue</source>
         <translation>Bas de la file d&apos;attente</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="243"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="327"/>
         <source>Move to the bottom of the queue</source>
         <translation>Déplacer au bas de la file d’attente</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="251"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="329"/>
         <source>Top of Queue</source>
         <translation>Haut de la file d&apos;attente</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="254"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="331"/>
         <source>Move to the top of the queue</source>
         <translation>Déplacer au haut de la file d&apos;attente</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="262"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="333"/>
         <source>Move Down Queue</source>
         <translation>Descendre dans la file d’attente</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="265"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="335"/>
         <source>Move down in the queue</source>
         <translation>Descendre dans la file d&apos;attente</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="273"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="337"/>
         <source>Move Up Queue</source>
         <translation>Monter dans la file d’attente</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="276"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="339"/>
         <source>Move up in the queue</source>
         <translation>Monter dans la file d&apos;attente</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="371"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="363"/>
         <source>&amp;Exit qBittorrent</source>
         <translation>&amp;Quitter qBittorrent</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="379"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="364"/>
         <source>&amp;Suspend System</source>
         <translation>Mettre en veille le &amp;système</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="387"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="365"/>
         <source>&amp;Hibernate System</source>
         <translation>Mettre en &amp;veille prolongée le système</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="418"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="369"/>
         <source>&amp;Statistics</source>
         <translation>&amp;Statistiques</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="423"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="370"/>
         <source>Check for Updates</source>
         <translation>Vérifier les mises à jour</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="426"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="372"/>
         <source>Check for Program Updates</source>
         <translation>Vérifier les mises à jour du programm</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="187"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="314"/>
         <source>&amp;About</source>
         <translation>&amp;À propos</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="169"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="310"/>
         <source>&amp;Add Torrent File...</source>
         <translation>&amp;Ajouter un fichier torrent…</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="172"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="311"/>
         <source>Open</source>
         <translation>Ouvrir</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="177"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="312"/>
         <source>E&amp;xit</source>
         <translation>&amp;Quitter</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="220"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="321"/>
         <source>Open URL</source>
         <translation>Ouvrir URL</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="230"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="323"/>
         <source>&amp;Documentation</source>
         <translation>&amp;Documentation</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="352"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="358"/>
         <source>Lock</source>
         <translation>Verrouiller</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="408"/>
         <location filename="../gui/mainwindow.ui" line="442"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="368"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="378"/>
         <location filename="../gui/mainwindow.cpp" line="1496"/>
         <source>Show</source>
         <translation>Afficher</translation>
@@ -3931,11 +4102,13 @@ Les formats supportés : S01E01, 1x1, 2017.12.31 et 31.12.2017 (les formats date
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="217"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="320"/>
         <source>Add Torrent &amp;Link...</source>
         <translation>Ajouter &amp;lien vers un torrent…</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="363"/>
+        <location filename="../../build/src/gui/ui_mainwindow.h" line="361"/>
         <source>If you like qBittorrent, please donate!</source>
         <translation>Si vous aimez qBittorrent, faites un don !</translation>
     </message>
@@ -5859,312 +6032,379 @@ Configuration minimale requise&#xa0;:&#xa0;%2.</translation>
     <name>OptionsDialog</name>
     <message>
         <location filename="../gui/optionsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3075"/>
         <source>Options</source>
         <translation>Options</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="52"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3080"/>
         <source>Behavior</source>
         <translation>Comportement</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="57"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3082"/>
         <source>Downloads</source>
         <translation>Téléchargements</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="62"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3084"/>
         <source>Connection</source>
         <translation>Connexion</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="67"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3086"/>
         <source>Speed</source>
         <translation>Vitesse</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="72"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3088"/>
         <source>BitTorrent</source>
         <translation>BitTorrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="82"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3092"/>
         <source>RSS</source>
         <translation>RSS</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="92"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3096"/>
         <source>Advanced</source>
         <translation>Avancées</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="250"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3107"/>
         <source>Customize UI Theme...</source>
         <translation>Personnaliser le thème de l&apos;interface…</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="260"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3108"/>
         <source>Transfer List</source>
         <translation>Liste des transferts</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="269"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3112"/>
         <source>Confirm when deleting torrents</source>
         <translation>Confirmer la suppression des torrents</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="279"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3113"/>
         <source>Use alternating row colors</source>
         <extracomment>In table elements, every other row will have a grey background.</extracomment>
         <translation>Utiliser des couleurs de ligne alternées</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="291"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3114"/>
         <source>Hide zero and infinity values</source>
         <translation>Cacher les valeurs zéro et infini :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="299"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3115"/>
         <source>Always</source>
         <translation>Toujours</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="327"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3118"/>
         <source>Action on double-click</source>
         <translation>Action du double-clic</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="333"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3119"/>
         <source>Downloading torrents:</source>
         <translation>Torrents en téléchargement :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="349"/>
         <location filename="../gui/optionsdialog.ui" line="398"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3121"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3128"/>
         <source>Open destination folder</source>
         <translation>Ouvrir le répertoire de destination</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="364"/>
         <location filename="../gui/optionsdialog.ui" line="413"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3124"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3131"/>
         <source>No action</source>
         <translation>Aucune action</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="385"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3126"/>
         <source>Completed torrents:</source>
         <translation>Torrents téléchargés:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="424"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3133"/>
         <source>Auto hide zero status filters</source>
         <translation>Cacher automatiquement les filtres dont le résultat est zéro</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="434"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3134"/>
         <source>Desktop</source>
         <translation>Bureau</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="440"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3135"/>
         <source>Start qBittorrent on Windows start up</source>
         <translation>Démarrer qBittorrent au démarrage de Windows</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="447"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3136"/>
         <source>Show splash screen on start up</source>
         <translation>Afficher l&apos;écran de démarrage</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="491"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3144"/>
         <source>Confirmation on exit when torrents are active</source>
         <translation>Confirmer la fermeture lorsque des torrents sont actifs</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="501"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3145"/>
         <source>Confirmation on auto-exit when downloads finish</source>
         <translation>Confirmation de la fermeture automatique à la fin des téléchargements</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="642"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3163"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To set qBittorrent as default program for .torrent files and/or Magnet links&lt;br/&gt;you can use &lt;span style=&quot; font-weight:600;&quot;&gt;Default Programs&lt;/span&gt; dialog from &lt;span style=&quot; font-weight:600;&quot;&gt;Control Panel&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pour définir qBittorrent comme programme par défaut pour les fichiers .torrent et/ou les liens Magnet&lt;br/&gt;, vous pouvez utiliser la page &lt;span style=&quot; font-weight:600;&quot;&gt;Applications par défaut&lt;/span&gt; dans les &lt;span style=&quot; font-weight:600;&quot;&gt;Paramètres&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="732"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3174"/>
         <source> KiB</source>
         <translation> Kio</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="917"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3185"/>
         <source>Torrent content layout:</source>
         <translation>Agencement du contenu du torrent :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="928"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3186"/>
         <source>Original</source>
         <translation>Original</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="933"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3187"/>
         <source>Create subfolder</source>
         <translation>Créer un sous-dossier</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="938"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3188"/>
         <source>Don&apos;t create subfolder</source>
         <translation>Ne pas créer de sous-dossier</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="961"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3191"/>
         <source>The torrent will be added to the top of the download queue</source>
         <translation>Le torrent sera ajouté en haut de la file d&apos;attente de téléchargement</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="964"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3193"/>
         <source>Add to top of queue</source>
         <extracomment>The torrent will be added to the top of the download queue</extracomment>
         <translation>Ajouter en haut de la file d&apos;attente</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1027"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3203"/>
         <source>When duplicate torrent is being added</source>
         <translation>Lorsqu&apos;un torrent doublon est ajouté</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1033"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3204"/>
         <source>Merge trackers to existing torrent</source>
         <translation>Fusionner les trackers avec le torrent existant</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1128"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3220"/>
         <source>Keep unselected files in &quot;.unwanted&quot; folder</source>
         <translation>Conserver les fichiers non sélectionnés dans le dossier « .unwanted »</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1431"/>
+        <location filename="../gui/optionsdialog.ui" line="3646"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3256"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3469"/>
         <source>Add...</source>
         <translation>Ajouter…</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1441"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3257"/>
         <source>Options..</source>
         <translation>Options..</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1451"/>
+        <location filename="../gui/optionsdialog.ui" line="3660"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3258"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3471"/>
         <source>Remove</source>
         <translation>Retirer</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1518"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3275"/>
         <source>Email notification &amp;upon download completion</source>
         <translation>Notifier par courriel &amp;une fois le téléchargement complété</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1622"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3289"/>
         <source>Send test email</source>
         <translation>Envoyer un courriel test</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1638"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3291"/>
         <source>Run on torrent added:</source>
         <translation>Exécution à l&apos;ajout d&apos;un torrent :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1656"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3292"/>
         <source>Run on torrent finished:</source>
         <translation>Exécuter à la complétion d&apos;un torrent:</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1728"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3294"/>
         <source>Peer connection protocol:</source>
         <translation>Protocole de connexion au pair :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1787"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3302"/>
         <source>Any</source>
         <translation>N&apos;importe quel</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1937"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3310"/>
         <source>I2P (experimental)</source>
         <translation>I2P (expérimental)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1999"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3316"/>
         <source>Mixed mode</source>
         <translation>Mode mixte</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2080"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3321"/>
         <source>Some options are incompatible with the chosen proxy type!</source>
         <translation>Certaines options sont incompatibles avec le type de proxy choisi !</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2087"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3323"/>
         <source>If checked, hostname lookups are done via the proxy</source>
         <translation>Si cochée, les recherches de nom d&apos;hôte sont effectuées via le proxy</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2090"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3325"/>
         <source>Perform hostname lookup via proxy</source>
         <translation>Recherche du nom d&apos;hôte via un proxy</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2150"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3330"/>
         <source>Use proxy for BitTorrent purposes</source>
         <translation>Utiliser un proxy à des fins BitTorrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2175"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3336"/>
         <source>RSS feeds will use proxy</source>
         <translation>Les flux RSS utiliseront un proxy</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2178"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3338"/>
         <source>Use proxy for RSS purposes</source>
         <translation>Utiliser un proxy à des fins RSS</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2188"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3340"/>
         <source>Search engine, software updates or anything else will use proxy</source>
         <translation>Le moteur de recherche, les mises à jour logicielles ou toute autre chose utiliseront le proxy</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2191"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3342"/>
         <source>Use proxy for general purposes</source>
         <translation>Utiliser un proxy à des fins générales</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2204"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3343"/>
         <source>IP Fi&amp;ltering</source>
         <translation>Fi&amp;ltrage IP</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2453"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3364"/>
         <source>Schedule &amp;the use of alternative rate limits</source>
         <translation>Planifier l&apos;utilisation des limites de vi&amp;tesse alternatives</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2468"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3368"/>
         <source>From:</source>
         <comment>From start time</comment>
         <translation>De :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2498"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3372"/>
         <source>To:</source>
         <comment>To end time</comment>
         <translation>À :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2657"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3384"/>
         <source>Find peers on the DHT network</source>
         <translation>Trouver des pairs sur le réseau DHT</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2705"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3401"/>
         <source>Allow encryption: Connect to peers regardless of setting
 Require encryption: Only connect to peers with protocol encryption
 Disable encryption: Only connect to peers without protocol encryption</source>
@@ -6174,56 +6414,67 @@ Désactiver le chiffrement : Se connecter uniquement aux pairs sans protocole de
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2711"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3396"/>
         <source>Allow encryption</source>
         <translation>Autoriser le chiffrement</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2756"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3409"/>
         <source>(&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/Anonymous-Mode&quot;&gt;More information&lt;/a&gt;)</source>
         <translation>(&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/Anonymous-Mode&quot;&gt;Plus d&apos;informations&lt;/a&gt;)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2789"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3410"/>
         <source>Maximum active checking torrents:</source>
         <translation>Torrents actifs maximum en vérification :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2824"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3411"/>
         <source>&amp;Torrent Queueing</source>
         <translation>File d&apos;attente des &amp;torrents</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3048"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3427"/>
         <source>When total seeding time reaches</source>
         <translation>Lorsque la durée totale de partage atteint</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3071"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3429"/>
         <source>When inactive seeding time reaches</source>
         <translation>Lorsque la durée de partage inactif atteint</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3357"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3445"/>
         <source>RSS Reader</source>
         <translation>Lecteur RSS</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3363"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3446"/>
         <source>Enable fetching RSS feeds</source>
         <translation>Activer la récupération de flux RSS</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3372"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3447"/>
         <source>Feeds refresh interval:</source>
         <translation>Intervalle de rafraîchissement des flux :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3408"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3449"/>
         <source>Same host request delay:</source>
         <translation>Délai de la requête au même hôte :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3428"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3451"/>
         <source>Maximum number of articles per feed:</source>
         <translation>Nombre maximum d&apos;articles par flux :</translation>
     </message>
@@ -6231,122 +6482,148 @@ Désactiver le chiffrement : Se connecter uniquement aux pairs sans protocole de
         <location filename="../gui/optionsdialog.ui" line="3058"/>
         <location filename="../gui/optionsdialog.ui" line="3081"/>
         <location filename="../gui/optionsdialog.ui" line="3379"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3428"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3430"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3448"/>
         <source> min</source>
         <extracomment>minutes</extracomment>
         <translation>min</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3009"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3425"/>
         <source>Seeding Limits</source>
         <translation>Limites de partage</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3113"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3433"/>
         <source>Remove torrent</source>
         <translation>Retirer le torrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3118"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3434"/>
         <source>Remove torrent and its files</source>
         <translation>Retirer le torrent et ses fichiers</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3123"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3435"/>
         <source>Enable super seeding for torrent</source>
         <translation>Activer le super partage pour ce torrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3015"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3426"/>
         <source>When ratio reaches</source>
         <translation>Lorsque le ratio atteint</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3108"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3432"/>
         <source>Stop torrent</source>
         <translation>Arrêter les torrents</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3134"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3437"/>
         <source>A&amp;utomatically append these trackers to new downloads:</source>
         <translation>Ajouter automatiquement ces trackers aux nouveaux téléchargements :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3156"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3438"/>
         <source>Automatically append trackers from URL to new downloads:</source>
         <translation>Ajouter automatiquement les trackeurs de l&apos;URL aux nouveaux téléchargements :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3170"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3439"/>
         <source>URL:</source>
         <translation>URL :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3182"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3440"/>
         <source>Fetched trackers</source>
         <translation>Trackers récupérés</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3247"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3441"/>
         <source>Search UI</source>
         <translation>Recherche dans l&apos;IU</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3253"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3442"/>
         <source>Store opened tabs</source>
         <translation>Enregistrer les onglets ouverts</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3265"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3443"/>
         <source>Also store search results</source>
         <translation>Enregistrer aussi les résultats de recherche</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3277"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3444"/>
         <source>History length</source>
         <translation>Durée de l&apos;historique</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3450"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3452"/>
         <source>RSS Torrent Auto Downloader</source>
         <translation>Téléchargeur automatique de torrents par RSS</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3456"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3453"/>
         <source>Enable auto downloading of RSS torrents</source>
         <translation>Active le téléchargement automatique de torrents par RSS</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3463"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3454"/>
         <source>Edit auto downloading rules...</source>
         <translation>Éditer les règles de téléchargement automatique…</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3473"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3455"/>
         <source>RSS Smart Episode Filter</source>
         <translation>Filtre d&apos;épisode intelligent par RSS</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3479"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3456"/>
         <source>Download REPACK/PROPER episodes</source>
         <translation>Télécharger les épisodes REPACK/PROPER</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3486"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3457"/>
         <source>Filters:</source>
         <translation>Filtres :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3551"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3458"/>
         <source>Web User Interface (Remote control)</source>
         <translation>Activer l&apos;Interface Utilisateur Web (contrôle distant)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3577"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3460"/>
         <source>IP address:</source>
         <translation>Adresse IP :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3584"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3462"/>
         <source>IP address that the Web UI will bind to.
 Specify an IPv4 or IPv6 address. You can specify &quot;0.0.0.0&quot; for any IPv4 address,
 &quot;::&quot; for any IPv6 address, or &quot;*&quot; for both IPv4 and IPv6.</source>
@@ -6355,37 +6632,56 @@ Renseignez une adresse IPv4 ou IPv6. Vous pouvez renseigner « 0.0.0.0 » pour n
 « :: » pour n&apos;importe quelle adresse IPv6, ou bien « * » pour l&apos;IPv4 et l&apos;IPv6.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3745"/>
+        <location filename="../gui/optionsdialog.ui" line="3625"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3468"/>
+        <source>Custom MIME type overrides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/optionsdialog.ui" line="3653"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3470"/>
+        <source>Edit...</source>
+        <translation type="unfinished">Éditer…</translation>
+    </message>
+    <message>
+        <location filename="../gui/optionsdialog.ui" line="3805"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3483"/>
         <source>Ban client after consecutive failures:</source>
         <translation>Bannir le client suite à des échecs consécutifs :</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3752"/>
+        <location filename="../gui/optionsdialog.ui" line="3812"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3484"/>
         <source>Never</source>
         <translation>Jamais</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3775"/>
+        <location filename="../gui/optionsdialog.ui" line="3835"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3485"/>
         <source>ban for:</source>
         <translation>Banni pour :</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3802"/>
+        <location filename="../gui/optionsdialog.ui" line="3862"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3487"/>
         <source>Session timeout:</source>
         <translation>Expiration de la session :</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3809"/>
+        <location filename="../gui/optionsdialog.ui" line="3869"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3488"/>
         <source>Disabled</source>
         <translation>Désactivé</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3920"/>
+        <location filename="../gui/optionsdialog.ui" line="3980"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3498"/>
         <source>Server domains:</source>
         <translation>Domaines du serveur :</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3927"/>
+        <location filename="../gui/optionsdialog.ui" line="3987"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3500"/>
         <source>Whitelist for filtering HTTP Host header values.
 In order to defend against DNS rebinding attack,
 you should put in domain names used by WebUI server.
@@ -6397,398 +6693,480 @@ Afin de se défendre contre les attaques par DNS rebinding, vous devez consigner
 Utiliser &apos;;&apos; pour diviser plusieurs entrées. Le caractère générique &apos;*&apos; peut être utilisé.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3625"/>
+        <location filename="../gui/optionsdialog.ui" line="3685"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3472"/>
         <source>&amp;Use HTTPS instead of HTTP</source>
         <translation>&amp;Utiliser HTTPS au lieu de HTTP</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3716"/>
+        <location filename="../gui/optionsdialog.ui" line="3776"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3480"/>
         <source>Bypass authentication for clients on localhost</source>
         <translation>Ignorer l&apos;authentification pour les clients locaux</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3723"/>
+        <location filename="../gui/optionsdialog.ui" line="3783"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3481"/>
         <source>Bypass authentication for clients in whitelisted IP subnets</source>
         <translation>Ignorer l&apos;authentification pour les clients de sous-réseaux en liste blanche</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3736"/>
+        <location filename="../gui/optionsdialog.ui" line="3796"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3482"/>
         <source>IP subnet whitelist...</source>
         <translation>Liste blanche des sous-réseaux IP…</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3840"/>
+        <location filename="../gui/optionsdialog.ui" line="3900"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3490"/>
         <source>Use alternative WebUI</source>
         <translation>Utiliser l&apos;IU Web alternative</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3989"/>
+        <location filename="../gui/optionsdialog.ui" line="4049"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3511"/>
         <source>Specify reverse proxy IPs (or subnets, e.g. 0.0.0.0/24) in order to use forwarded client address (X-Forwarded-For header). Use &apos;;&apos; to split multiple entries.</source>
         <translation>Spécifier les adresses IPs du proxy inverse (ou les sous-réseaux, p. ex. 0.0.0.0/24) afin d&apos;utiliser l&apos;adresse client transférée (attribut X-Forwarded-For). Utiliser &apos;;&apos; pour séparer plusieurs entrées.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="4014"/>
+        <location filename="../gui/optionsdialog.ui" line="4074"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3514"/>
         <source>Upda&amp;te my dynamic domain name</source>
         <translation>Met&amp;tre à jour mon nom de domaine dynamique</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="523"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3150"/>
         <source>Minimize qBittorrent to notification area</source>
         <translation>Réduire qBittorrent dans la zone de notification</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="77"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3090"/>
         <source>Search</source>
         <translation>Recherche</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="87"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3094"/>
         <source>WebUI</source>
         <translation>IU Web</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="138"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3099"/>
         <source>Interface</source>
         <translation>Interface</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="156"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3101"/>
         <source>Language:</source>
         <translation>Langue :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="179"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3102"/>
         <source>Style:</source>
         <translation>Style :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="198"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3103"/>
         <source>Color scheme:</source>
         <translation>Modèle de couleur :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="304"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3116"/>
         <source>Stopped torrents only</source>
         <translation>Seulement les torrents arrêtés</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="344"/>
         <location filename="../gui/optionsdialog.ui" line="393"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3120"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3127"/>
         <source>Start / stop torrent</source>
         <translation>Démarrer / Arrêter le torrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="359"/>
         <location filename="../gui/optionsdialog.ui" line="408"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3123"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3130"/>
         <source>Open torrent options dialog</source>
         <translation>Ouvrir la boîte de dialogue des options du torrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="545"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3155"/>
         <source>Tray icon style:</source>
         <translation>Style d&apos;icône de la barre des tâches :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="553"/>
-        <location filename="../gui/optionsdialog.cpp" line="297"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3156"/>
+        <location filename="../gui/optionsdialog.cpp" line="323"/>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="589"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3160"/>
         <source>File association</source>
         <translation>Association des fichiers</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="610"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3161"/>
         <source>Use qBittorrent for .torrent files</source>
         <translation>Utiliser qBittorrent pour les fichiers .torrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="617"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3162"/>
         <source>Use qBittorrent for magnet links</source>
         <translation>Utiliser qBittorrent pour les liens magnet</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="655"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3164"/>
         <source>Check for program updates</source>
         <translation>Vérifier la disponibilité de mises à jour du logiciel</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="665"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3165"/>
         <source>Power Management</source>
         <translation>Gestion d&apos;alimentation</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="688"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3168"/>
         <source>&amp;Log Files</source>
         <translation>Fichier journal</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="708"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3169"/>
         <source>Save path:</source>
         <translation>Répertoire de destination :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="725"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3173"/>
         <source>Backup the log file after:</source>
         <translation>Sauvegarder le fichier journal après :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="765"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3175"/>
         <source>Delete backup logs older than:</source>
         <translation>Supprimer les journaux sauvegardés antérieurs à :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="825"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3180"/>
         <source>Show external IP in status bar</source>
         <translation>Afficher l&apos;adresse IP externe dans la barre d&apos;état</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="887"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3182"/>
         <source>When adding a torrent</source>
         <translation>À l&apos;ajout d&apos;un torrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="902"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3184"/>
         <source>Bring torrent dialog to the front</source>
         <translation>Mettre la boite de dialogue du torrent en avant-plan</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="971"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3195"/>
         <source>The torrent will be added to download list in a stopped state</source>
         <translation>Le torrent sera ajouté à la liste de téléchargement en étant arrêté</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1071"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3211"/>
         <source>Also delete .torrent files whose addition was cancelled</source>
         <translation>Supprimer également les fichiers .torrent dont l&apos;ajout a été annulé</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1074"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3213"/>
         <source>Also when addition is cancelled</source>
         <translation>Aussi quand l&apos;ajout est annulé</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1096"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3214"/>
         <source>Warning! Data loss possible!</source>
         <translation>Avertissement ! Perte de données possible !</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1145"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3225"/>
         <source>Saving Management</source>
         <translation>Gestion de la sauvegarde</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1153"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3226"/>
         <source>Default Torrent Management Mode:</source>
         <translation>Mode de gestion de torrent par défaut :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1170"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3227"/>
         <source>Manual</source>
         <translation>Manuel</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1175"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3228"/>
         <source>Automatic</source>
         <translation>Automatique</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1198"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3234"/>
         <source>When Torrent Category changed:</source>
         <translation>Quand la catégorie du torrent change :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1208"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3235"/>
         <source>Relocate torrent</source>
         <translation>Relocaliser le torrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1213"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3236"/>
         <source>Switch torrent to Manual Mode</source>
         <translation>Basculer le torrent en mode manuel</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1249"/>
         <location filename="../gui/optionsdialog.ui" line="1290"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3239"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3243"/>
         <source>Relocate affected torrents</source>
         <translation>Relocaliser les torrents affectés</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1254"/>
         <location filename="../gui/optionsdialog.ui" line="1295"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3240"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3244"/>
         <source>Switch affected torrents to Manual Mode</source>
         <translation>Basculer les torrents affectés en mode manuel</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1320"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3246"/>
         <source>Use Subcategories</source>
         <translation>Utiliser les sous-catégories</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1339"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3251"/>
         <source>Default Save Path:</source>
         <translation>Répertoire de destination par défaut :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1359"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3253"/>
         <source>Copy .torrent files to:</source>
         <translation>Copier les fichiers .torrent dans :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="511"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3146"/>
         <source>Show &amp;qBittorrent in notification area</source>
         <translation>Afficher l&apos;icône de &amp;qBittorrent dans la zone de notification</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="893"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3183"/>
         <source>Display &amp;torrent content and some options</source>
         <translation>Afficher le contenu du &amp;torrent et quelques options</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1059"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3209"/>
         <source>De&amp;lete .torrent files afterwards </source>
         <translation>Supprimer &amp;les fichiers .torrent par la suite</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1369"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3254"/>
         <source>Copy .torrent files for finished downloads to:</source>
         <translation>Copier les fichiers .torrent des téléchargements terminés dans :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1114"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3218"/>
         <source>Pre-allocate disk space for all files</source>
         <translation>Préallouer l&apos;espace disque pour tous les fichiers</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="221"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3104"/>
         <source>Use custom UI Theme</source>
         <translation>Utiliser un thème d&apos;IU personnalisé</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="230"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3105"/>
         <source>UI Theme file:</source>
         <translation>Fichier de thème d&apos;IU :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="149"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3100"/>
         <source>Changing Interface settings requires application restart</source>
         <translation>Modifier des paramètres de l&apos;interface requiert un redémarrage de l&apos;application</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="266"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3110"/>
         <source>Shows a confirmation dialog upon torrent deletion</source>
         <translation>Afficher une fenêtre de confirmation lors de la suppression d&apos;un torrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="354"/>
         <location filename="../gui/optionsdialog.ui" line="403"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3122"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3129"/>
         <source>Preview file, otherwise open destination folder</source>
         <translation>Afficher un aperçu du fichier, sinon ouvrir le dossier de destination</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="488"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3142"/>
         <source>Shows a confirmation dialog when exiting with active torrents</source>
         <translation>Affiche une fenêtre de confirmation lors de la fermeture avec des torrents actifs</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="520"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3148"/>
         <source>When minimizing, the main window is closed and must be reopened from the systray icon</source>
         <translation>Lors de la réduction, la fenêtre principale sera fermée et devra être réouverte via l’icône dans la barre des tâches</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="533"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3152"/>
         <source>The systray icon will still be visible when closing the main window</source>
         <translation>L’icône dans la barre des tâches restera visible lorsque la fenêtre principale est fermée</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="536"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3154"/>
         <source>Close qBittorrent to notification area</source>
         <extracomment>The systray icon will still be visible when closing the main window</extracomment>
         <translation>Conserver dans la zone de notification à la fermeture</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="558"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3157"/>
         <source>Monochrome (for dark theme)</source>
         <translation>Monochrome (pour le thème sombre)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="563"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3158"/>
         <source>Monochrome (for light theme)</source>
         <translation>Monochrome (pour le thème clair)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="671"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3166"/>
         <source>Inhibit system sleep when torrents are downloading</source>
         <translation>Empêcher la mise en veille du système lorsque des torrents sont en téléchargement</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="678"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3167"/>
         <source>Inhibit system sleep when torrents are seeding</source>
         <translation>Empêcher la mise en veille du système lorsque des torrents sont en partage</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="722"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3171"/>
         <source>Creates an additional log file after the log file reaches the specified file size</source>
         <translation>Génère un fichier journal supplémentaire lorsque le fichier journal atteint la taille spécifiée</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="789"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3176"/>
         <source>days</source>
         <extracomment>Delete backup logs older than 10 days</extracomment>
         <translation>jours</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="794"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3177"/>
         <source>months</source>
         <extracomment>Delete backup logs older than 10 months</extracomment>
         <translation>mois</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="799"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3178"/>
         <source>years</source>
         <extracomment>Delete backup logs older than 10 years</extracomment>
         <translation>années</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="832"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3181"/>
         <source>Log performance warnings</source>
         <translation>Journaliser les avertissements de performances</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="974"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3197"/>
         <source>Do not start the download automatically</source>
         <extracomment>The torrent will be added to download list in a stopped state</extracomment>
         <translation>Ne pas démarrer le téléchargement automatiquement</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1056"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3207"/>
         <source>Whether the .torrent file should be deleted after adding it</source>
         <translation>Si le fichier .torrent devrait être supprimé après l&apos;avoir ajouté</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1111"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3216"/>
         <source>Allocate full file sizes on disk before starting downloads, to minimize fragmentation. Only useful for HDDs.</source>
         <translation>Allouer les tailles entières des fichiers sur le disque avant de commencer les téléchargements, afin de minimiser la fragmentation. Utile uniquement pour les disques durs HDDs.</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1121"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3219"/>
         <source>Append .!qB extension to incomplete files</source>
         <translation>Ajouter l&apos;extension .!qB aux noms des fichiers incomplets</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1135"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3222"/>
         <source>When a torrent is downloaded, offer to add torrents from any .torrent files found inside it</source>
         <translation>Lorsqu&apos;un torrent est téléchargé, proposer d&apos;ajouter les torrents depuis les fichiers .torrent trouvés à l&apos;intérieur de celui-ci</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1138"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3224"/>
         <source>Enable recursive download dialog</source>
         <translation>Activer les fenêtres de téléchargement récursif</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1165"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3231"/>
         <source>Automatic: Various torrent properties (e.g. save path) will be decided by the associated category
 Manual: Various torrent properties (e.g. save path) must be assigned manually</source>
         <translation>Automatique : Certaines propriétés du torrent (p. ex. le répertoire de destination) seront décidées par la catégorie associée
@@ -6796,84 +7174,100 @@ Manuel : Certaines propriétés du torrent (p. ex. le répertoire de destination
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1236"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3238"/>
         <source>When Default Save/Incomplete Path changed:</source>
         <translation>Lorsque le répertoire de destination/incomplet par défaut a été modifié :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1277"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3242"/>
         <source>When Category Save Path changed:</source>
         <translation>Lorsque le répertoire de destination de la catégorie change :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1330"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3250"/>
         <source>Use Category paths in Manual Mode</source>
         <translation>Utiliser les chemins des catégories en mode manuel</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1327"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3248"/>
         <source>Resolve relative Save Path against appropriate Category path instead of Default one</source>
         <translation>Résoudre le répertoire de destination relatif par rapport au chemin de la catégorie approprié au lieu de celui par défaut</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="243"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3106"/>
         <source>Use icons from system theme</source>
         <translation>Utiliser les icônes du thème système</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="459"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3137"/>
         <source>Window state on start up:</source>
         <translation>État de la fenêtre au démarrage :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="466"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3139"/>
         <source>qBittorrent window state on start up</source>
         <translation>État de la fenêtre qBittorrent au démarrage</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="983"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3198"/>
         <source>Torrent stop condition:</source>
         <translation>Condition d&apos;arrêt du torrent :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="994"/>
-        <location filename="../gui/optionsdialog.cpp" line="556"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3199"/>
+        <location filename="../gui/optionsdialog.cpp" line="582"/>
         <source>None</source>
         <translation>Aucun</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="999"/>
-        <location filename="../gui/optionsdialog.cpp" line="557"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3200"/>
+        <location filename="../gui/optionsdialog.cpp" line="583"/>
         <source>Metadata received</source>
         <translation>Métadonnées reçues</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1004"/>
-        <location filename="../gui/optionsdialog.cpp" line="559"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3201"/>
+        <location filename="../gui/optionsdialog.cpp" line="585"/>
         <source>Files checked</source>
         <translation>Fichiers vérifiés</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1043"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3205"/>
         <source>Ask for merging trackers when torrent is being added manually</source>
         <translation>Demander une fusion des trackers lorsque le torrent est ajouté manuellement</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1349"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3252"/>
         <source>Use another path for incomplete torrents:</source>
         <translation>Utiliser un autre répertoire pour les torrents incomplets :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1384"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3255"/>
         <source>Automatically add torrents from:</source>
         <translation>Ajouter automatiquement les torrents présents sous :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1478"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3259"/>
         <source>Excluded file names</source>
         <translation>Exclure les noms de fichiers</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1490"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3261"/>
         <source>Blacklist filtered file names from being downloaded from torrent(s).
 Files matching any of the filters in this list will have their priority automatically set to &quot;Do not download&quot;.
 
@@ -6903,151 +7297,184 @@ readme[0-9].txt : filtre &apos;readme1.txt&apos; et &apos;readme2.txt&apos;, mai
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1545"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3281"/>
         <source>Receiver</source>
         <translation>Destinataire</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1548"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3283"/>
         <source>To:</source>
         <comment>To receiver</comment>
         <translation>À :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1558"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3284"/>
         <source>SMTP server:</source>
         <translation>Serveur SMTP :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1532"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3277"/>
         <source>Sender</source>
         <translation>Émetteur</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1535"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3279"/>
         <source>From:</source>
         <comment>From sender</comment>
         <translation>De :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1570"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3285"/>
         <source>This server requires a secure connection (SSL)</source>
         <translation>Nécessite une connexion sécurisée (SSL)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1577"/>
-        <location filename="../gui/optionsdialog.ui" line="3679"/>
+        <location filename="../gui/optionsdialog.ui" line="3739"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3286"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3476"/>
         <source>Authentication</source>
         <translation>Authentification</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1589"/>
         <location filename="../gui/optionsdialog.ui" line="2114"/>
-        <location filename="../gui/optionsdialog.ui" line="3687"/>
-        <location filename="../gui/optionsdialog.ui" line="4072"/>
+        <location filename="../gui/optionsdialog.ui" line="3747"/>
+        <location filename="../gui/optionsdialog.ui" line="4132"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3287"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3327"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3477"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3519"/>
         <source>Username:</source>
         <translation>Nom d&apos;utilisateur :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1599"/>
         <location filename="../gui/optionsdialog.ui" line="2124"/>
-        <location filename="../gui/optionsdialog.ui" line="3697"/>
-        <location filename="../gui/optionsdialog.ui" line="4082"/>
+        <location filename="../gui/optionsdialog.ui" line="3757"/>
+        <location filename="../gui/optionsdialog.ui" line="4142"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3288"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3328"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3478"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3520"/>
         <source>Password:</source>
         <translation>Mot de passe :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1632"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3290"/>
         <source>Run external program</source>
         <translation>Exécuter un programme externe</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1674"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3293"/>
         <source>Show console window</source>
         <translation>Afficher la fenêtre de la console</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1736"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3295"/>
         <source>TCP and μTP</source>
         <translation>TCP et μTP</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1769"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3297"/>
         <source>Listening Port</source>
         <translation>Port d&apos;écoute</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1777"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3298"/>
         <source>Port used for incoming connections:</source>
         <translation>Port pour les connexions entrantes :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1784"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3300"/>
         <source>Set to 0 to let your system pick an unused port</source>
         <translation>Régler sur 0 pour laisser votre système choisir un port inutilisé</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1797"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3303"/>
         <source>Random</source>
         <translation>Aléatoire</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1819"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3304"/>
         <source>Use UPnP / NAT-PMP port forwarding from my router</source>
         <translation>Utiliser la redirection de port sur mon routeur via UPnP/NAT-PMP</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1832"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3305"/>
         <source>Connections Limits</source>
         <translation>Limites de connexions</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1877"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3307"/>
         <source>Maximum number of connections per torrent:</source>
         <translation>Nombre maximum de connexions par torrent :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1838"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3306"/>
         <source>Global maximum number of connections:</source>
         <translation>Nombre maximum global de connexions :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1917"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3309"/>
         <source>Maximum number of upload slots per torrent:</source>
         <translation>Nombre maximum d&apos;emplacements d&apos;envoi par torrent :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1900"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3308"/>
         <source>Global maximum number of upload slots:</source>
         <translation>Nombre maximum global d&apos;emplacements d&apos;envoi :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2012"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3317"/>
         <source>Proxy Server</source>
         <translation>Serveur proxy</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2020"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3318"/>
         <source>Type:</source>
         <translation>Type :</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="893"/>
+        <location filename="../gui/optionsdialog.cpp" line="919"/>
         <source>SOCKS4</source>
         <translation>SOCKS4</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="894"/>
+        <location filename="../gui/optionsdialog.cpp" line="920"/>
         <source>SOCKS5</source>
         <translation>SOCKS5</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="895"/>
+        <location filename="../gui/optionsdialog.cpp" line="921"/>
         <source>HTTP</source>
         <translation>HTTP</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1951"/>
         <location filename="../gui/optionsdialog.ui" line="2030"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3311"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3319"/>
         <source>Host:</source>
         <translation>Hôte :</translation>
     </message>
@@ -7055,51 +7482,63 @@ readme[0-9].txt : filtre &apos;readme1.txt&apos; et &apos;readme2.txt&apos;, mai
         <location filename="../gui/optionsdialog.ui" line="1961"/>
         <location filename="../gui/optionsdialog.ui" line="2040"/>
         <location filename="../gui/optionsdialog.ui" line="3593"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3312"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3320"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3466"/>
         <source>Port:</source>
         <translation>Port :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2162"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3332"/>
         <source>Otherwise, the proxy server is only used for tracker connections</source>
         <translation>Dans le cas contraire, le proxy sera uniquement utilisé pour contacter les trackers</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2165"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3334"/>
         <source>Use proxy for peer connections</source>
         <translation>Utiliser le proxy pour se connecter aux pairs</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2100"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3326"/>
         <source>A&amp;uthentication</source>
         <translation>A&amp;uthentification</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2140"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3329"/>
         <source>Info: The password is saved unencrypted</source>
         <translation>Info&#x202f;: Le mot de passe est enregistré en texte clair</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2212"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3344"/>
         <source>Filter path (.dat, .p2p, .p2b):</source>
         <translation>Chemin du filtre (.dat, .p2p, .p2b) :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2222"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3346"/>
         <source>Reload the filter</source>
         <translation>Recharger le filtre</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2237"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3348"/>
         <source>Manually banned IP addresses...</source>
         <translation>Adresses IP bannies manuellement…</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2244"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3349"/>
         <source>Apply to trackers</source>
         <translation>Appliquer aux trackers</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2302"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3350"/>
         <source>Global Rate Limits</source>
         <translation>Limites de vitesse globales</translation>
     </message>
@@ -7111,6 +7550,13 @@ readme[0-9].txt : filtre &apos;readme1.txt&apos; et &apos;readme2.txt&apos;, mai
         <location filename="../gui/optionsdialog.ui" line="2843"/>
         <location filename="../gui/optionsdialog.ui" line="2876"/>
         <location filename="../gui/optionsdialog.ui" line="2896"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3352"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3355"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3359"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3362"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3413"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3415"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3417"/>
         <source>∞</source>
         <translation>∞</translation>
     </message>
@@ -7121,597 +7567,682 @@ readme[0-9].txt : filtre &apos;readme1.txt&apos; et &apos;readme2.txt&apos;, mai
         <location filename="../gui/optionsdialog.ui" line="2437"/>
         <location filename="../gui/optionsdialog.ui" line="2928"/>
         <location filename="../gui/optionsdialog.ui" line="2964"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3353"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3356"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3360"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3363"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3420"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3422"/>
         <source> KiB/s</source>
         <translation> Kio/s</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2311"/>
         <location filename="../gui/optionsdialog.ui" line="2388"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3351"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3358"/>
         <source>Upload:</source>
         <translation>Envoi :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2350"/>
         <location filename="../gui/optionsdialog.ui" line="2427"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3354"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3361"/>
         <source>Download:</source>
         <translation>Réception :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2379"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3357"/>
         <source>Alternative Rate Limits</source>
         <translation>Limites de vitesse alternatives</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2465"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3366"/>
         <source>Start time</source>
         <translation>Heure de début</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2495"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3370"/>
         <source>End time</source>
         <translation>Heure de fin</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2535"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3373"/>
         <source>When:</source>
         <translation>Quand :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2549"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3374"/>
         <source>Every day</source>
         <translation>Tous les jours</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2554"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3375"/>
         <source>Weekdays</source>
         <translation>Jours ouvrés</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2559"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3376"/>
         <source>Weekends</source>
         <translation>Week-ends</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2573"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3378"/>
         <source>Rate Limits Settings</source>
         <translation>Paramètres des limites de vitesse</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2593"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3381"/>
         <source>Apply rate limit to peers on LAN</source>
         <translation>Appliquer les limites de vitesse sur le réseau local</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2586"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3380"/>
         <source>Apply rate limit to transport overhead</source>
         <translation>Appliquer les limites de vitesse au surplus généré par le protocole</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1996"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3314"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If &quot;mixed mode&quot; is enabled I2P torrents are allowed to also get peers from other sources than the tracker, and connect to regular IPs, not providing any anonymization. This may be useful if the user is not interested in the anonymization of I2P, but still wants to be able to connect to I2P peers.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Si le « mode mixte » est activé, les torrents I2P sont également autorisés à obtenir des pairs provenant d&apos;autres sources que le trackeur et à se connecter à des IPs normales, sans fournir d&apos;anonymisation. Cela peut être utile si l&apos;utilisateur n&apos;est pas intéressé par l&apos;anonymisation de l&apos;I2P, mais souhaite tout de même pouvoir se connecter à des pairs I2P.</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2579"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3379"/>
         <source>Apply rate limit to µTP protocol</source>
         <translation>Appliquer les limites de vitesse au protocole µTP</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2651"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3382"/>
         <source>Privacy</source>
         <translation>Vie privée</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2660"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3386"/>
         <source>Enable DHT (decentralized network) to find more peers</source>
         <translation>Activer le DHT (réseau décentralisé) pour trouver plus de pairs</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2670"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3388"/>
         <source>Exchange peers with compatible Bittorrent clients (µTorrent, Vuze, ...)</source>
         <translation>Échanger des pairs avec les applications compatibles (µTorrent, Vuze…)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2673"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3390"/>
         <source>Enable Peer Exchange (PeX) to find more peers</source>
         <translation>Activer l&apos;échange de pairs (PeX) pour trouver plus de pairs</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2683"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3392"/>
         <source>Look for peers on your local network</source>
         <translation>Rechercher des pairs sur votre réseau local</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2686"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3394"/>
         <source>Enable Local Peer Discovery to find more peers</source>
         <translation>Activer la découverte de sources sur le réseau local</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2698"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3395"/>
         <source>Encryption mode:</source>
         <translation>Mode de chiffrement :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2716"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3397"/>
         <source>Require encryption</source>
         <translation>Chiffrement requis</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2721"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3398"/>
         <source>Disable encryption</source>
         <translation>Chiffrement désactivé</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2746"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3406"/>
         <source>Enable when using a proxy or a VPN connection</source>
         <translation>Activer lors de l&apos;utilisation d&apos;un proxy ou d&apos;une connexion VPN</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2749"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3408"/>
         <source>Enable anonymous mode</source>
         <translation>Activer le mode anonyme</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2836"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3412"/>
         <source>Maximum active downloads:</source>
         <translation>Nombre maximum de téléchargements actifs :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2869"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3414"/>
         <source>Maximum active uploads:</source>
         <translation>Nombre maximum d&apos;envois actifs :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2889"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3416"/>
         <source>Maximum active torrents:</source>
         <translation>Nombre maximum de torrents actifs :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2909"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3418"/>
         <source>Do not count slow torrents in these limits</source>
         <translation>Ne pas compter les torrents lents dans ces limites</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2957"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3421"/>
         <source>Upload rate threshold:</source>
         <translation>Limite de vitesse d&apos;envoi :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2921"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3419"/>
         <source>Download rate threshold:</source>
         <translation>Limite de vitesse de téléchargement :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2987"/>
         <location filename="../gui/optionsdialog.ui" line="3415"/>
-        <location filename="../gui/optionsdialog.ui" line="3785"/>
-        <location filename="../gui/optionsdialog.ui" line="3812"/>
+        <location filename="../gui/optionsdialog.ui" line="3845"/>
+        <location filename="../gui/optionsdialog.ui" line="3872"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3424"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3450"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3486"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3489"/>
         <source> sec</source>
         <extracomment>seconds</extracomment>
         <translation> sec.</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2980"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3423"/>
         <source>Torrent inactivity timer:</source>
         <translation>Minuterie d&apos;inactivité du torrent :</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3094"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3431"/>
         <source>then</source>
         <translation>alors</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="3615"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3467"/>
         <source>Use UPnP / NAT-PMP to forward the port from my router</source>
         <translation>Utiliser la redirection de port sur mon routeur via UPnP/NAT-PMP</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3640"/>
+        <location filename="../gui/optionsdialog.ui" line="3700"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3473"/>
         <source>Certificate:</source>
         <translation>Certificat :</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3653"/>
+        <location filename="../gui/optionsdialog.ui" line="3713"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3474"/>
         <source>Key:</source>
         <translation>Clé :</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3663"/>
+        <location filename="../gui/optionsdialog.ui" line="3723"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3475"/>
         <source>&lt;a href=https://httpd.apache.org/docs/current/ssl/ssl_faq.html#aboutcerts&gt;Information about certificates&lt;/a&gt;</source>
         <translation>&lt;a href=https://httpd.apache.org/docs/current/ssl/ssl_faq.html#aboutcerts&gt;Information sur les certificats&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3707"/>
+        <location filename="../gui/optionsdialog.ui" line="3767"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3479"/>
         <source>Change current password</source>
         <translation>Changer le mot de passe actuel</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3854"/>
+        <location filename="../gui/optionsdialog.ui" line="3914"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3491"/>
         <source>Files location:</source>
         <translation>Emplacement des fichiers :</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3866"/>
+        <location filename="../gui/optionsdialog.ui" line="3926"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3492"/>
         <source>&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs&quot;&gt;List of alternative WebUI&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs&quot;&gt;Liste des IU Web alternatives&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3882"/>
+        <location filename="../gui/optionsdialog.ui" line="3942"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3493"/>
         <source>Security</source>
         <translation>Sécurité</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3888"/>
+        <location filename="../gui/optionsdialog.ui" line="3948"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3494"/>
         <source>Enable clickjacking protection</source>
         <translation>Activer la protection contre le détournement de clic</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3895"/>
+        <location filename="../gui/optionsdialog.ui" line="3955"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3495"/>
         <source>Enable Cross-Site Request Forgery (CSRF) protection</source>
         <translation>Activer la protection contre la falsification de requêtes intersites (CSRF)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3902"/>
+        <location filename="../gui/optionsdialog.ui" line="3962"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3496"/>
         <source>Enable cookie Secure flag (requires HTTPS or localhost connection)</source>
         <translation>Activer l&apos;attribut « Secure » des cookies (nécessite une connexion HTTPS ou localhost)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3909"/>
+        <location filename="../gui/optionsdialog.ui" line="3969"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3497"/>
         <source>Enable Host header validation</source>
         <translation>Activer la validation de l&apos;en-tête hôte</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3946"/>
+        <location filename="../gui/optionsdialog.ui" line="4006"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3506"/>
         <source>Add custom HTTP headers</source>
         <translation>Ajouter des en-têtes HTTP personnalisées</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3961"/>
+        <location filename="../gui/optionsdialog.ui" line="4021"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3507"/>
         <source>Header: value pairs, one per line</source>
         <translation>En-tête : paires clé-valeur, une par ligne</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3971"/>
+        <location filename="../gui/optionsdialog.ui" line="4031"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3508"/>
         <source>Enable reverse proxy support</source>
         <translation>Activer la prise en charge du proxy inverse</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3982"/>
+        <location filename="../gui/optionsdialog.ui" line="4042"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3509"/>
         <source>Trusted proxies list:</source>
         <translation>Liste des proxys de confiance :</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="3998"/>
+        <location filename="../gui/optionsdialog.ui" line="4058"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3513"/>
         <source>&lt;a href=https://github.com/qbittorrent/qBittorrent/wiki#reverse-proxy-setup-for-webui-access&gt;Reverse proxy setup examples&lt;/a&gt;</source>
         <translation>&lt;a href=https://github.com/qbittorrent/qBittorrent/wiki#reverse-proxy-setup-for-webui-access&gt;Exemples de configuration de proxy inverse&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="4026"/>
+        <location filename="../gui/optionsdialog.ui" line="4086"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3515"/>
         <source>Service:</source>
         <translation>Service :</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="4049"/>
+        <location filename="../gui/optionsdialog.ui" line="4109"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3517"/>
         <source>Register</source>
         <translation>S&apos;inscrire</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.ui" line="4058"/>
+        <location filename="../gui/optionsdialog.ui" line="4118"/>
+        <location filename="../../build/src/gui/ui_optionsdialog.h" line="3518"/>
         <source>Domain name:</source>
         <translation>Nom de domaine :</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="584"/>
+        <location filename="../gui/optionsdialog.cpp" line="610"/>
         <source>By enabling these options, you can &lt;strong&gt;irrevocably lose&lt;/strong&gt; your .torrent files!</source>
         <translation>En activant ces options, vous pouvez &lt;strong&gt;perdre à tout jamais&lt;/strong&gt; vos fichiers .torrent !</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="591"/>
+        <location filename="../gui/optionsdialog.cpp" line="617"/>
         <source>If you enable the second option (&amp;ldquo;Also when addition is cancelled&amp;rdquo;) the .torrent file &lt;strong&gt;will be deleted&lt;/strong&gt; even if you press &amp;ldquo;&lt;strong&gt;Cancel&lt;/strong&gt;&amp;rdquo; in the &amp;ldquo;Add torrent&amp;rdquo; dialog</source>
         <translation>Si vous activez la seconde option (également lorsque l&apos;ajout est annulé), le fichier .torrent &lt;strong&gt;sera supprimé&lt;/strong&gt; même si vous appuyez sur «&lt;strong&gt;Annuler&lt;/strong&gt;» dans la boîte de dialogue « Ajouter un torrent »</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="254"/>
+        <location filename="../gui/optionsdialog.cpp" line="280"/>
         <source>Select qBittorrent UI Theme file</source>
         <translation>Sélectionner le fichier de thème d&apos;lU qBittorrent</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1312"/>
+        <location filename="../gui/optionsdialog.cpp" line="1338"/>
         <source>Choose Alternative UI files location</source>
         <translation>Choisir l&apos;emplacement des fichiers d&apos;IU alternatives</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="664"/>
+        <location filename="../gui/optionsdialog.cpp" line="690"/>
         <source>Supported parameters (case sensitive):</source>
         <translation>Paramètres supportés (sensibles à la casse)&#x202f; :</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="298"/>
+        <location filename="../gui/optionsdialog.cpp" line="324"/>
         <source>Minimized</source>
         <translation>Réduite</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="300"/>
+        <location filename="../gui/optionsdialog.cpp" line="326"/>
         <source>Hidden</source>
         <translation>Cachée</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="315"/>
+        <location filename="../gui/optionsdialog.cpp" line="341"/>
         <source>Disabled due to failed to detect system tray presence</source>
         <translation>Désactivé en raison de l&apos;échec de la détection d&apos;une présence dans la barre des tâches</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="556"/>
+        <location filename="../gui/optionsdialog.cpp" line="582"/>
         <source>No stop condition is set.</source>
         <translation>Aucune condition d&apos;arrêt n&apos;est définie.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="557"/>
+        <location filename="../gui/optionsdialog.cpp" line="583"/>
         <source>Torrent will stop after metadata is received.</source>
         <translation>Le torrent s&apos;arrêtera après la réception des métadonnées.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="559"/>
+        <location filename="../gui/optionsdialog.cpp" line="585"/>
         <source>Torrent will stop after files are initially checked.</source>
         <translation>Le torrent s&apos;arrêtera après la vérification initiale des fichiers.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="560"/>
+        <location filename="../gui/optionsdialog.cpp" line="586"/>
         <source>This will also download metadata if it wasn&apos;t there initially.</source>
         <translation>Cela téléchargera également les métadonnées si elles n&apos;y étaient pas initialement.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="665"/>
+        <location filename="../gui/optionsdialog.cpp" line="691"/>
         <source>%N: Torrent name</source>
         <translation>%N&#x202f;: Nom du torrent</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="666"/>
+        <location filename="../gui/optionsdialog.cpp" line="692"/>
         <source>%L: Category</source>
         <translation>%L&#x202f;: Catégorie</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="668"/>
+        <location filename="../gui/optionsdialog.cpp" line="694"/>
         <source>%F: Content path (same as root path for multifile torrent)</source>
         <translation>%F&#x202f;: Répertoire du contenu (le même que le répertoire racine pour les torrents composés de plusieurs fichiers)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="669"/>
+        <location filename="../gui/optionsdialog.cpp" line="695"/>
         <source>%R: Root path (first torrent subdirectory path)</source>
         <translation>%R : Répertoire racine (premier répertoire du sous-dossier du torrent)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="670"/>
+        <location filename="../gui/optionsdialog.cpp" line="696"/>
         <source>%D: Save path</source>
         <translation>%D : Répertoire de destination</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="671"/>
+        <location filename="../gui/optionsdialog.cpp" line="697"/>
         <source>%C: Number of files</source>
         <translation>%C&#x202f;: Nombre de fichiers</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="672"/>
+        <location filename="../gui/optionsdialog.cpp" line="698"/>
         <source>%Z: Torrent size (bytes)</source>
         <translation>%Z&#x202f;: Taille du torrent (en octets)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="673"/>
+        <location filename="../gui/optionsdialog.cpp" line="699"/>
         <source>%T: Current tracker</source>
         <translation>%T&#x202f;: Tracker actuel</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="677"/>
+        <location filename="../gui/optionsdialog.cpp" line="703"/>
         <source>Tip: Encapsulate parameter with quotation marks to avoid text being cut off at whitespace (e.g., &quot;%N&quot;)</source>
         <translation>Astuce : Encapsuler le paramètre entre guillemets pour éviter que le texte soit coupé au niveau des espaces (p. ex. &quot;%N&quot;)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="742"/>
+        <location filename="../gui/optionsdialog.cpp" line="768"/>
         <source>Test email</source>
         <translation>Courriel test</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="742"/>
+        <location filename="../gui/optionsdialog.cpp" line="768"/>
         <source>Attempted to send email. Check your inbox to confirm success</source>
         <translation>Tentative d&apos;envoi d&apos;un courriel. Vérifiez votre boîte de réception pour confirmer la réussite</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="892"/>
+        <location filename="../gui/optionsdialog.cpp" line="918"/>
         <source>(None)</source>
         <translation>(Aucun)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1091"/>
+        <location filename="../gui/optionsdialog.cpp" line="1117"/>
         <source>A torrent will be considered slow if its download and upload rates stay below these values for &quot;Torrent inactivity timer&quot; seconds</source>
         <translation>Un torrent sera considéré comme lent si ses vitesses de réception et d&apos;envoi restent en dessous des valeurs en secondes du « Minuteur d&apos;inactivité du torrent »</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1306"/>
+        <location filename="../gui/optionsdialog.cpp" line="1332"/>
         <source>Certificate</source>
         <translation>Certificat</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1307"/>
+        <location filename="../gui/optionsdialog.cpp" line="1333"/>
         <source>Select certificate</source>
         <translation>Sélectionner un certificat</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1309"/>
+        <location filename="../gui/optionsdialog.cpp" line="1335"/>
         <source>Private key</source>
         <translation>Clé privée</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1310"/>
+        <location filename="../gui/optionsdialog.cpp" line="1336"/>
         <source>Select private key</source>
         <translation>Sélectionner une clé privée</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1315"/>
+        <location filename="../gui/optionsdialog.cpp" line="1341"/>
         <source>WebUI configuration failed. Reason: %1</source>
         <translation>La configuration de l&apos;IU Web a échoué. Raison : %1</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1740"/>
+        <location filename="../gui/optionsdialog.cpp" line="1770"/>
         <source>%1 is recommended for best compatibility with Windows dark mode</source>
         <comment>Fusion is recommended for best compatibility with Windows dark mode</comment>
         <translation>%1 est recommandé pour une meilleure compatibilité avec le mode sombre de Windows</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1742"/>
+        <location filename="../gui/optionsdialog.cpp" line="1772"/>
         <source>System</source>
         <comment>System default Qt style</comment>
         <translation>Système</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1743"/>
+        <location filename="../gui/optionsdialog.cpp" line="1773"/>
         <source>Let Qt decide the style for this system</source>
         <translation>Laisser Qt décider du style pour ce système</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1768"/>
+        <location filename="../gui/optionsdialog.cpp" line="1798"/>
         <source>Dark</source>
         <comment>Dark color scheme</comment>
         <translation>Sombre</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1769"/>
+        <location filename="../gui/optionsdialog.cpp" line="1799"/>
         <source>Light</source>
         <comment>Light color scheme</comment>
         <translation>Clair</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1770"/>
+        <location filename="../gui/optionsdialog.cpp" line="1800"/>
         <source>System</source>
         <comment>System color scheme</comment>
         <translation>Système</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1893"/>
+        <location filename="../gui/optionsdialog.cpp" line="1923"/>
         <source>Select folder to monitor</source>
         <translation>Sélectionner un dossier à surveiller</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="1915"/>
+        <location filename="../gui/optionsdialog.cpp" line="1945"/>
         <source>Adding entry failed</source>
         <translation>Impossible d&apos;ajouter l&apos;entrée</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2014"/>
+        <location filename="../gui/optionsdialog.cpp" line="2044"/>
         <source>The WebUI username must be at least 3 characters long.</source>
         <translation>Le nom d&apos;utilisateur pour l&apos;IU Web doit comporter au moins 3 caractères.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2021"/>
+        <location filename="../gui/optionsdialog.cpp" line="2051"/>
         <source>The WebUI password must be at least 6 characters long.</source>
         <translation>Le mot de passe pour l&apos;IU Web doit comporter au moins 6 caractères.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2031"/>
+        <location filename="../gui/optionsdialog.cpp" line="2061"/>
         <source>Location Error</source>
         <translation>Erreur d&apos;emplacement</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="621"/>
-        <location filename="../gui/optionsdialog.cpp" line="629"/>
+        <location filename="../gui/optionsdialog.cpp" line="647"/>
+        <location filename="../gui/optionsdialog.cpp" line="655"/>
         <source>Choose export directory</source>
         <translation>Choisir un dossier pour l&apos;exportation</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="586"/>
+        <location filename="../gui/optionsdialog.cpp" line="612"/>
         <source>When these options are enabled, qBittorrent will &lt;strong&gt;delete&lt;/strong&gt; .torrent files after they were successfully (the first option) or not (the second option) added to its download queue. This will be applied &lt;strong&gt;not only&lt;/strong&gt; to the files opened via &amp;ldquo;Add torrent&amp;rdquo; menu action but to those opened via &lt;strong&gt;file type association&lt;/strong&gt; as well</source>
         <translation>Lorsque ces options sont actives, qBittorrent va &lt;strong&gt;supprimer&lt;/strong&gt; les fichiers .torrent après qu&apos;ils aient été ajoutés à la file d’attente de téléchargement avec succès (première option) ou non (seconde option). Ceci sera appliqué &lt;strong&gt;non seulement&lt;/strong&gt; aux fichiers ouverts via l&apos;action du menu &amp;ldquo;Ajouter un torrent&amp;rdquo; mais également à ceux ouverts via &lt;strong&gt;l&apos;association de types de fichiers&lt;/strong&gt;</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="255"/>
+        <location filename="../gui/optionsdialog.cpp" line="281"/>
         <source>qBittorrent UI Theme file (*.qbtheme config.json)</source>
         <translation>Fichier de thème d&apos;IU qBittorrent (*.qbtheme config.json)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="667"/>
+        <location filename="../gui/optionsdialog.cpp" line="693"/>
         <source>%G: Tags (separated by comma)</source>
         <translation>%G : Étiquettes (séparées par des virgules)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="674"/>
+        <location filename="../gui/optionsdialog.cpp" line="700"/>
         <source>%I: Info hash v1 (or &apos;-&apos; if unavailable)</source>
         <translation>%I : Info hash v1 (ou &apos;-&apos; si indisponible)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="675"/>
+        <location filename="../gui/optionsdialog.cpp" line="701"/>
         <source>%J: Info hash v2 (or &apos;-&apos; if unavailable)</source>
         <translation>%J : info hash v2 (ou &apos;-&apos; si indisponible)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="676"/>
+        <location filename="../gui/optionsdialog.cpp" line="702"/>
         <source>%K: Torrent ID (either sha-1 info hash for v1 torrent or truncated sha-256 info hash for v2/hybrid torrent)</source>
         <translation>%K : ID du torrent (soit l&apos;info hash SHA-1 pour un torrent v1 ou l&apos;info hash tronquée SHA-256 pour un torrent v2/hybride)</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="342"/>
-        <location filename="../gui/optionsdialog.cpp" line="609"/>
-        <location filename="../gui/optionsdialog.cpp" line="614"/>
+        <location filename="../gui/optionsdialog.cpp" line="368"/>
+        <location filename="../gui/optionsdialog.cpp" line="635"/>
+        <location filename="../gui/optionsdialog.cpp" line="640"/>
         <source>Choose a save directory</source>
         <translation>Choisir un dossier de sauvegarde</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="558"/>
+        <location filename="../gui/optionsdialog.cpp" line="584"/>
         <source>Torrents that have metadata initially will be added as stopped.</source>
         <translation>Les torrents qui ont initialement des métadonnées seront ajoutés comme arrêtés.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="912"/>
+        <location filename="../gui/optionsdialog.cpp" line="938"/>
         <source>Choose an IP filter file</source>
         <translation>Choisissez un fichier de filtre IP</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="914"/>
+        <location filename="../gui/optionsdialog.cpp" line="940"/>
         <source>All supported filters</source>
         <translation>Tous les filtres supportés</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2031"/>
+        <location filename="../gui/optionsdialog.cpp" line="2061"/>
         <source>The alternative WebUI files location cannot be blank.</source>
         <translation>L&apos;emplacement des fichiers pour l&apos;IU Web alternative ne peut pas être vide.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2068"/>
+        <location filename="../gui/optionsdialog.cpp" line="2091"/>
+        <source>Add MIME type override</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/optionsdialog.cpp" line="2092"/>
+        <source>Failed to add MIME type override. Ensure the extension is unique and both fields are not empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/optionsdialog.cpp" line="2115"/>
+        <source>Edit MIME type override</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/optionsdialog.cpp" line="2116"/>
+        <source>Failed to update MIME type override. Ensure the extension is unique and both fields are not empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/optionsdialog.cpp" line="2167"/>
         <source>Parsing error</source>
         <translation>Erreur lors de l&apos;analyse syntaxique</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2068"/>
+        <location filename="../gui/optionsdialog.cpp" line="2167"/>
         <source>Failed to parse the provided IP filter</source>
         <translation>Impossible de charger le filtre IP fourni</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2070"/>
+        <location filename="../gui/optionsdialog.cpp" line="2169"/>
         <source>Successfully refreshed</source>
         <translation>Actualisation réussie</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2070"/>
+        <location filename="../gui/optionsdialog.cpp" line="2169"/>
         <source>Successfully parsed the provided IP filter: %1 rules were applied.</source>
         <comment>%1 is a number</comment>
         <translation>Le filtre IP a été correctement chargé : %1 règles ont été appliquées.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="154"/>
+        <location filename="../gui/optionsdialog.cpp" line="161"/>
         <source>Preferences</source>
         <translation>Préférences</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2079"/>
+        <location filename="../gui/optionsdialog.cpp" line="2178"/>
         <source>Time Error</source>
         <translation>Erreur de temps</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2079"/>
+        <location filename="../gui/optionsdialog.cpp" line="2178"/>
         <source>The start time and the end time can&apos;t be the same.</source>
         <translation>Les heures de début et de fin ne peuvent pas être identiques.</translation>
     </message>
     <message>
-        <location filename="../gui/optionsdialog.cpp" line="2014"/>
-        <location filename="../gui/optionsdialog.cpp" line="2021"/>
+        <location filename="../gui/optionsdialog.cpp" line="2044"/>
+        <location filename="../gui/optionsdialog.cpp" line="2051"/>
         <source>Length Error</source>
         <translation>Erreur de longueur</translation>
     </message>
@@ -7967,16 +8498,19 @@ readme[0-9].txt : filtre &apos;readme1.txt&apos; et &apos;readme2.txt&apos;, mai
     <name>PeersAdditionDialog</name>
     <message>
         <location filename="../gui/properties/peersadditiondialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_peersadditiondialog.h" line="66"/>
         <source>Add Peers</source>
         <translation>Ajouter des pairs</translation>
     </message>
     <message>
         <location filename="../gui/properties/peersadditiondialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_peersadditiondialog.h" line="67"/>
         <source>List of peers to add (one IP per line):</source>
         <translation>Liste des pairs à ajouter (une IP par ligne) :</translation>
     </message>
     <message>
         <location filename="../gui/properties/peersadditiondialog.ui" line="36"/>
+        <location filename="../../build/src/gui/ui_peersadditiondialog.h" line="68"/>
         <source>Format: IPv4:port / [IPv6]:port</source>
         <translation>Format: IPv4:port / [IPv6]:port</translation>
     </message>
@@ -8046,62 +8580,75 @@ readme[0-9].txt : filtre &apos;readme1.txt&apos; et &apos;readme2.txt&apos;, mai
     <name>PluginSelectDialog</name>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="17"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="116"/>
         <source>Search plugins</source>
         <translation>Greffons de recherche</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="29"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="119"/>
         <source>Installed search plugins:</source>
         <translation>Greffons de recherche installés :</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="52"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="124"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="57"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="123"/>
         <source>Version</source>
         <translation>Version</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="62"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="122"/>
         <source>Url</source>
         <translation>URL</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="67"/>
         <location filename="../gui/search/pluginselectdialog.ui" line="133"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="117"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="121"/>
         <source>Enabled</source>
         <translation>Activé</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="80"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="125"/>
         <source>Warning: Be sure to comply with your country&apos;s copyright laws when downloading torrents from any of these search engines.</source>
         <translation>Avertissement : Assurez-vous d&apos;être en conformité avec les lois sur le droit d&apos;auteur de votre pays lorsque vous téléchargez des torrents à partir d&apos;un de ces moteurs de recherche.</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="95"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="126"/>
         <source>You can get new search engine plugins here: &lt;a href=&quot;https://plugins.qbittorrent.org&quot;&gt;https://plugins.qbittorrent.org&lt;/a&gt;</source>
         <translation>Vous pouvez obtenir de nouveaux greffons de recherche ici : &lt;a href=&quot;https://plugins.qbittorrent.org&quot;&gt;https://plugins.qbittorent.org&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="107"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="127"/>
         <source>Install a new one</source>
         <translation>Installer un nouveau</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="114"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="128"/>
         <source>Check for updates</source>
         <translation>Vérifier les mises à jour</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="121"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="129"/>
         <source>Close</source>
         <translation>Fermer</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginselectdialog.ui" line="138"/>
+        <location filename="../../build/src/gui/ui_pluginselectdialog.h" line="118"/>
         <source>Uninstall</source>
         <translation>Désinstaller</translation>
     </message>
@@ -8216,21 +8763,25 @@ Those plugins were disabled.</source>
     <name>PluginSourceDialog</name>
     <message>
         <location filename="../gui/search/pluginsourcedialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_pluginsourcedialog.h" line="70"/>
         <source>Plugin source</source>
         <translation>Source du greffon</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginsourcedialog.ui" line="26"/>
+        <location filename="../../build/src/gui/ui_pluginsourcedialog.h" line="71"/>
         <source>Search plugin source:</source>
         <translation>Source du greffon de recherche :</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginsourcedialog.ui" line="35"/>
+        <location filename="../../build/src/gui/ui_pluginsourcedialog.h" line="72"/>
         <source>Local file</source>
         <translation>Fichier local</translation>
     </message>
     <message>
         <location filename="../gui/search/pluginsourcedialog.ui" line="42"/>
+        <location filename="../../build/src/gui/ui_pluginsourcedialog.h" line="73"/>
         <source>Web link</source>
         <translation>Lien Web</translation>
     </message>
@@ -8317,6 +8868,7 @@ Those plugins were disabled.</source>
     </message>
     <message>
         <location filename="../gui/previewselectdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_previewselectdialog.h" line="66"/>
         <source>Preview selection</source>
         <translation>Sélection du fichier à prévisualiser</translation>
     </message>
@@ -8399,173 +8951,208 @@ Those plugins were disabled.</source>
     <name>PropertiesWidget</name>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="262"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="794"/>
         <source>Downloaded:</source>
         <translation>Téléchargé :</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="117"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="789"/>
         <source>Availability:</source>
         <translation>Disponibilité :</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="81"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="788"/>
         <source>Progress:</source>
         <translation>Progression&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="157"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="790"/>
         <source>Transfer</source>
         <translation>Transfert</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="175"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="791"/>
         <source>Time Active:</source>
         <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Actif pendant&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="204"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="792"/>
         <source>ETA:</source>
         <translation>Temps restant&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="291"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="795"/>
         <source>Uploaded:</source>
         <translation>Envoyé :</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="320"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="796"/>
         <source>Seeds:</source>
         <translation>Sources&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="349"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="797"/>
         <source>Download Speed:</source>
         <translation>Vitesse de téléchargement&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="378"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="798"/>
         <source>Upload Speed:</source>
         <translation>Vitesse d&apos;émission&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="407"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="799"/>
         <source>Peers:</source>
         <translation>Pairs&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="436"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="800"/>
         <source>Download Limit:</source>
         <translation>Limite de téléchargement&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="465"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="801"/>
         <source>Upload Limit:</source>
         <translation>Limite d&apos;envoi&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="494"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="802"/>
         <source>Wasted:</source>
         <translation>Gaspillé :</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="233"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="793"/>
         <source>Connections:</source>
         <translation>Connexions :</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="642"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="813"/>
         <source>Information</source>
         <translation>Informations</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="866"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="821"/>
         <source>Info Hash v1:</source>
         <translation>Info hash v1 :</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="898"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="822"/>
         <source>Info Hash v2:</source>
         <translation>Info hash v2 :</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="965"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="824"/>
         <source>Comment:</source>
         <translation>Commentaire :</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="1125"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="825"/>
         <source>Select All</source>
         <translation>Tout sélectionner</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="1132"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="826"/>
         <source>Select None</source>
         <translation>Ne rien sélectionner</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="523"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="803"/>
         <source>Share Ratio:</source>
         <translation>Ratio de partage&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="552"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="804"/>
         <source>Reannounce In:</source>
         <translation>Annoncer dans&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="581"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="805"/>
         <source>Last Seen Complete:</source>
         <translation>Dernière fois vu complet&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="610"/>
         <location filename="../gui/properties/propertieswidget.ui" line="629"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="807"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="811"/>
         <source>Ratio / Time Active (in months), indicates how popular the torrent is</source>
         <translation>Ratio / Temps Actif (en mois), indique la popularité du torrent</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="613"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="809"/>
         <source>Popularity:</source>
         <translation>Popularité :</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="660"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="814"/>
         <source>Total Size:</source>
         <translation>Taille totale&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="689"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="815"/>
         <source>Pieces:</source>
         <translation>Morceaux&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="718"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="816"/>
         <source>Created By:</source>
         <translation>Créé par&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="747"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="817"/>
         <source>Added On:</source>
         <translation>Ajouté le&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="776"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="818"/>
         <source>Completed On:</source>
         <translation>Complété le&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="805"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="819"/>
         <source>Created On:</source>
         <translation>Créé le&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="834"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="820"/>
         <source>Private:</source>
         <translation>Privé :</translation>
     </message>
     <message>
         <location filename="../gui/properties/propertieswidget.ui" line="930"/>
+        <location filename="../../build/src/gui/ui_propertieswidget.h" line="823"/>
         <source>Save Path:</source>
         <translation>Répertoire de destination :</translation>
     </message>
@@ -8894,16 +9481,19 @@ Those plugins were disabled.</source>
     <name>RSSWidget</name>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="17"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="180"/>
         <source>Search</source>
         <translation>Rechercher</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="31"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="210"/>
         <source>Fetching of RSS feeds is disabled now! You can enable it in application settings.</source>
         <translation>La récupération de flux RSS est actuellement désactivée ! Vous pouvez l&apos;activer depuis les paramètres de l&apos;application.</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="43"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="211"/>
         <source>New subscription</source>
         <translation>Nouvel abonnement</translation>
     </message>
@@ -8911,89 +9501,111 @@ Those plugins were disabled.</source>
         <location filename="../gui/rss/rsswidget.ui" line="50"/>
         <location filename="../gui/rss/rsswidget.ui" line="175"/>
         <location filename="../gui/rss/rsswidget.ui" line="178"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="198"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="200"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="212"/>
         <source>Mark items read</source>
         <translation>Marquer comme lu</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="57"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="214"/>
         <source>Refresh RSS streams</source>
         <translation>Rafraîchir les flux RSS</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="60"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="216"/>
         <source>Update all</source>
         <translation>Tout mettre à jour</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="80"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="217"/>
         <source>RSS Downloader...</source>
         <translation>Gestionnaire de téléchargement RSS…</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="108"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="218"/>
         <source>Torrents: (double-click to download)</source>
         <translation>Torrents&#x202f;: (double-clic pour télécharger)</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="138"/>
         <location filename="../gui/rss/rsswidget.ui" line="141"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="181"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="183"/>
         <source>Delete</source>
         <translation>Supprimer</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="146"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="185"/>
         <source>Rename...</source>
         <translation>Renommer…</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="149"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="187"/>
         <source>Rename</source>
         <translation>Renommer</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="154"/>
         <location filename="../gui/rss/rsswidget.ui" line="157"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="189"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="191"/>
         <source>Update</source>
         <translation>Mettre à jour</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="162"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="193"/>
         <source>New subscription...</source>
         <translation>Nouvel abonnement…</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="167"/>
         <location filename="../gui/rss/rsswidget.ui" line="170"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="194"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="196"/>
         <source>Update all feeds</source>
         <translation>Mettre à jour tous les flux</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="183"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="202"/>
         <source>Download torrent</source>
         <translation>Télécharger le torrent</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="188"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="203"/>
         <source>Open news URL</source>
         <translation>Ouvrir l&apos;URL des actualités</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="193"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="204"/>
         <source>Copy feed URL</source>
         <translation>Copier l&apos;URL du flux</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="198"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="205"/>
         <source>New folder...</source>
         <translation>Nouveau dossier…</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="203"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="206"/>
         <source>Edit feed URL...</source>
         <translation>Éditer l&apos;URL du flux…</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.ui" line="206"/>
+        <location filename="../../build/src/gui/ui_rsswidget.h" line="208"/>
         <source>Edit feed URL</source>
         <translation>Éditer l&apos;URL du flux</translation>
     </message>
@@ -9133,68 +9745,83 @@ Those plugins were disabled.</source>
     <name>SearchJobWidget</name>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="19"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="168"/>
         <source>Results(xxx)</source>
         <translation>Résultats (xxx)</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="39"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="169"/>
         <source>Search in:</source>
         <translation>Rechercher dans :</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="46"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="171"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Some search engines search in torrent description and in torrent file names too. Whether such results will be shown in the list below is controlled by this mode.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Everywhere &lt;/span&gt;disables filtering and shows everything returned by the search engines.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Torrent names only&lt;/span&gt; shows only torrents whose names match the search query.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; Certains moteurs de recherche cherchent également dans la description du torrent et dans les noms des fichiers torrent. L&apos;affichage de ces résultats dans la liste ci-dessous est contrôlé par ce mode.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Partout&lt;/span&gt; désactive le filtrage et affiche tout ce qui est renvoyé par les moteurs de recherche.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Noms de torrent seulement&lt;/span&gt; ne montrent que les torrents dont les noms correspondent à la requête de recherche.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="69"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="174"/>
         <source>Set minimum and maximum allowed number of seeders</source>
         <translation>Définir le nombre minimum et le nombre maximum autorisé de sources</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="79"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="178"/>
         <source>Minimum number of seeds</source>
         <translation>Nombre minimum de sources</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="96"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="182"/>
         <source>Maximum number of seeds</source>
         <translation>Nombre maximum de sources</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="125"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="186"/>
         <source>Set minimum and maximum allowed size of a torrent</source>
         <translation>Définir la taille minimale et la taille maximale autorisée d’un torrent</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="137"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="190"/>
         <source>Minimum torrent size</source>
         <translation>Taille minimale d’un torrent</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="161"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="194"/>
         <source>Maximum torrent size</source>
         <translation>Taille maximale d’un torrent</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="72"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="176"/>
         <source>Seeds:</source>
         <translation>Sources&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="89"/>
         <location filename="../gui/search/searchjobwidget.ui" line="152"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="180"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="192"/>
         <source>to</source>
         <translation>à</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="99"/>
         <location filename="../gui/search/searchjobwidget.ui" line="164"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="184"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="196"/>
         <source>∞</source>
         <translation>∞</translation>
     </message>
     <message>
         <location filename="../gui/search/searchjobwidget.ui" line="128"/>
+        <location filename="../../build/src/gui/ui_searchjobwidget.h" line="188"/>
         <source>Size:</source>
         <translation>Taille :</translation>
     </message>
@@ -9476,11 +10103,14 @@ Those plugins were disabled.</source>
     <message>
         <location filename="../gui/search/searchwidget.ui" line="14"/>
         <location filename="../gui/search/searchwidget.ui" line="51"/>
+        <location filename="../../build/src/gui/ui_searchwidget.h" line="152"/>
+        <location filename="../../build/src/gui/ui_searchwidget.h" line="153"/>
         <source>Search</source>
         <translation>Recherche</translation>
     </message>
     <message>
         <location filename="../gui/search/searchwidget.ui" line="86"/>
+        <location filename="../../build/src/gui/ui_searchwidget.h" line="155"/>
         <source>There aren&apos;t any search plugins installed.
 Click the &quot;Search plugins...&quot; button at the bottom right of the window to install some.</source>
         <translation>Il n&apos;y a aucun greffon de recherche installé.
@@ -9488,6 +10118,7 @@ Cliquez sur le bouton « Recherche de greffons… » en bas à droite de la fen�
     </message>
     <message>
         <location filename="../gui/search/searchwidget.ui" line="142"/>
+        <location filename="../../build/src/gui/ui_searchwidget.h" line="157"/>
         <source>Search plugins...</source>
         <translation>Greffons de recherche…</translation>
     </message>
@@ -9579,6 +10210,7 @@ Cliquez sur le bouton « Recherche de greffons… » en bas à droite de la fen�
     </message>
     <message>
         <location filename="../gui/search/searchwidget.ui" line="58"/>
+        <location filename="../../build/src/gui/ui_searchwidget.h" line="154"/>
         <location filename="../gui/search/searchwidget.cpp" line="832"/>
         <source>Stop</source>
         <translation>Arrêter</translation>
@@ -9644,6 +10276,7 @@ Cliquez sur le bouton « Recherche de greffons… » en bas à droite de la fen�
     <name>ShutdownConfirmDialog</name>
     <message>
         <location filename="../gui/shutdownconfirmdialog.ui" line="64"/>
+        <location filename="../../build/src/gui/ui_shutdownconfirmdialog.h" line="96"/>
         <source>Don&apos;t show again</source>
         <translation>Ne plus afficher</translation>
     </message>
@@ -9717,17 +10350,21 @@ Cliquez sur le bouton « Recherche de greffons… » en bas à droite de la fen�
     <name>SpeedLimitDialog</name>
     <message>
         <location filename="../gui/speedlimitdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="173"/>
         <source>Global Speed Limits</source>
         <translation>Limites de vitesse globales</translation>
     </message>
     <message>
         <location filename="../gui/speedlimitdialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="174"/>
         <source>Speed limits</source>
         <translation>Limites de vitesse</translation>
     </message>
     <message>
         <location filename="../gui/speedlimitdialog.ui" line="33"/>
         <location filename="../gui/speedlimitdialog.ui" line="109"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="176"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="184"/>
         <source>Upload:</source>
         <translation>Envoi :</translation>
     </message>
@@ -9736,6 +10373,10 @@ Cliquez sur le bouton « Recherche de greffons… » en bas à droite de la fen�
         <location filename="../gui/speedlimitdialog.ui" line="77"/>
         <location filename="../gui/speedlimitdialog.ui" line="123"/>
         <location filename="../gui/speedlimitdialog.ui" line="153"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="177"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="180"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="185"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="188"/>
         <source>∞</source>
         <translation>∞</translation>
     </message>
@@ -9744,17 +10385,24 @@ Cliquez sur le bouton « Recherche de greffons… » en bas à droite de la fen�
         <location filename="../gui/speedlimitdialog.ui" line="80"/>
         <location filename="../gui/speedlimitdialog.ui" line="126"/>
         <location filename="../gui/speedlimitdialog.ui" line="156"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="178"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="181"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="186"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="189"/>
         <source> KiB/s</source>
         <translation> Kio/s</translation>
     </message>
     <message>
         <location filename="../gui/speedlimitdialog.ui" line="63"/>
         <location filename="../gui/speedlimitdialog.ui" line="139"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="179"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="187"/>
         <source>Download:</source>
         <translation>Téléchargement :</translation>
     </message>
     <message>
         <location filename="../gui/speedlimitdialog.ui" line="96"/>
+        <location filename="../../build/src/gui/ui_speedlimitdialog.h" line="182"/>
         <source>Alternative speed limits</source>
         <translation>Limites de vitesse alternatives</translation>
     </message>
@@ -9914,6 +10562,7 @@ Cliquez sur le bouton « Recherche de greffons… » en bas à droite de la fen�
     <name>StacktraceDialog</name>
     <message>
         <location filename="../gui/stacktracedialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_stacktracedialog.h" line="47"/>
         <source>Crash info</source>
         <translation>Information de plantage</translation>
     </message>
@@ -9922,81 +10571,97 @@ Cliquez sur le bouton « Recherche de greffons… » en bas à droite de la fen�
     <name>StatsDialog</name>
     <message>
         <location filename="../gui/statsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="240"/>
         <source>Statistics</source>
         <translation>Statistiques</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="241"/>
         <source>User statistics</source>
         <translation>Statistiques utilisateur</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="99"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="247"/>
         <source>Cache statistics</source>
         <translation>Statistiques du tampon</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="105"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="248"/>
         <source>Read cache hits:</source>
         <translation>Succès du cache en lecture :</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="184"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="254"/>
         <source>Average time in queue:</source>
         <translation>Temps moyen passé en file d&apos;attente :</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="82"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="246"/>
         <source>Connected peers:</source>
         <translation>Clients connectés :</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="54"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="244"/>
         <source>All-time share ratio:</source>
         <translation>Total du ratio de partage :</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="40"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="243"/>
         <source>All-time download:</source>
         <translation>Total téléchargé :</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="68"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="245"/>
         <source>Session waste:</source>
         <translation>Gaspillé durant la session :</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="26"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="242"/>
         <source>All-time upload:</source>
         <translation>Total envoyé :</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="119"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="249"/>
         <source>Total buffer size:</source>
         <translation>Taille totale du tampon :</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="136"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="250"/>
         <source>Performance statistics</source>
         <translation>Statistiques de performance</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="170"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="253"/>
         <source>Queued I/O jobs:</source>
         <translation>Actions d&apos;E/S en file d&apos;attente :</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="142"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="251"/>
         <source>Write cache overload:</source>
         <translation>Surcharge du tampon d&apos;écriture :</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="156"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="252"/>
         <source>Read cache overload:</source>
         <translation>Surcharge du tampon de lecture :</translation>
     </message>
     <message>
         <location filename="../gui/statsdialog.ui" line="198"/>
+        <location filename="../../build/src/gui/ui_statsdialog.h" line="255"/>
         <source>Total queued size:</source>
         <translation>Taille totale des fichiers en file d&apos;attente :</translation>
     </message>
@@ -10319,46 +10984,55 @@ Cliquez sur le bouton « Recherche de greffons… » en bas à droite de la fen�
     <name>TorrentCategoryDialog</name>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="166"/>
         <source>Torrent Category Properties</source>
         <translation>Propriétés de la catégorie de torrents</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="35"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="167"/>
         <source>Name:</source>
         <translation>Nom&#x202f;:</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="64"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="169"/>
         <source>Save path for incomplete torrents:</source>
         <translation>Répertoire de destination pour les torrents incomplets :</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="72"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="170"/>
         <source>Use another path for incomplete torrents:</source>
         <translation>Utiliser un autre répertoire pour les torrents incomplets :</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="83"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="171"/>
         <source>Default</source>
         <translation>Par défaut</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="88"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="172"/>
         <source>Yes</source>
         <translation>Oui</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="93"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="173"/>
         <source>No</source>
         <translation>Non</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="124"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="175"/>
         <source>Path:</source>
         <translation>Répertoire :</translation>
     </message>
     <message>
         <location filename="../gui/torrentcategorydialog.ui" line="45"/>
+        <location filename="../../build/src/gui/ui_torrentcategorydialog.h" line="168"/>
         <source>Save path:</source>
         <translation>Répertoire de destination :</translation>
     </message>
@@ -10628,53 +11302,63 @@ Veuillez en choisir un autre.</translation>
     <name>TorrentCreatorDialog</name>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="17"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="358"/>
         <source>Torrent Creator</source>
         <translation>Créateur de torrent</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="56"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="359"/>
         <source>Select file/folder to share</source>
         <translation>Sélectionner un fichier/dossier à partager</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="64"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="360"/>
         <source>Path:</source>
         <translation>Chemin :</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="91"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="361"/>
         <source>[Drag and drop area]</source>
         <translation>[Zone pour glisser et déposer]</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="101"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="362"/>
         <location filename="../gui/torrentcreatordialog.cpp" line="142"/>
         <source>Select file</source>
         <translation>Sélectionner un fichier</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="108"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="363"/>
         <location filename="../gui/torrentcreatordialog.cpp" line="134"/>
         <source>Select folder</source>
         <translation>Sélectionner un dossier</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="120"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="364"/>
         <source>Settings</source>
         <translation>Paramètres</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="141"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="365"/>
         <source>Torrent format:</source>
         <translation>Format du torrent :</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="154"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="366"/>
         <source>Hybrid</source>
         <translation>Hybride</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="185"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="368"/>
         <source>Piece size:</source>
         <translation>Taille des morceaux :</translation>
     </message>
@@ -10685,76 +11369,91 @@ Veuillez en choisir un autre.</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="202"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="369"/>
         <source>Calculate number of pieces:</source>
         <translation>Calculer le nombre de morceaux :</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="231"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="370"/>
         <source>Private torrent (Won&apos;t distribute on DHT network)</source>
         <translation>Torrent privé (ne sera pas distribué sur le réseau DHT)</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="238"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="371"/>
         <source>Start seeding immediately</source>
         <translation>Commencer le partage immédiatement</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="248"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="372"/>
         <source>Ignore share ratio limits for this torrent</source>
         <translation>Ignorer les limites du ratio de partage pour ce torrent</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="255"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="373"/>
         <source>Optimize alignment</source>
         <translation>Optimiser l&apos;alignement</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="266"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="374"/>
         <source>Align to piece boundary for files larger than:</source>
         <translation>Aligner sur la limite du morceau pour les fichiers plus grands que :</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="273"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="375"/>
         <source>Disabled</source>
         <translation>Désactivé</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="276"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="376"/>
         <source> KiB</source>
         <translation> Kio</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="313"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="377"/>
         <source>Fields</source>
         <translation>Champs</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="326"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="380"/>
         <source>You can separate tracker tiers / groups with an empty line.</source>
         <translation>Vous pouvez séparer les groupes / niveaux de trackers avec une ligne vide.</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="339"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="382"/>
         <source>Web seed URLs:</source>
         <translation>URL des sources Web :</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="319"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="378"/>
         <source>Tracker URLs:</source>
         <translation>URL des trackers :</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="356"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="383"/>
         <source>Comments:</source>
         <translation>Commentaires :</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="373"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="384"/>
         <source>Source:</source>
         <translation>Source :</translation>
     </message>
     <message>
         <location filename="../gui/torrentcreatordialog.ui" line="392"/>
+        <location filename="../../build/src/gui/ui_torrentcreatordialog.h" line="385"/>
         <source>Progress:</source>
         <translation>Progression :</translation>
     </message>
@@ -10875,93 +11574,113 @@ Veuillez en choisir un autre.</translation>
     <name>TorrentOptionsDialog</name>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="236"/>
         <source>Torrent Options</source>
         <translation>Options du torrent</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="238"/>
         <source>Automatic mode means that various torrent properties (e.g. save path) will be decided by the associated category</source>
         <translation>Le mode automatique signifie que diverses propriétés du torrent (p. ex. le répertoire de destination) seront décidées par la catégorie associée</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="23"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="240"/>
         <source>Automatic Torrent Management</source>
         <translation>Gestion de torrent automatique</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="30"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="241"/>
         <source>Save at</source>
         <translation>Enregistrer sous</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="39"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="242"/>
         <source>Use another path for incomplete torrent</source>
         <translation>Utiliser un autre répertoire pour un torrent incomplet</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="58"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="243"/>
         <source>Category:</source>
         <translation>Catégorie :</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="162"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="252"/>
         <source>Torrent Share Limits</source>
         <translation>Limites de partage du torrent</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="122"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="248"/>
         <source>Download:</source>
         <translation>Téléchargement :</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="106"/>
         <location filename="../gui/torrentoptionsdialog.ui" line="136"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="246"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="249"/>
         <source>∞</source>
         <translation>∞</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="86"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="244"/>
         <source>Torrent Speed Limits</source>
         <translation>Limites de vitesse du torrent</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="109"/>
         <location filename="../gui/torrentoptionsdialog.ui" line="139"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="247"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="250"/>
         <source> KiB/s</source>
         <translation> Kio/s</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="152"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="251"/>
         <source>These will not exceed the global limits</source>
         <translation>Celles-ci ne dépasseront pas les limites globales</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="92"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="245"/>
         <source>Upload:</source>
         <translation>Envoi :</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="176"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="253"/>
         <source>Disable DHT for this torrent</source>
         <translation>Désactiver le DHT pour ce torrent</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="183"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="254"/>
         <source>Download in sequential order</source>
         <translation>Télécharger dans l&apos;ordre séquentiel</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="203"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="255"/>
         <source>Disable PeX for this torrent</source>
         <translation>Désactiver le PeX pour ce torrent</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="210"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="256"/>
         <source>Download first and last pieces first</source>
         <translation>Télécharger les premiers et derniers morceaux en premier</translation>
     </message>
     <message>
         <location filename="../gui/torrentoptionsdialog.ui" line="217"/>
+        <location filename="../../build/src/gui/ui_torrentoptionsdialog.h" line="257"/>
         <source>Disable LSD for this torrent</source>
         <translation>Désactiver le LSD pour ce torrent</translation>
     </message>
@@ -10989,6 +11708,10 @@ Veuillez en choisir un autre.</translation>
         <location filename="../gui/torrentsharelimitswidget.ui" line="72"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="117"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="166"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="159"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="164"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="170"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="176"/>
         <source>Default</source>
         <translation>Par défaut</translation>
     </message>
@@ -10996,6 +11719,9 @@ Veuillez en choisir un autre.</translation>
         <location filename="../gui/torrentsharelimitswidget.ui" line="35"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="77"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="122"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="160"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="165"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="171"/>
         <source>Unlimited</source>
         <translation>Illimité</translation>
     </message>
@@ -11003,17 +11729,23 @@ Veuillez en choisir un autre.</translation>
         <location filename="../gui/torrentsharelimitswidget.ui" line="40"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="82"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="127"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="161"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="166"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="172"/>
         <source>Set to</source>
         <translation>Définit à</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="61"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="163"/>
         <source>Seeding time:</source>
         <translation>Temps en partage :</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="93"/>
         <location filename="../gui/torrentsharelimitswidget.ui" line="138"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="168"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="174"/>
         <location filename="../gui/torrentsharelimitswidget.cpp" line="268"/>
         <location filename="../gui/torrentsharelimitswidget.cpp" line="273"/>
         <location filename="../gui/torrentsharelimitswidget.cpp" line="291"/>
@@ -11024,36 +11756,43 @@ Veuillez en choisir un autre.</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="106"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="169"/>
         <source>Inactive seeding time:</source>
         <translation>Temps en partage inactif :</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="155"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="175"/>
         <source>Action when the limit is reached:</source>
         <translation>Action lorsque la limite est atteinte :</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="171"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="177"/>
         <source>Stop torrent</source>
         <translation>Arrêter le torrent</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="176"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="178"/>
         <source>Remove torrent</source>
         <translation>Retirer le torrent</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="181"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="179"/>
         <source>Remove torrent and its content</source>
         <translation>Retirer le torrent et son contenu</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="186"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="180"/>
         <source>Enable super seeding for torrent</source>
         <translation>Activer le super partage pour ce torrent</translation>
     </message>
     <message>
         <location filename="../gui/torrentsharelimitswidget.ui" line="19"/>
+        <location filename="../../build/src/gui/ui_torrentsharelimitswidget.h" line="158"/>
         <source>Ratio:</source>
         <translation>Ratio :</translation>
     </message>
@@ -11062,6 +11801,7 @@ Veuillez en choisir un autre.</translation>
     <name>TorrentTagsDialog</name>
     <message>
         <location filename="../gui/torrenttagsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_torrenttagsdialog.h" line="63"/>
         <source>Torrent Tags</source>
         <translation>Étiquettes du torrent</translation>
     </message>
@@ -11231,11 +11971,13 @@ Veuillez en choisir un autre.</translation>
     <name>TrackerEntriesDialog</name>
     <message>
         <location filename="../gui/trackerentriesdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_trackerentriesdialog.h" line="63"/>
         <source>Edit trackers</source>
         <translation>Éditer les trackers</translation>
     </message>
     <message>
         <location filename="../gui/trackerentriesdialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_trackerentriesdialog.h" line="64"/>
         <source>One tracker URL per line.
 
 - You can split the trackers into groups by inserting blank lines.
@@ -11446,21 +12188,25 @@ Veuillez en choisir un autre.</translation>
     <name>TrackersAdditionDialog</name>
     <message>
         <location filename="../gui/trackersadditiondialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_trackersadditiondialog.h" line="93"/>
         <source>Add trackers</source>
         <translation>Ajouter des trackers</translation>
     </message>
     <message>
         <location filename="../gui/trackersadditiondialog.ui" line="20"/>
+        <location filename="../../build/src/gui/ui_trackersadditiondialog.h" line="94"/>
         <source>List of trackers to add (one per line):</source>
         <translation>Liste des trackers à ajouter (un par ligne) :</translation>
     </message>
     <message>
         <location filename="../gui/trackersadditiondialog.ui" line="40"/>
+        <location filename="../../build/src/gui/ui_trackersadditiondialog.h" line="95"/>
         <source>µTorrent compatible list URL:</source>
         <translation>URL de la liste compatible µTorrent :</translation>
     </message>
     <message>
         <location filename="../gui/trackersadditiondialog.ui" line="52"/>
+        <location filename="../../build/src/gui/ui_trackersadditiondialog.h" line="97"/>
         <source>Download trackers list</source>
         <translation>Télécharger la liste des trackers</translation>
     </message>
@@ -12246,38 +12992,47 @@ Veuillez en choisir un autre.</translation>
     <name>UIThemeDialog</name>
     <message>
         <location filename="../gui/uithemedialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="196"/>
         <source>UI Theme Configuration</source>
         <translation>Configuration du thème de l&apos;interface</translation>
     </message>
     <message>
         <location filename="../gui/uithemedialog.ui" line="33"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="200"/>
         <source>Colors</source>
         <translation>Couleurs</translation>
     </message>
     <message>
         <location filename="../gui/uithemedialog.ui" line="85"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="197"/>
         <source>Color ID</source>
         <translation>ID de la couleur</translation>
     </message>
     <message>
         <location filename="../gui/uithemedialog.ui" line="97"/>
         <location filename="../gui/uithemedialog.ui" line="200"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="198"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="202"/>
         <source>Light Mode</source>
         <translation>Mode clair</translation>
     </message>
     <message>
         <location filename="../gui/uithemedialog.ui" line="109"/>
         <location filename="../gui/uithemedialog.ui" line="212"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="199"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="203"/>
         <source>Dark Mode</source>
         <translation>Mode sombre</translation>
     </message>
     <message>
         <location filename="../gui/uithemedialog.ui" line="136"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="204"/>
         <source>Icons</source>
         <translation>Icônes</translation>
     </message>
     <message>
         <location filename="../gui/uithemedialog.ui" line="188"/>
+        <location filename="../../build/src/gui/ui_uithemedialog.h" line="201"/>
         <source>Icon ID</source>
         <translation>ID de l’icône</translation>
     </message>
@@ -12431,21 +13186,25 @@ Veuillez en choisir un autre.</translation>
     <name>WatchedFolderOptionsDialog</name>
     <message>
         <location filename="../gui/watchedfolderoptionsdialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_watchedfolderoptionsdialog.h" line="90"/>
         <source>Watched Folder Options</source>
         <translation>Options du dossier surveillé</translation>
     </message>
     <message>
         <location filename="../gui/watchedfolderoptionsdialog.ui" line="22"/>
+        <location filename="../../build/src/gui/ui_watchedfolderoptionsdialog.h" line="92"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Will watch the folder and all its subfolders. In Manual torrent management mode it will also add subfolder name to the selected Save path.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Surveillera le dossier et tous ses sous-dossiers. En mode de gestion manuelle des torrents, ceci ajoutera également le nom du sous-dossier au répertoire de destination sélectionné.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/watchedfolderoptionsdialog.ui" line="25"/>
+        <location filename="../../build/src/gui/ui_watchedfolderoptionsdialog.h" line="94"/>
         <source>Recursive mode</source>
         <translation>Mode récursif</translation>
     </message>
     <message>
         <location filename="../gui/watchedfolderoptionsdialog.ui" line="47"/>
+        <location filename="../../build/src/gui/ui_watchedfolderoptionsdialog.h" line="95"/>
         <source>Torrent parameters</source>
         <translation>Paramètres du torrent</translation>
     </message>
@@ -12486,72 +13245,72 @@ Veuillez en choisir un autre.</translation>
 <context>
     <name>WebApplication</name>
     <message>
-        <location filename="../webui/webapplication.cpp" line="179"/>
+        <location filename="../webui/webapplication.cpp" line="180"/>
         <source>Unacceptable session cookie name is specified: &apos;%1&apos;. Default one is used.</source>
         <translation>Un nom de cookie de session inacceptable est spécifié : &apos;%1&apos;. Celui par défaut est utilisé.</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="230"/>
+        <location filename="../webui/webapplication.cpp" line="231"/>
         <source>Unacceptable file type, only regular file is allowed.</source>
         <translation>Type de fichier inacceptable, seul un fichier normal est autorisé.</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="238"/>
+        <location filename="../webui/webapplication.cpp" line="239"/>
         <source>Symlinks inside alternative UI folder are forbidden.</source>
         <translation>Les liens symboliques sont interdits dans les dossiers d&apos;IU alternatives.</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="417"/>
+        <location filename="../webui/webapplication.cpp" line="418"/>
         <source>Using built-in WebUI.</source>
         <translation>Utilisation de l&apos;IU Web intégrée.</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="419"/>
+        <location filename="../webui/webapplication.cpp" line="420"/>
         <source>Using custom WebUI. Location: &quot;%1&quot;.</source>
         <translation>Utilisation d&apos;une IU Web personnalisée. Emplacement : « %1 ».</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="431"/>
+        <location filename="../webui/webapplication.cpp" line="432"/>
         <source>WebUI translation for selected locale (%1) has been successfully loaded.</source>
         <translation>La traduction de l&apos;IU Web pour les paramètres régionaux sélectionnés (%1) a été chargée avec succès.</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="436"/>
+        <location filename="../webui/webapplication.cpp" line="437"/>
         <source>Couldn&apos;t load WebUI translation for selected locale (%1).</source>
         <translation>Impossible de charger la traduction de l&apos;IU Web pour les paramètres régionaux sélectionnés (%1).</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="487"/>
+        <location filename="../webui/webapplication.cpp" line="488"/>
         <source>Missing &apos;:&apos; separator in WebUI custom HTTP header: &quot;%1&quot;</source>
         <translation>Séparateur &apos;:&apos; manquant dans l&apos;en-tête HTTP personnalisé de l&apos;IU Web : « %1 »</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="551"/>
+        <location filename="../webui/webapplication.cpp" line="552"/>
         <source>Web server error. %1</source>
         <translation>Erreur du serveur Web. %1</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="571"/>
+        <location filename="../webui/webapplication.cpp" line="572"/>
         <source>Web server error. Unknown error.</source>
         <translation>Erreur du serveur Web. Erreur inconnue.</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="815"/>
+        <location filename="../webui/webapplication.cpp" line="836"/>
         <source>WebUI: Origin header &amp; Target origin mismatch! Source IP: &apos;%1&apos;. Origin header: &apos;%2&apos;. Target origin: &apos;%3&apos;</source>
         <translation>IU Web : Disparité entre l&apos;en-tête d&apos;origine et l&apos;origine de la cible ! IP source : &apos;%1&apos;. En-tête d&apos;origine : &apos;%2&apos;. Origine de la cible : &apos;%3&apos;</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="827"/>
+        <location filename="../webui/webapplication.cpp" line="848"/>
         <source>WebUI: Referer header &amp; Target origin mismatch! Source IP: &apos;%1&apos;. Referer header: &apos;%2&apos;. Target origin: &apos;%3&apos;</source>
         <translation>IU Web : Disparité entre l&apos;en-tête du référent et l&apos;origine de la cible ! IP source : &apos;%1&apos;. En-tête du référent : &apos;%2&apos;. Origine de la cible : &apos;%3&apos;</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="846"/>
+        <location filename="../webui/webapplication.cpp" line="867"/>
         <source>WebUI: Invalid Host header, port mismatch. Request source IP: &apos;%1&apos;. Server port: &apos;%2&apos;. Received Host header: &apos;%3&apos;</source>
         <translation>IU Web : En-tête d&apos;hôte invalide, non-concordance du port. IP source de la requête : &apos;%1&apos;. Port du serveur : &apos;%2&apos;. En-tête d&apos;hôte reçu : &apos;%3&apos;</translation>
     </message>
     <message>
-        <location filename="../webui/webapplication.cpp" line="867"/>
+        <location filename="../webui/webapplication.cpp" line="888"/>
         <source>WebUI: Invalid Host header. Request source IP: &apos;%1&apos;. Received Host header: &apos;%2&apos;</source>
         <translation>IU Web : En-tête d&apos;hôte invalide. IP source de la requête : &apos;%1&apos;. En-tête d&apos;hôte reçu : &apos;%2&apos;</translation>
     </message>
@@ -12582,6 +13341,95 @@ Veuillez en choisir un autre.</translation>
         <location filename="../webui/webui.cpp" line="138"/>
         <source>Unable to bind to IP: %1, port: %2. Reason: %3</source>
         <translation>IU Web : Impossible de se lier à l&apos;adresse IP : %1, port : %2. Raison : %3</translation>
+    </message>
+</context>
+<context>
+    <name>WebUIMimeOverrideEntryDialog</name>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.ui" line="6"/>
+        <location filename="../../build/src/gui/ui_webuimimeoverrideentrydialog.h" line="83"/>
+        <source>Custom MIME type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.ui" line="14"/>
+        <location filename="../../build/src/gui/ui_webuimimeoverrideentrydialog.h" line="84"/>
+        <source>Extension:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.ui" line="21"/>
+        <location filename="../../build/src/gui/ui_webuimimeoverrideentrydialog.h" line="85"/>
+        <source>e.g. svg</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.ui" line="28"/>
+        <location filename="../../build/src/gui/ui_webuimimeoverrideentrydialog.h" line="86"/>
+        <source>Content type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.ui" line="35"/>
+        <location filename="../../build/src/gui/ui_webuimimeoverrideentrydialog.h" line="87"/>
+        <source>e.g. image/svg+xml</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.cpp" line="42"/>
+        <source>Invalid extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.cpp" line="42"/>
+        <source>Please enter a valid file extension.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.cpp" line="48"/>
+        <source>Invalid content type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverrideentrydialog.cpp" line="48"/>
+        <source>Please enter a valid content type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WebUIMimeOverridesModel</name>
+    <message>
+        <location filename="../gui/webuimimeoverridesmodel.cpp" line="64"/>
+        <source>Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gui/webuimimeoverridesmodel.cpp" line="66"/>
+        <source>Content type</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WebUIMimeTypeStore</name>
+    <message>
+        <location filename="../base/webuimimetypestore.cpp" line="92"/>
+        <source>Failed to load WebUI MIME overrides. %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../base/webuimimetypestore.cpp" line="101"/>
+        <source>Failed to parse WebUI MIME overrides. %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../base/webuimimetypestore.cpp" line="107"/>
+        <source>Failed to load WebUI MIME overrides. Invalid data format.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../base/webuimimetypestore.cpp" line="138"/>
+        <source>Couldn&apos;t store WebUI MIME overrides to %1. Error: %2</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
