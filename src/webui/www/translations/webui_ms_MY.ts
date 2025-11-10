@@ -2043,6 +2043,14 @@ Guna ';' untuk asingkan masukan berbilang. Boleh guna kad liar '*'.</translation
         <source>Log Files</source>
         <translation type="unfinished" />
     </message>
+    <message>
+        <source>Maximum served file size:</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>KiB (-1 disables limit)</source>
+        <translation type="unfinished" />
+    </message>
 </context>
 <context>
     <name>PeerListWidget</name>

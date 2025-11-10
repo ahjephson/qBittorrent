@@ -2043,6 +2043,14 @@ Használja a ';' karaktert az elválasztásra, ha több is van. A '*' helyettes�
         <source>Log Files</source>
         <translation>Napló Fájlok</translation>
     </message>
+    <message>
+        <source>Maximum served file size:</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>KiB (-1 disables limit)</source>
+        <translation type="unfinished" />
+    </message>
 </context>
 <context>
     <name>PeerListWidget</name>

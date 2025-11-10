@@ -885,6 +885,24 @@ void Preferences::setWebUISessionTimeout(const int timeout)
     setValue(u"Preferences/WebUI/SessionTimeout"_s, timeout);
 }
 
+int Preferences::getWebUIMaxFileSize() const
+{
+    constexpr int defaultFileSize = 10 * 1024 * 1024;
+    const int storedValue = value<int>(u"Preferences/WebUI/MaxFileSize"_s, defaultFileSize);
+    if (storedValue < -1)
+        return -1;
+    return std::min(storedValue, MAX_WEBUI_FILESIZE);
+}
+
+void Preferences::setWebUIMaxFileSize(const int size)
+{
+    const int sanitizedSize = (size < -1) ? -1 : std::min(size, MAX_WEBUI_FILESIZE);
+    if (sanitizedSize == getWebUIMaxFileSize())
+        return;
+
+    setValue(u"Preferences/WebUI/MaxFileSize"_s, sanitizedSize);
+}
+
 QString Preferences::getWebAPISessionCookieName() const
 {
     return value<QString>(u"WebAPI/SessionCookieName"_s);

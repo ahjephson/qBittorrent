@@ -2043,6 +2043,14 @@ Brug ';' til af adskille flere indtastninger. Jokertegnet '*' kan bruges.</trans
         <source>Log Files</source>
         <translation type="unfinished" />
     </message>
+    <message>
+        <source>Maximum served file size:</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>KiB (-1 disables limit)</source>
+        <translation type="unfinished" />
+    </message>
 </context>
 <context>
     <name>PeerListWidget</name>

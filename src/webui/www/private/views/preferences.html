@@ -923,6 +923,11 @@
             <input type="checkbox" id="webui_upnp_checkbox">
             <label for="webui_upnp_checkbox">QBT_TR(Use UPnP / NAT-PMP to forward the port from my router)QBT_TR[CONTEXT=OptionsDialog]</label>
         </div>
+        <div class="formRow">
+            <label for="webUIMaxFileSizeInput">QBT_TR(Maximum served file size:)QBT_TR[CONTEXT=OptionsDialog]</label>
+            <input type="number" id="webUIMaxFileSizeInput" style="width: 10em; margin-left: 10px;" min="-1">
+            &nbsp;&nbsp;QBT_TR(KiB (-1 disables limit))QBT_TR[CONTEXT=OptionsDialog]
+        </div>
         <fieldset class="settings">
             <legend>
                 <input type="checkbox" id="use_https_checkbox" onclick="qBittorrent.Preferences.updateHttpsSettings();">
@@ -2510,6 +2515,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.)QBT_TR[CONTEXT=OptionsD
                     $("webUIMaxAuthFailCountInput").value = Number(pref.web_ui_max_auth_fail_count);
                     $("webUIBanDurationInput").value = Number(pref.web_ui_ban_duration);
                     $("webUISessionTimeoutInput").value = Number(pref.web_ui_session_timeout);
+                    $("webUIMaxFileSizeInput").value = Number(pref.web_ui_max_file_size);
 
                     // Use alternative WebUI
                     $("use_alt_webui_checkbox").checked = pref.alternative_webui_enabled;
@@ -2977,6 +2983,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.)QBT_TR[CONTEXT=OptionsD
             settings["web_ui_max_auth_fail_count"] = Number($("webUIMaxAuthFailCountInput").value);
             settings["web_ui_ban_duration"] = Number($("webUIBanDurationInput").value);
             settings["web_ui_session_timeout"] = Number($("webUISessionTimeoutInput").value);
+            settings["web_ui_max_file_size"] = Number($("webUIMaxFileSizeInput").value);
 
             // Use alternative WebUI
             const alternative_webui_enabled = $("use_alt_webui_checkbox").checked;

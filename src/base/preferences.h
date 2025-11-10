@@ -94,6 +94,8 @@ class Preferences final : public QObject
     Preferences();
 
 public:
+    static constexpr int MAX_WEBUI_FILESIZE = 2097151 * 1024;
+
     static void initInstance();
     static void freeInstance();
     static Preferences *instance();
@@ -209,6 +211,8 @@ public:
     void setWebUIBanDuration(std::chrono::seconds duration);
     int getWebUISessionTimeout() const;
     void setWebUISessionTimeout(int timeout);
+    int getWebUIMaxFileSize() const;
+    void setWebUIMaxFileSize(int size);
     QString getWebAPISessionCookieName() const;
     void setWebAPISessionCookieName(const QString &cookieName);
 

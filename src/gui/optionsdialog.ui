@@ -3620,7 +3620,56 @@ Specify an IPv4 or IPv6 address. You can specify &quot;0.0.0.0&quot; for any IPv
                 </widget>
                </item>
                <item>
-                <widget class="QGroupBox" name="checkWebUIHttps">
+                <layout class="QHBoxLayout" name="horizontalLayout_webuiMaxFileSize">
+                 <item>
+                  <widget class="QLabel" name="lblWebUIMaxFileSize">
+                   <property name="text">
+                    <string>Maximum served file size:</string>
+                   </property>
+                   <property name="toolTip">
+                    <string>Set to -1 to disable the size limit. Values are in KiB.</string>
+                   </property>
+                  </widget>
+                 </item>
+                 <item>
+                  <widget class="QSpinBox" name="spinWebUIMaxFileSize">
+                   <property name="toolTip">
+                    <string>Set to -1 to disable the size limit. Values are in KiB.</string>
+                   </property>
+                   <property name="specialValueText">
+                    <string>Unlimited</string>
+                   </property>
+                   <property name="minimum">
+                    <number>-1</number>
+                   </property>
+                   <property name="maximum">
+                    <number>2097151</number>
+                   </property>
+                   <property name="singleStep">
+                    <number>1</number>
+                   </property>
+                   <property name="suffix">
+                    <string> KiB</string>
+                   </property>
+                  </widget>
+                 </item>
+                 <item>
+                  <spacer name="horizontalSpacer_webuiMaxFileSize">
+                   <property name="orientation">
+                    <enum>Qt::Orientation::Horizontal</enum>
+                   </property>
+                   <property name="sizeHint" stdset="0">
+                    <size>
+                     <width>40</width>
+                     <height>20</height>
+                    </size>
+                   </property>
+                  </spacer>
+                 </item>
+                </layout>
+               </item>
+                 <item>
+                  <widget class="QGroupBox" name="checkWebUIHttps">
                  <property name="title">
                   <string>&amp;Use HTTPS instead of HTTP</string>
                  </property>
@@ -3795,42 +3844,42 @@ Specify an IPv4 or IPv6 address. You can specify &quot;0.0.0.0&quot; for any IPv
                    </layout>
                   </item>
                   <item>
-                   <layout class="QHBoxLayout" name="horizontalLayout_13">
-                    <item>
-                     <widget class="QLabel" name="lblSessionTimeout">
-                      <property name="text">
-                       <string>Session timeout:</string>
-                      </property>
-                     </widget>
-                    </item>
-                    <item>
-                     <widget class="QSpinBox" name="spinSessionTimeout">
-                      <property name="specialValueText">
-                       <string>Disabled</string>
-                      </property>
-                      <property name="suffix">
-                       <string> sec</string>
-                      </property>
-                      <property name="maximum">
-                       <number>2147483647</number>
-                      </property>
-                     </widget>
-                    </item>
-                    <item>
-                     <spacer name="horizontalSpacer_11">
-                      <property name="orientation">
-                       <enum>Qt::Orientation::Horizontal</enum>
-                      </property>
-                      <property name="sizeHint" stdset="0">
-                       <size>
-                        <width>40</width>
-                        <height>20</height>
-                       </size>
-                      </property>
-                     </spacer>
-                    </item>
-                   </layout>
-                  </item>
+                  <layout class="QHBoxLayout" name="horizontalLayout_13">
+                   <item>
+                    <widget class="QLabel" name="lblSessionTimeout">
+                     <property name="text">
+                      <string>Session timeout:</string>
+                     </property>
+                    </widget>
+                   </item>
+                   <item>
+                    <widget class="QSpinBox" name="spinSessionTimeout">
+                     <property name="specialValueText">
+                      <string>Disabled</string>
+                     </property>
+                     <property name="suffix">
+                      <string> sec</string>
+                     </property>
+                     <property name="maximum">
+                      <number>2147483647</number>
+                     </property>
+                    </widget>
+                   </item>
+                   <item>
+                    <spacer name="horizontalSpacer_11">
+                     <property name="orientation">
+                      <enum>Qt::Orientation::Horizontal</enum>
+                     </property>
+                     <property name="sizeHint" stdset="0">
+                      <size>
+                       <width>40</width>
+                       <height>20</height>
+                      </size>
+                     </property>
+                    </spacer>
+                   </item>
+                  </layout>
+                 </item>
                  </layout>
                 </widget>
                </item>

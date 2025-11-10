@@ -2043,6 +2043,14 @@ DNS 재결합 공격을 방어하기 위해
         <source>Log Files</source>
         <translation>로그 파일</translation>
     </message>
+    <message>
+        <source>Maximum served file size:</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>KiB (-1 disables limit)</source>
+        <translation type="unfinished" />
+    </message>
 </context>
 <context>
     <name>PeerListWidget</name>

@@ -2043,6 +2043,14 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <source>Log Files</source>
         <translation>日志文件</translation>
     </message>
+    <message>
+        <source>Maximum served file size:</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>KiB (-1 disables limit)</source>
+        <translation type="unfinished" />
+    </message>
 </context>
 <context>
     <name>PeerListWidget</name>

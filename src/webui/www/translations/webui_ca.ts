@@ -2044,6 +2044,14 @@ Useu ";" per separar les entrades. Podeu usar el comodí "*".</translation>
         <source>Log Files</source>
         <translation>Fitxers de registre</translation>
     </message>
+    <message>
+        <source>Maximum served file size:</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>KiB (-1 disables limit)</source>
+        <translation type="unfinished" />
+    </message>
 </context>
 <context>
     <name>PeerListWidget</name>

@@ -69,7 +69,6 @@
 #include "api/transfercontroller.h"
 #include "freediskspacechecker.h"
 
-const int MAX_ALLOWED_FILESIZE = 10 * 1024 * 1024;
 const QString DEFAULT_SESSION_COOKIE_NAME = u"SID"_s;
 
 const QString WWW_FOLDER = u":/www"_s;
@@ -441,6 +440,7 @@ void WebApplication::configure()
     m_isAuthSubnetWhitelistEnabled = pref->isWebUIAuthSubnetWhitelistEnabled();
     m_authSubnetWhitelist = pref->getWebUIAuthSubnetWhitelist();
     m_sessionTimeout = pref->getWebUISessionTimeout();
+    m_maxServedFileSize = pref->getWebUIMaxFileSize();
 
     m_domainList = pref->getServerDomains().split(u';', Qt::SkipEmptyParts);
     std::for_each(m_domainList.begin(), m_domainList.end(), [](QString &entry) { entry = entry.trimmed(); });
@@ -545,7 +545,7 @@ void WebApplication::sendFile(const Path &path)
         return;
     }
 
-    const auto readResult = Utils::IO::readFile(path, MAX_ALLOWED_FILESIZE);
+    const auto readResult = Utils::IO::readFile(path, m_maxServedFileSize);
     if (!readResult)
     {
         const QString message = tr("Web server error. %1").arg(readResult.error().message);

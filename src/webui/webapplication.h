@@ -243,6 +243,7 @@ private:
     bool m_isAuthSubnetWhitelistEnabled = false;
     QList<Utils::Net::Subnet> m_authSubnetWhitelist;
     int m_sessionTimeout = 0;
+    int m_maxServedFileSize = 10 * 1024 * 1024;
     QString m_sessionCookieName;
 
     // security related

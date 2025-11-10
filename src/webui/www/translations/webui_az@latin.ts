@@ -2043,6 +2043,14 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
         <source>Log Files</source>
         <translation>Jurnal faylları</translation>
     </message>
+    <message>
+        <source>Maximum served file size:</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>KiB (-1 disables limit)</source>
+        <translation type="unfinished" />
+    </message>
 </context>
 <context>
     <name>PeerListWidget</name>

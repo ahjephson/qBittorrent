@@ -331,6 +331,10 @@ void AppController::preferencesAction()
     data[u"web_ui_max_auth_fail_count"_s] = pref->getWebUIMaxAuthFailCount();
     data[u"web_ui_ban_duration"_s] = static_cast<int>(pref->getWebUIBanDuration().count());
     data[u"web_ui_session_timeout"_s] = pref->getWebUISessionTimeout();
+    const int maxServedFileSizeBytes = pref->getWebUIMaxFileSize();
+    data[u"web_ui_max_file_size"_s] = ((maxServedFileSizeBytes < 0)
+        ? -1
+        : (maxServedFileSizeBytes / 1024));
     // Use alternative WebUI
     data[u"alternative_webui_enabled"_s] = pref->isAltWebUIEnabled();
     data[u"alternative_webui_path"_s] = pref->getWebUIRootFolder().toString();
@@ -908,6 +912,20 @@ void AppController::setPreferencesAction()
         pref->setWebUIBanDuration(std::chrono::seconds {it.value().toInt()});
     if (hasKey(u"web_ui_session_timeout"_s))
         pref->setWebUISessionTimeout(it.value().toInt());
+    if (hasKey(u"web_ui_max_file_size"_s))
+    {
+        const int requestedValue = it.value().toInt();
+        if (requestedValue < 0)
+        {
+            pref->setWebUIMaxFileSize(-1);
+        }
+        else
+        {
+            const qint64 requestedBytes = static_cast<qint64>(requestedValue) * 1024;
+            const int boundedBytes = static_cast<int>(std::min<qint64>(requestedBytes, Preferences::MAX_WEBUI_FILESIZE));
+            pref->setWebUIMaxFileSize(boundedBytes);
+        }
+    }
     // Use alternative WebUI
     if (hasKey(u"alternative_webui_enabled"_s))
         pref->setAltWebUIEnabled(it.value().toBool());
