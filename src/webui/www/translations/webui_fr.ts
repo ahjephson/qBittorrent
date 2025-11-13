@@ -2059,7 +2059,11 @@ Utiliser ';' pour diviser plusieurs entrées. Le caractère générique '*' peut
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Remove override for ".%1"?</source>
+        <source>Remove override for %1?</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>This entry</source>
         <translation type="unfinished" />
     </message>
     <message>

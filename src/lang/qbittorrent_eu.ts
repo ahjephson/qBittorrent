@@ -6637,6 +6637,10 @@ Adierazi IPv4 edo IPv6 helbide bat. &quot;0.0.0.0&quot; adierazi dezakezu edozei
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>This entry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../gui/optionsdialog.ui" line="3653"/>
         <location filename="../../build/src/gui/ui_optionsdialog.h" line="3470"/>
         <source>Edit...</source>

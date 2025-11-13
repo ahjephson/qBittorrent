@@ -6638,6 +6638,10 @@ Renseignez une adresse IPv4 ou IPv6. Vous pouvez renseigner « 0.0.0.0 » pour n
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>This entry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../gui/optionsdialog.ui" line="3653"/>
         <location filename="../../build/src/gui/ui_optionsdialog.h" line="3470"/>
         <source>Edit...</source>

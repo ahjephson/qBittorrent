@@ -6634,6 +6634,10 @@ Tetapkan alamat IPv4 atau IPv6. Anda dapat tetapkan &quot;0.0.0.0&quot; untuk se
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>This entry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../gui/optionsdialog.ui" line="3653"/>
         <location filename="../../build/src/gui/ui_optionsdialog.h" line="3470"/>
         <source>Edit...</source>

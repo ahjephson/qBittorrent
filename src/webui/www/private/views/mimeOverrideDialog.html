@@ -1,0 +1,117 @@
+<div id="mimeOverrideDialogContent" class="modalDialogContent">
+    <fieldset class="settings">
+        <legend id="mimeOverrideDialogLegend">QBT_TR(Custom MIME type overrides)QBT_TR[CONTEXT=OptionsDialog]</legend>
+        <table class="reducedPadding">
+            <tbody>
+                <tr>
+                    <td>
+                        <label for="mimeOverrideExtensionInput">QBT_TR(Extension)QBT_TR[CONTEXT=OptionsDialog]</label>
+                    </td>
+                    <td>
+                        <input type="text" id="mimeOverrideExtensionInput" placeholder="svg">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="mimeOverrideContentTypeInput">QBT_TR(Content type)QBT_TR[CONTEXT=OptionsDialog]</label>
+                    </td>
+                    <td>
+                        <input type="text" id="mimeOverrideContentTypeInput" placeholder="image/svg+xml">
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="dialogMessage" id="mimeOverrideDialogError" role="alert"></div>
+    </fieldset>
+</div>
+<div>
+    <input type="button" value="QBT_TR(Save)QBT_TR[CONTEXT=HttpServer]" id="mimeOverrideSaveButton">
+    <input type="button" value="QBT_TR(Cancel)QBT_TR[CONTEXT=MainWindow]" id="mimeOverrideCancelButton">
+</div>
+
+<script>
+    "use strict";
+
+    (() => {
+        const modalId = "mimeOverrideDialog";
+        const modalWindow = window.MUI.Windows.instances[modalId];
+        const {
+            mode = "add",
+            index = -1,
+            entry = {}
+        } = modalWindow?.options?.data ?? {};
+
+        const legend = document.getElementById("mimeOverrideDialogLegend");
+        const extensionInput = document.getElementById("mimeOverrideExtensionInput");
+        const contentTypeInput = document.getElementById("mimeOverrideContentTypeInput");
+        const saveButton = document.getElementById("mimeOverrideSaveButton");
+        const cancelButton = document.getElementById("mimeOverrideCancelButton");
+        const errorBox = document.getElementById("mimeOverrideDialogError");
+
+        if (legend) {
+            legend.textContent = (mode === "edit")
+                ? "QBT_TR(Edit...)QBT_TR[CONTEXT=OptionsDialog]"
+                : "QBT_TR(Add...)QBT_TR[CONTEXT=OptionsDialog]";
+        }
+
+        extensionInput.value = entry.extension ?? "";
+        contentTypeInput.value = entry.content_type ?? "application/octet-stream";
+
+        const closeDialog = () => {
+            window.qBittorrent.Client.closeWindow(document.getElementById(modalId));
+        };
+
+        const setError = (message = "") => {
+            errorBox.textContent = message;
+        };
+
+        const submit = () => {
+            setError();
+            const result = window.qBittorrent.Preferences.submitWebUIMimeOverrideDialog({
+                index: index,
+                extension: extensionInput.value,
+                contentType: contentTypeInput.value
+            });
+
+            if (result?.success) {
+                closeDialog();
+            }
+            else if (result?.message) {
+                setError(result.message);
+                if (result.field === "extension")
+                    extensionInput.focus();
+                else if (result.field === "contentType")
+                    contentTypeInput.focus();
+            }
+        };
+
+        saveButton.addEventListener("click", (e) => {
+            e.preventDefault();
+            submit();
+        });
+
+        cancelButton.addEventListener("click", (e) => {
+            e.preventDefault();
+            closeDialog();
+        });
+
+        window.addEventListener("keydown", (event) => {
+            const tagName = event.target?.tagName;
+
+            if (event.key === "Escape") {
+                event.preventDefault();
+                closeDialog();
+            }
+            else if (event.key === "Enter") {
+                if ((tagName === "BUTTON") && (event.target.type === "submit"))
+                    return;
+
+                event.preventDefault();
+                submit();
+            }
+        });
+
+        extensionInput.focus();
+        extensionInput.select();
+    })();
+</script>

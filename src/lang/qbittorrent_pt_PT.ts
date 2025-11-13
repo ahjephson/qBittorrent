@@ -6637,6 +6637,10 @@ Especifique um endereço IPv4 ou IPv6. Você pode especificar &quot;0.0.0.0&quot
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>This entry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../gui/optionsdialog.ui" line="3653"/>
         <location filename="../../build/src/gui/ui_optionsdialog.h" line="3470"/>
         <source>Edit...</source>

@@ -6637,6 +6637,10 @@ vagy &quot;::&quot;-t bármely IPv6 címhez, vagy használja a &quot;*&quot;-t b
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>This entry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../gui/optionsdialog.ui" line="3653"/>
         <location filename="../../build/src/gui/ui_optionsdialog.h" line="3470"/>
         <source>Edit...</source>

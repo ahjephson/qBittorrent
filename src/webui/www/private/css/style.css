@@ -196,7 +196,8 @@ h2 {
 }
 
 #error_div,
-#rename_error {
+#rename_error,
+#mimeOverrideDialogError {
     color: var(--color-text-red);
     float: left;
     font-size: 14px;
@@ -905,6 +906,14 @@ td.statusBarSeparator {
 
 .modalDialog .mochaContent.pad > :first-child {
     margin: auto 0;
+}
+
+.modalDialog .mochaContent.pad > .modalDialogContent {
+    margin: 0 0 auto;
+}
+
+.modalDialogContent fieldset.settings {
+    margin-bottom: 12px;
 }
 
 #rememberBtn {

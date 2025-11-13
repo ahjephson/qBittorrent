@@ -924,22 +924,6 @@
             <label for="webui_upnp_checkbox">QBT_TR(Use UPnP / NAT-PMP to forward the port from my router)QBT_TR[CONTEXT=OptionsDialog]</label>
         </div>
         <fieldset class="settings">
-            <legend>QBT_TR(Custom MIME type overrides)QBT_TR[CONTEXT=OptionsDialog]</legend>
-            <table class="reducedPadding">
-                <thead>
-                    <tr>
-                        <th>QBT_TR(Extension)QBT_TR[CONTEXT=OptionsDialog]</th>
-                        <th>QBT_TR(Content type)QBT_TR[CONTEXT=OptionsDialog]</th>
-                        <th>QBT_TR(Actions)QBT_TR[CONTEXT=OptionsDialog]</th>
-                    </tr>
-                </thead>
-                <tbody id="webUIMimeOverridesTableBody"></tbody>
-            </table>
-            <div class="formRow">
-                <input type="button" value="QBT_TR(Add...)QBT_TR[CONTEXT=OptionsDialog]" onclick="qBittorrent.Preferences.addWebUIMimeOverride();">
-            </div>
-        </fieldset>
-        <fieldset class="settings">
             <legend>
                 <input type="checkbox" id="use_https_checkbox" onclick="qBittorrent.Preferences.updateHttpsSettings();">
                 <label for="use_https_checkbox">QBT_TR(Use HTTPS instead of HTTP)QBT_TR[CONTEXT=OptionsDialog]</label>
@@ -1033,6 +1017,22 @@
             <div class="formRow">
                 <a href="https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs" target="_blank">QBT_TR(List of alternative WebUI)QBT_TR[CONTEXT=OptionsDialog]</a>
             </div>
+            <fieldset class="settings" id="webUIMimeOverridesFieldset" disabled>
+                <legend>QBT_TR(Custom MIME type overrides)QBT_TR[CONTEXT=OptionsDialog]</legend>
+                <table class="reducedPadding">
+                    <thead>
+                        <tr>
+                            <th>QBT_TR(Extension)QBT_TR[CONTEXT=OptionsDialog]</th>
+                            <th>QBT_TR(Content type)QBT_TR[CONTEXT=OptionsDialog]</th>
+                            <th>QBT_TR(Actions)QBT_TR[CONTEXT=OptionsDialog]</th>
+                        </tr>
+                    </thead>
+                    <tbody id="webUIMimeOverridesTableBody"></tbody>
+                </table>
+                <div class="formRow">
+                    <input type="button" value="QBT_TR(Add...)QBT_TR[CONTEXT=OptionsDialog]" onclick="qBittorrent.Preferences.addWebUIMimeOverride();">
+                </div>
+            </fieldset>
         </fieldset>
 
         <fieldset class="settings">
@@ -1788,6 +1788,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.)QBT_TR[CONTEXT=OptionsD
                 addWebUIMimeOverride: addWebUIMimeOverride,
                 editWebUIMimeOverride: editWebUIMimeOverride,
                 removeWebUIMimeOverride: removeWebUIMimeOverride,
+                submitWebUIMimeOverrideDialog: submitWebUIMimeOverrideDialog,
                 updateWebuiLocaleSelect: updateWebuiLocaleSelect,
                 registerDynDns: registerDynDns,
                 applyPreferences: applyPreferences
@@ -2084,6 +2085,9 @@ Use ';' to split multiple entries. Can use wildcard '*'.)QBT_TR[CONTEXT=OptionsD
         const updateAlternativeWebUISettings = () => {
             const isUseAlternativeWebUIEnabled = $("use_alt_webui_checkbox").checked;
             $("webui_files_location_textarea").disabled = !isUseAlternativeWebUIEnabled;
+            const mimeOverridesFieldset = $("webUIMimeOverridesFieldset");
+            if (mimeOverridesFieldset)
+                mimeOverridesFieldset.disabled = !isUseAlternativeWebUIEnabled;
         };
 
         const updateHostHeaderValidationSettings = () => {
@@ -2166,35 +2170,76 @@ Use ';' to split multiple entries. Can use wildcard '*'.)QBT_TR[CONTEXT=OptionsD
                 });
         };
 
-        const addWebUIMimeOverride = () => {
-            let extension = window.prompt("QBT_TR(Enter file extension (without dot):)QBT_TR[CONTEXT=OptionsDialog]");
-            if (extension === null)
-                return;
-            extension = normalizeMimeExtension(extension);
-            if (extension.length === 0) {
-                alert("QBT_TR(The extension cannot be empty.)QBT_TR[CONTEXT=OptionsDialog]");
-                return;
-            }
-            if (webUIMimeOverrides.some((entry) => entry.extension === extension)) {
-                alert("QBT_TR(An override for this extension already exists.)QBT_TR[CONTEXT=OptionsDialog]");
-                return;
-            }
+        const openWebUIMimeOverrideDialog = (mode, index = -1, entry = undefined) => {
+            const data = {
+                mode: mode,
+                index: index
+            };
+            if (entry)
+                data.entry = entry;
 
-            let contentType = window.prompt("QBT_TR(Enter content type:)QBT_TR[CONTEXT=OptionsDialog]", "application/octet-stream");
-            if (contentType === null)
-                return;
-            contentType = contentType.trim();
-            if (contentType.length === 0) {
-                alert("QBT_TR(The content type cannot be empty.)QBT_TR[CONTEXT=OptionsDialog]");
-                return;
-            }
-
-            webUIMimeOverrides.push({
-                extension: extension,
-                content_type: contentType
+            new MochaUI.Modal({
+                ...window.qBittorrent.Dialog.baseModalOptions,
+                id: "mimeOverrideDialog",
+                title: "QBT_TR(Custom MIME type overrides)QBT_TR[CONTEXT=OptionsDialog]",
+                data: data,
+                contentURL: "views/mimeOverrideDialog.html",
+                resizable: false,
+                width: 420,
+                height: 200,
+                onContentLoaded: (w) => {
+                    MochaUI.centerWindow(w);
+                }
             });
+        };
+
+        const submitWebUIMimeOverrideDialog = ({ index = -1, extension = "", contentType = "" }) => {
+            const normalizedExtension = normalizeMimeExtension(extension);
+            if (normalizedExtension.length === 0) {
+                return {
+                    success: false,
+                    message: "QBT_TR(The extension cannot be empty.)QBT_TR[CONTEXT=OptionsDialog]",
+                    field: "extension"
+                };
+            }
+
+            const sanitizedContentType = contentType.trim();
+            if (sanitizedContentType.length === 0) {
+                return {
+                    success: false,
+                    message: "QBT_TR(The content type cannot be empty.)QBT_TR[CONTEXT=OptionsDialog]",
+                    field: "contentType"
+                };
+            }
+
+            const isDuplicate = webUIMimeOverrides.some((entry, idx) => {
+                return (idx !== index) && (entry.extension === normalizedExtension);
+            });
+            if (isDuplicate) {
+                return {
+                    success: false,
+                    message: "QBT_TR(An override for this extension already exists.)QBT_TR[CONTEXT=OptionsDialog]",
+                    field: "extension"
+                };
+            }
+
+            const newEntry = {
+                extension: normalizedExtension,
+                content_type: sanitizedContentType
+            };
+
+            if (Number.isInteger(index) && (index >= 0) && (index < webUIMimeOverrides.length))
+                webUIMimeOverrides[index] = newEntry;
+            else
+                webUIMimeOverrides.push(newEntry);
+
             webUIMimeOverridesDirty = true;
             renderWebUIMimeOverrides();
+            return { success: true };
+        };
+
+        const addWebUIMimeOverride = () => {
+            openWebUIMimeOverrideDialog("add");
         };
 
         const editWebUIMimeOverride = (index) => {
@@ -2202,34 +2247,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.)QBT_TR[CONTEXT=OptionsD
             if (!entry)
                 return;
 
-            let extension = window.prompt("QBT_TR(Enter file extension (without dot):)QBT_TR[CONTEXT=OptionsDialog]", entry.extension);
-            if (extension === null)
-                return;
-            extension = normalizeMimeExtension(extension);
-            if (extension.length === 0) {
-                alert("QBT_TR(The extension cannot be empty.)QBT_TR[CONTEXT=OptionsDialog]");
-                return;
-            }
-            if (webUIMimeOverrides.some((item, idx) => (idx !== index) && (item.extension === extension))) {
-                alert("QBT_TR(An override for this extension already exists.)QBT_TR[CONTEXT=OptionsDialog]");
-                return;
-            }
-
-            let contentType = window.prompt("QBT_TR(Enter content type:)QBT_TR[CONTEXT=OptionsDialog]", entry.content_type);
-            if (contentType === null)
-                return;
-            contentType = contentType.trim();
-            if (contentType.length === 0) {
-                alert("QBT_TR(The content type cannot be empty.)QBT_TR[CONTEXT=OptionsDialog]");
-                return;
-            }
-
-            webUIMimeOverrides[index] = {
-                extension: extension,
-                content_type: contentType
-            };
-            webUIMimeOverridesDirty = true;
-            renderWebUIMimeOverrides();
+            openWebUIMimeOverrideDialog("edit", index, entry);
         };
 
         const removeWebUIMimeOverride = (index) => {
@@ -2237,7 +2255,14 @@ Use ';' to split multiple entries. Can use wildcard '*'.)QBT_TR[CONTEXT=OptionsD
             if (!entry)
                 return;
 
-            if (!window.confirm(`QBT_TR(Remove override for ".%1"?)QBT_TR[CONTEXT=OptionsDialog]`.replace("%1", entry.extension)))
+            const defaultLabel = "QBT_TR(This entry)QBT_TR[CONTEXT=OptionsDialog]";
+            const extensionLabel = (entry.extension.length > 0)
+                ? `.${entry.extension}`
+                : defaultLabel;
+            const messageTemplate = "QBT_TR(Remove override for %1?)QBT_TR[CONTEXT=OptionsDialog]";
+            const message = messageTemplate.replace("%1", `"${extensionLabel}"`);
+
+            if (!window.confirm(message))
                 return;
 
             webUIMimeOverrides.splice(index, 1);

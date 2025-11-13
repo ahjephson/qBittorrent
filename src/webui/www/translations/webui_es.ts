@@ -2060,7 +2060,11 @@ Use ';' para dividir múltiples entradas. Puede usar el comodin '*'.</translatio
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Remove override for ".%1"?</source>
+        <source>Remove override for %1?</source>
+        <translation type="unfinished" />
+    </message>
+    <message>
+        <source>This entry</source>
         <translation type="unfinished" />
     </message>
     <message>

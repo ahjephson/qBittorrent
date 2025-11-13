@@ -6634,6 +6634,10 @@ Määritä IPv4- tai IPv6-osoite. Voit käyttää &apos;0.0.0.0&apos; kaikille I
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>This entry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../gui/optionsdialog.ui" line="3653"/>
         <location filename="../../build/src/gui/ui_optionsdialog.h" line="3470"/>
         <source>Edit...</source>

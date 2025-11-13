@@ -6638,6 +6638,10 @@ IPv4나 IPV6 주소를 지정하십시오. IPv4 주소에 &quot;0.0.0.0&quot;을
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>This entry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../gui/optionsdialog.ui" line="3653"/>
         <location filename="../../build/src/gui/ui_optionsdialog.h" line="3470"/>
         <source>Edit...</source>

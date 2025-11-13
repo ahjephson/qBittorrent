@@ -6638,6 +6638,10 @@ Angi en IPv4- eller IPv6-adresse. Du kan oppgi &quot;0.0.0.0&quot; for enhver IP
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>This entry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../gui/optionsdialog.ui" line="3653"/>
         <location filename="../../build/src/gui/ui_optionsdialog.h" line="3470"/>
         <source>Edit...</source>
